@@ -248,8 +248,7 @@ elif selected2 == "Prediction":
             st.header('Table of Predictions')
             # Display the DataFrame with predictions
             st.dataframe(df_disp)
-            
-            
+
             # histogram tenure months dan predicted tenure months to churn dengan px histogram
             fig11 = px.histogram(df, x=['Tenure Months', 'Predicted Tenure Months to Churn'],
                                 title='Tenure Months vs Predicted Tenure Months to Churn')
@@ -334,19 +333,22 @@ elif selected2 == "Prediction":
 
             # Display the prediction
             st.metric(label='Predicted Tenure Month to Churn', value=f"{int(prediction)} Month")    
-
 elif selected2 == "Model Evaluation":
     # load df_churn.csv as df
     df = pd.read_csv('Data/df_churn.csv')
     
     df.sort_values(by=['Tenure Months'], inplace=True, ascending=True)
+    
+    # rename tenure month names variables to tenure month customer
+    df.rename(columns={'Tenure Months': 'Tenure Month Customer'}, inplace=True)
+
     # create index after sort
     df['Index'] = np.arange(len(df))
 
     # show mae and r2 score and show using st.metric
-    mae = round(np.mean(abs(df['Predicted Tenure Months to Churn'] - df['Tenure Months'])), 2)
-    r2 = round(1 - (np.sum((df['Tenure Months'] - df['Predicted Tenure Months to Churn'])**2) / np.sum((df['Tenure Months'] - np.mean(df['Tenure Months']))**2)), 2)
-    mse = round(np.mean((df['Tenure Months'] - df['Predicted Tenure Months to Churn'])**2), 2)
+    mae = round(np.mean(abs(df['Predicted Tenure Months to Churn'] - df['Tenure Month Customer'])), 2)
+    r2 = round(1 - (np.sum((df['Tenure Month Customer'] - df['Predicted Tenure Months to Churn'])**2) / np.sum((df['Tenure Month Customer'] - np.mean(df['Tenure Month Customer']))**2)), 2)
+    mse = round(np.mean((df['Tenure Month Customer'] - df['Predicted Tenure Months to Churn'])**2), 2)
 
     st.header('Model Evaluation')
 
@@ -359,7 +361,7 @@ elif selected2 == "Model Evaluation":
         st.metric(label='R2', value=r2)
         
     # buat line chart 'Predicted Tenure Months to Churn', 'Tenure Months' dengan plotly
-    fig1 = px.scatter(df,x='Index', y=['Predicted Tenure Months to Churn', 'Tenure Months'],
+    fig1 = px.scatter(df,x='Index', y=['Predicted Tenure Months to Churn', 'Tenure Month Customer'],
                         title='Predicted Tenure Months to Churn vs Tenure Months')
 
     fig1.update_layout(legend=dict(
