@@ -1,0 +1,1870 @@
+Location,Device Class,Games Product,Music Product,Education Product,Call Center,Video Product,Use MyApp,Payment Method,Monthly Purchase,CLTV,Total Service,CLTV per Purchase,Cluster,Predicted Tenure Months to Churn,Tenure Months,Index
+Jakarta,High End,No,No,No,No,No,No,Digital Wallet,92429.99999999999,7571200.0,0,81.9127988748242,1,3,1,0
+Bandung,Mid End,No,No,No,No,No,No,Pulsa,59345.0,6095700.0,0,102.71631982475355,2,5,1,1
+Jakarta,High End,No,No,No,No,No,No,Pulsa,91520.00000000001,5509400.000000001,0,60.19886363636364,1,6,1,2
+Bandung,High End,No,No,No,No,No,No,Pulsa,90545.00000000001,7597200.0,0,83.90524048815504,1,7,1,3
+Bandung,Mid End,No,No,No,No,Yes,No,Pulsa,47385.00000000001,6893900.000000001,1,145.4869684499314,2,9,1,4
+Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25544.999999999996,7645300.0,0,299.28753180661585,2,5,1,5
+Bandung,High End,No,Yes,No,No,No,No,Pulsa,97955.0,6869200.0,1,70.12607830126078,1,15,1,6
+Bandung,High End,No,No,No,No,No,No,Pulsa,98085.00000000001,7173400.000000001,0,73.13452617627568,1,9,1,7
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,103545.00000000001,2754700.0000000005,1,26.60389202762084,0,10,1,8
+Jakarta,High End,No,No,No,No,Yes,No,Digital Wallet,104065.0,3825900.0,1,36.764522173641474,0,7,1,9
+Jakarta,High End,No,No,Yes,No,No,No,Pulsa,97890.0,2828800.0,1,28.89774236387782,0,10,1,10
+Bandung,Mid End,No,Yes,No,No,No,No,Pulsa,65975.00000000001,6961500.0,1,105.51724137931032,1,13,1,11
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,59280.0,3948100.0,0,66.60087719298245,4,4,1,12
+Jakarta,High End,No,No,No,No,No,No,Digital Wallet,96785.00000000001,5578300.0,0,57.635997313633304,1,4,1,13
+Bandung,High End,No,No,No,No,No,Yes,Pulsa,103479.99999999999,4040400.0,1,39.04522613065327,0,7,1,14
+Jakarta,Mid End,No,No,No,Yes,No,No,Pulsa,66039.99999999999,5895500.0,1,89.27165354330711,1,7,1,15
+Bandung,High End,No,No,No,No,No,No,Debit,96979.99999999999,7619300.0,0,78.56568364611262,1,12,1,16
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,121615.0,7196800.0,2,59.176910742918224,1,15,1,17
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25869.999999999996,7073300.0,0,273.4170854271357,2,5,1,18
+Jakarta,High End,No,No,No,No,No,No,Pulsa,91780.0,5281900.000000001,0,57.54957507082154,1,6,1,19
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,32240.000000000004,6990100.0,0,216.81451612903223,2,5,1,20
+Jakarta,Mid End,No,No,No,Yes,No,No,Digital Wallet,66625.0,2834000.0,1,42.53658536585366,4,8,1,21
+Bandung,Mid End,No,No,Yes,No,No,No,Digital Wallet,66170.0,6644300.0,1,100.41257367387034,1,6,1,22
+Jakarta,Mid End,Yes,No,No,No,No,No,Pulsa,64414.99999999999,6485700.0,1,100.68617558022201,1,11,1,23
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,26260.0,3979300.0,0,151.53465346534654,4,11,1,24
+Bandung,Mid End,No,No,No,No,Yes,No,Pulsa,46475.0,4356300.0,1,93.73426573426573,4,7,1,25
+Bandung,Mid End,No,No,No,No,No,No,Credit,60060.0,5417100.0,0,90.1948051948052,2,10,1,26
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,25805.000000000004,5036200.0,0,195.1637279596977,4,6,1,27
+Bandung,Mid End,No,No,No,No,No,No,Pulsa,58695.0,7576400.000000001,0,129.08084163898118,2,5,1,28
+Bandung,Mid End,No,Yes,Yes,No,No,Yes,Pulsa,56290.0,6463600.0,3,114.82678983833718,1,28,1,29
+Jakarta,Mid End,No,Yes,No,No,No,No,Digital Wallet,40755.0,4686500.0,1,114.99202551834131,4,7,1,30
+Jakarta,High End,No,No,No,No,No,No,Pulsa,89830.0,7533500.0,0,83.86396526772793,1,7,1,31
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26130.000000000004,6412900.000000001,0,245.4228855721393,2,5,1,32
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,59540.0,7764900.000000001,0,130.41484716157206,2,5,1,33
+Jakarta,Mid End,No,No,No,No,No,Yes,Pulsa,46214.99999999999,5145400.000000001,1,111.33614627285517,4,7,1,34
+Bandung,Mid End,No,No,No,No,No,No,Digital Wallet,59735.00000000001,6354400.000000001,0,106.37649619151252,2,4,1,35
+Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,118104.99999999999,6611800.0,2,55.98238855255917,1,15,1,36
+Bandung,High End,No,No,No,No,No,No,Digital Wallet,90220.00000000001,3701100.0,0,41.02305475504322,4,6,1,37
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,26195.0,5560100.0,0,212.25806451612902,2,12,1,38
+Bandung,High End,No,No,No,No,No,No,Pulsa,91065.0,3508700.0000000005,0,38.529621698786585,4,7,1,39
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,57330.00000000001,7741500.0,0,135.03401360544217,2,4,1,40
+Jakarta,High End,No,No,No,No,No,No,Pulsa,97630.0,5635500.0,0,57.72303595206392,1,7,1,41
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,32825.0,6016400.000000001,0,183.28712871287132,2,5,1,42
+Jakarta,High End,No,No,No,No,No,No,Pulsa,91390.0,7751900.000000001,0,84.82219061166431,1,7,1,43
+Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,27300.0,4878900.000000001,0,178.71428571428575,4,8,1,44
+Bandung,Mid End,No,No,No,No,No,No,Digital Wallet,58630.0,3562000.0,0,60.753880266075384,4,4,1,45
+Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,27169.999999999996,7185100.0,0,264.44976076555025,2,7,1,46
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25544.999999999996,7432100.0,0,290.94147582697207,2,4,1,47
+Jakarta,High End,No,No,No,No,Yes,No,Digital Wallet,110045.00000000001,5539300.0,1,50.33668044890726,1,8,1,48
+Bandung,High End,No,No,No,No,No,Yes,Pulsa,112580.0,6796400.000000001,1,60.36951501154735,1,14,1,49
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,123630.0,7533500.0,2,60.93585699263933,1,15,1,50
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,26260.0,7012200.0,0,267.029702970297,2,15,1,51
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26065.0,4538300.0,0,174.1147132169576,4,4,1,52
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,25869.999999999996,6022900.000000001,0,232.81407035175886,2,8,1,53
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,25935.0,2666300.0,0,102.80701754385964,4,7,1,54
+Jakarta,Mid End,No,Yes,No,No,No,No,Pulsa,66039.99999999999,4833400.000000001,1,73.18897637795278,4,9,1,55
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,103479.99999999999,2858700.0000000005,1,27.625628140703526,0,7,1,56
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,116870.0,7736300.0,2,66.19577308120134,1,14,1,57
+Jakarta,High End,No,No,No,Yes,No,No,Pulsa,98670.00000000001,4405700.0,1,44.65085638998682,0,7,1,58
+Jakarta,High End,No,No,Yes,No,No,No,Pulsa,99060.0,7764900.000000001,1,78.38582677165356,1,11,1,59
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,57720.0,4578600.0,0,79.32432432432432,4,3,1,60
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25025.000000000004,7068100.0,0,282.4415584415584,2,8,1,61
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25675.0,6306300.0,0,245.62025316455697,2,5,1,62
+Jakarta,Mid End,Yes,Yes,No,Yes,No,No,Pulsa,78000.0,5890300.0,3,75.51666666666667,1,22,1,63
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,27105.000000000004,4962100.0,0,183.06954436450837,4,4,1,64
+Jakarta,High End,No,Yes,No,No,No,No,Pulsa,98410.00000000001,6349200.0,1,64.51783355350065,1,14,1,65
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,58890.0,3963700.0000000005,0,67.30684326710818,4,3,1,66
+Jakarta,Mid End,Yes,Yes,No,No,No,No,Pulsa,71370.0,3682900.0,2,51.602914389799636,0,14,1,67
+Jakarta,High End,No,No,No,No,No,No,Digital Wallet,92755.0,7449000.0,0,80.3083391730904,1,4,1,68
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26780.0,4703400.000000001,0,175.6310679611651,4,4,1,69
+Jakarta,High End,No,No,No,No,No,No,Pulsa,90415.0,3954600.0,0,43.73831775700935,4,6,1,70
+Jakarta,Mid End,Yes,No,No,No,No,No,Credit,63180.00000000001,5469100.0,1,86.56378600823044,1,15,1,71
+Bandung,High End,No,Yes,No,No,No,No,Pulsa,97110.00000000001,6099600.0,1,62.81124497991967,1,12,1,72
+Jakarta,Mid End,No,No,Yes,No,No,No,Digital Wallet,64545.0,6939400.000000001,1,107.51258811681774,1,5,1,73
+Bandung,Mid End,No,No,No,No,No,No,Pulsa,31980.000000000004,7498400.000000001,0,234.47154471544715,2,5,1,74
+Jakarta,High End,No,No,No,No,No,No,Pulsa,90415.0,7732400.000000001,0,85.52120776419842,1,7,1,75
+Bandung,High End,No,No,No,No,No,No,Pulsa,90870.0,6977100.0,0,76.78111587982832,1,7,1,76
+Jakarta,Mid End,No,No,No,No,No,No,Debit,57655.0,5978700.0,0,103.6978579481398,2,10,1,77
+Jakarta,High End,No,No,No,No,No,No,Pulsa,95745.0,7075900.000000001,0,73.90359809911746,1,8,1,78
+Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,117715.0,3415100.0,2,29.01159580342352,0,13,1,79
+Bandung,High End,No,No,No,No,No,No,Pulsa,97955.0,5723900.000000001,0,58.43397478433976,1,8,1,80
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,59800.00000000001,5890300.0,0,98.49999999999999,2,4,1,81
+Bandung,Mid End,No,No,No,No,No,No,Digital Wallet,59410.00000000001,4642300.0,0,78.14004376367613,4,3,1,82
+Bandung,Mid End,No,No,No,No,No,No,Credit,58110.00000000001,4810000.0,0,82.77404921700223,4,10,1,83
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,117715.0,5067400.000000001,2,43.048039757040314,0,14,1,84
+Jakarta,High End,No,No,No,No,No,No,Digital Wallet,91195.00000000001,4170400.0000000005,0,45.73057733428367,4,5,1,85
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,59410.00000000001,4143100.0000000005,0,69.73741794310722,4,4,1,86
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,105429.99999999999,2697500.0,1,25.585696670776823,0,8,1,87
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26715.000000000004,4936100.0,0,184.76885644768853,4,4,1,88
+Jakarta,High End,No,No,No,No,No,No,Pulsa,90935.0,4170400.0000000005,0,45.861329521086496,4,6,1,89
+Bandung,High End,No,No,No,No,No,No,Pulsa,95615.0,5679700.0,0,59.401767505098576,1,7,1,90
+Jakarta,High End,No,No,No,No,No,No,Pulsa,90740.0,5400200.0,0,59.51289398280802,1,6,1,91
+Jakarta,Mid End,No,No,No,No,No,Yes,Digital Wallet,72410.00000000001,6017700.0,1,83.10592459605026,1,8,1,92
+Jakarta,Mid End,Yes,No,No,No,No,No,Digital Wallet,65780.0,4780100.0,1,72.66798418972331,4,6,1,93
+Jakarta,High End,No,No,No,No,No,No,Pulsa,90804.99999999999,6572800.0,0,72.38367931281319,1,7,1,94
+Jakarta,Mid End,No,No,No,No,Yes,No,Digital Wallet,69615.0,3023800.0,1,43.43604108309991,4,8,1,95
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25090.000000000004,5545800.0,0,221.0362694300518,2,12,1,96
+Jakarta,Mid End,No,No,No,No,No,Yes,Pulsa,78195.00000000001,5994300.0,1,76.6583541147132,1,9,1,97
+Jakarta,High End,No,No,No,No,No,No,Pulsa,92495.0,6873100.0,0,74.30780042164442,1,8,1,98
+Jakarta,High End,No,No,No,No,No,No,Pulsa,97370.0,3312400.0,0,34.018691588785046,4,8,1,99
+Jakarta,High End,No,No,No,No,No,Yes,Digital Wallet,105104.99999999999,4024800.0,1,38.29313543599258,0,7,1,100
+Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,24830.000000000004,7657000.0,0,308.3769633507853,2,9,1,101
+Bandung,High End,Yes,No,No,No,No,No,Pulsa,104390.0,5379400.000000001,1,51.53175591531757,1,13,1,102
+Bandung,High End,No,No,Yes,No,No,No,Pulsa,97370.0,7694700.0,1,79.02536715620828,1,10,1,103
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,26715.000000000004,7326800.0,0,274.25790754257906,2,9,1,104
+Jakarta,High End,No,No,No,No,No,No,Pulsa,89830.0,3597100.0,0,40.04341534008683,4,7,1,105
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,102440.0,6597500.0,1,64.40355329949239,1,9,1,106
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,32630.000000000004,7068100.0,0,216.61354581673305,2,5,1,107
+Jakarta,Mid End,No,No,Yes,No,No,No,Digital Wallet,65195.00000000001,4469400.000000001,1,68.5543369890329,4,5,1,108
+Jakarta,High End,No,No,No,No,No,No,Digital Wallet,91585.00000000001,4582500.0,0,50.03548616039744,4,3,1,109
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,65585.00000000001,3806400.0,0,58.03766105054508,4,4,1,110
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,32175.000000000004,3901300.0,0,121.25252525252525,4,4,1,111
+Jakarta,High End,No,No,No,No,No,Yes,Credit,104195.00000000001,5131100.0,1,49.245165315034306,1,14,1,112
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,59475.0,4590300.0,0,77.18032786885246,4,4,1,113
+Jakarta,Mid End,No,No,No,No,Yes,No,Pulsa,45110.00000000001,5818800.0,1,128.99135446685878,2,8,1,114
+Jakarta,High End,No,No,No,No,No,No,Pulsa,98800.0,3337100.0,0,33.776315789473685,4,8,1,115
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,129675.00000000001,5478200.0,3,42.24561403508771,3,26,1,116
+Jakarta,Mid End,No,No,Yes,No,No,No,Digital Wallet,65585.00000000001,3647800.0,1,55.61942517343903,4,5,1,117
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Credit,130325.00000000001,7536100.0,3,57.82543640897755,3,42,1,118
+Jakarta,High End,No,No,No,No,No,No,Pulsa,90804.99999999999,5912400.000000001,0,65.11095204008592,1,6,1,119
+Jakarta,High End,No,No,No,No,No,No,Digital Wallet,92104.99999999999,3928600.0,0,42.653493295695135,4,5,1,120
+Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,115830.0,3776500.0,2,32.60381593714927,0,12,1,121
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,27169.999999999996,7047300.0,0,259.37799043062205,2,6,1,122
+Bandung,High End,No,No,No,No,Yes,No,Pulsa,103415.0,6606600.0,1,63.88434946574481,1,9,1,123
+Bandung,High End,No,No,No,No,Yes,No,Pulsa,102830.0,6501300.0,1,63.22376738305942,1,10,1,124
+Jakarta,High End,No,No,No,No,No,No,Pulsa,90479.99999999999,3135600.0,0,34.65517241379311,4,8,1,125
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,101465.0,4495400.000000001,1,44.30493273542602,0,7,1,126
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26260.0,6961500.0,0,265.0990099009901,2,7,1,127
+Bandung,High End,No,No,Yes,No,Yes,No,Pulsa,115440.0,4037800.0,2,34.97747747747748,0,13,1,128
+Bandung,High End,No,No,No,No,No,No,Pulsa,97435.0,3368300.0,0,34.56971314209473,4,9,1,129
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26325.0,3617900.0,0,137.4320987654321,4,5,1,130
+Bandung,High End,No,Yes,No,Yes,Yes,No,Pulsa,119210.00000000001,5614700.0,3,47.09923664122137,3,27,1,131
+Jakarta,High End,No,No,Yes,No,Yes,No,Pulsa,111085.00000000001,6410300.0,2,57.706260971328255,1,14,1,132
+Bandung,Mid End,No,No,No,No,No,No,Digital Wallet,59605.00000000001,7709000.0,0,129.3347873500545,2,2,1,133
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26650.000000000004,3117400.0,0,116.97560975609754,4,5,1,134
+Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,117780.0,3302000.0,2,28.03532008830022,0,13,1,135
+Jakarta,Mid End,No,Yes,No,No,No,No,Pulsa,65715.0,4446000.0,1,67.65578635014836,4,9,1,136
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,31265.0,4110600.0000000005,0,131.47609147609148,4,5,1,137
+Bandung,High End,No,No,No,No,No,No,Pulsa,89050.0,7478900.000000001,0,83.98540145985403,1,7,1,138
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,31525.000000000004,3699800.0,0,117.36082474226802,4,4,1,139
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,33540.0,5049200.0,0,150.54263565891472,4,2,1,140
+Bandung,High End,No,No,No,No,No,No,Digital Wallet,90935.0,6943300.0,0,76.35453895639742,1,4,1,141
+Jakarta,High End,No,No,No,No,No,No,Pulsa,97110.00000000001,4352400.000000001,0,44.81927710843374,4,6,1,142
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,55770.0,6363500.0,0,114.1025641025641,2,5,1,143
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,102245.0,3546400.0,1,34.68531468531469,0,7,1,144
+Bandung,High End,No,No,No,No,No,Yes,Digital Wallet,111540.0,3705000.0,1,33.21678321678322,0,8,1,145
+Bandung,Mid End,No,No,No,Yes,Yes,No,Pulsa,52130.0,7064200.0,2,135.51122194513715,1,12,1,146
+Jakarta,High End,No,No,No,No,No,No,Digital Wallet,91195.00000000001,7504900.000000001,0,82.29508196721311,1,3,1,147
+Jakarta,Mid End,No,No,No,No,No,No,Debit,64935.0,2653300.0,0,40.86086086086086,4,13,1,148
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,102960.00000000001,5671900.000000001,1,55.08838383838384,1,8,1,149
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,32759.999999999996,4154800.0,0,126.82539682539684,4,2,1,150
+Jakarta,High End,Yes,No,No,No,Yes,Yes,Pulsa,123500.0,5835700.0,3,47.252631578947366,3,20,1,151
+Jakarta,Mid End,No,Yes,No,Yes,No,No,Digital Wallet,78130.00000000001,7350200.0,2,94.07653910149749,1,12,1,152
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,102635.0,2649400.0,1,25.813806206459784,0,10,1,153
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,102765.0,4621500.0,1,44.97153700189753,0,7,1,154
+Jakarta,Mid End,Yes,No,Yes,No,No,No,Pulsa,72539.99999999999,7185100.0,2,99.05017921146955,1,17,1,155
+Jakarta,High End,No,Yes,No,No,No,No,Pulsa,98540.0,5122000.0,1,51.97889182058047,1,10,1,156
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,58565.0,5322200.0,0,90.87680355160933,4,3,1,157
+Jakarta,High End,No,No,Yes,No,No,No,Pulsa,99255.0,7296900.000000001,1,73.51669941060905,1,11,1,158
+Jakarta,High End,No,No,No,No,No,No,Digital Wallet,96525.0,6175000.0,0,63.97306397306397,1,5,1,159
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,58890.0,5938400.000000001,0,100.83885209713026,2,4,1,160
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,122200.0,5428800.0,2,44.42553191489362,0,15,1,161
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,31785.0,2757300.0,0,86.74846625766871,4,4,1,162
+Jakarta,Mid End,Yes,No,No,Yes,No,No,Pulsa,70135.0,3602300.0,2,51.36237256719185,0,14,1,163
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,59605.00000000001,4817800.0,0,80.8287895310796,4,3,1,164
+Jakarta,High End,No,No,No,No,No,No,Pulsa,89635.0,7337200.0,0,81.85641769398114,1,8,1,165
+Jakarta,High End,No,No,No,No,No,No,Pulsa,90740.0,2759900.0,0,30.415472779369626,4,8,1,166
+Bandung,Mid End,No,No,No,No,No,No,Pulsa,58630.0,5848700.0,0,99.7560975609756,2,5,1,167
+Jakarta,High End,No,No,No,No,No,No,Digital Wallet,92040.0,5071300.0,0,55.09887005649718,1,4,1,168
+Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,26065.0,6123000.0,0,234.91271820448878,2,14,1,169
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,104325.0,3252600.0,1,31.177570093457945,0,10,1,170
+Jakarta,Mid End,No,No,Yes,Yes,No,No,Digital Wallet,80664.99999999999,3818100.0,2,47.3327961321515,0,9,1,171
+Jakarta,High End,No,No,No,No,No,No,Digital Wallet,90220.00000000001,3125200.0000000005,0,34.63976945244957,4,6,1,172
+Jakarta,High End,No,Yes,No,No,No,No,Pulsa,96655.0,7322900.000000001,1,75.76328177538669,1,14,1,173
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,57785.00000000001,6342700.0,0,109.76377952755904,2,3,1,174
+Jakarta,High End,No,No,No,No,No,No,Pulsa,91130.0,2609100.0,0,28.63052781740371,4,5,1,175
+Jakarta,High End,No,Yes,No,No,Yes,No,Pulsa,109590.0,2823600.0,2,25.765124555160142,0,18,1,176
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,25935.0,6318000.0,0,243.60902255639098,2,13,1,177
+Jakarta,High End,No,No,No,No,No,No,Pulsa,90155.0,7534800.0,0,83.57606344628695,1,7,1,178
+Jakarta,Mid End,No,No,No,No,Yes,No,Pulsa,77805.0,5222100.0,1,67.11779448621554,1,6,1,179
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,65715.0,4364100.0,0,66.40949554896143,4,3,1,180
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,104715.0,5554900.000000001,1,53.04779639975172,1,8,1,181
+Jakarta,High End,No,No,No,No,No,No,Pulsa,90479.99999999999,4469400.000000001,0,49.39655172413795,4,5,1,182
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26000.0,4754100.0,0,182.85,4,4,1,183
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25350.0,6774300.0,0,267.2307692307692,2,6,1,184
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,110565.0,3867500.0,1,34.97942386831276,0,9,1,185
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26195.0,5333900.000000001,0,203.62282878411915,2,4,1,186
+Jakarta,High End,No,No,No,No,No,No,Pulsa,90870.0,4353700.0,0,47.911301859799714,4,5,1,187
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,32759.999999999996,7394400.000000001,0,225.71428571428578,2,5,1,188
+Jakarta,High End,No,No,No,No,No,No,Pulsa,90025.0,5682300.0,0,63.11913357400722,1,6,1,189
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25285.0,3724500.0,0,147.30077120822622,4,9,1,190
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25285.0,7393100.0,0,292.3907455012853,2,8,1,191
+Jakarta,High End,No,No,No,No,No,No,Pulsa,96460.00000000001,6089200.0,0,63.12668463611859,1,8,1,192
+Jakarta,High End,No,No,No,No,No,No,Pulsa,91000.0,3230500.0,0,35.5,4,8,1,193
+Jakarta,High End,No,No,No,No,No,No,Pulsa,93145.00000000001,7376200.0,0,79.19050942079552,1,8,1,194
+Jakarta,High End,No,No,No,No,No,No,Pulsa,93145.00000000001,3090100.0,0,33.17515701325889,4,8,1,195
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26325.0,3846700.0000000005,0,146.12345679012347,4,4,1,196
+Jakarta,High End,No,No,No,No,No,No,Pulsa,90545.00000000001,6163300.0,0,68.0689160086145,1,7,1,197
+Jakarta,High End,No,No,No,No,No,No,Pulsa,91325.0,5372900.000000001,0,58.832740213523145,1,6,1,198
+Jakarta,Mid End,No,No,Yes,No,No,Yes,Pulsa,76960.00000000001,6526000.0,2,84.79729729729728,1,15,1,199
+Jakarta,High End,No,No,No,No,No,No,Pulsa,92300.0,6948500.0,0,75.28169014084507,1,7,1,200
+Bandung,High End,No,No,No,No,No,No,Pulsa,89245.0,3967600.0,0,44.457392571012385,4,7,1,201
+Bandung,High End,No,No,No,No,No,No,Pulsa,92104.99999999999,3736200.0000000005,0,40.564573041637274,4,7,1,202
+Bandung,High End,Yes,No,No,No,No,No,Digital Wallet,95679.99999999999,3334500.0,1,34.850543478260875,0,9,1,203
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,58565.0,3437200.0000000005,0,58.69034406215317,4,3,1,204
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,106535.00000000001,7308600.0,1,68.60280658938376,1,13,1,205
+Bandung,Mid End,No,No,No,No,No,No,Pulsa,32890.0,7047300.0,0,214.2687747035573,2,6,1,206
+Bandung,High End,No,No,No,No,No,No,Pulsa,91000.0,5322200.0,0,58.48571428571429,1,7,1,207
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26130.000000000004,5705700.0,0,218.35820895522386,2,5,1,208
+Jakarta,High End,No,No,No,No,No,No,Digital Wallet,90870.0,2730000.0,0,30.042918454935624,4,6,1,209
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,105040.0,5751200.0,1,54.75247524752475,1,11,1,210
+Bandung,High End,No,No,No,No,No,No,Digital Wallet,91780.0,4339400.000000001,0,47.28045325779038,4,5,1,211
+Bandung,Mid End,No,No,No,No,No,No,Debit,32240.000000000004,6613100.0,0,205.12096774193546,2,11,1,212
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,32695.0,7001800.0,0,214.15506958250498,2,5,1,213
+Jakarta,High End,No,No,No,No,No,No,Pulsa,99385.0,4891900.000000001,0,49.22171353826031,1,6,1,214
+Jakarta,High End,No,No,No,No,No,No,Pulsa,96850.00000000001,2620800.0,0,27.060402684563755,4,8,1,215
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26650.000000000004,4966000.0,0,186.34146341463412,4,4,1,216
+Jakarta,High End,No,No,No,No,No,No,Pulsa,96720.00000000001,7057700.0,0,72.97043010752687,1,8,1,217
+Bandung,Mid End,No,Yes,No,No,Yes,No,Pulsa,52260.00000000001,7576400.000000001,2,144.97512437810946,1,18,1,218
+Bandung,Mid End,Yes,No,No,No,No,No,Digital Wallet,63115.0,7393100.0,1,117.13697219361482,1,6,1,219
+Jakarta,High End,No,No,No,No,No,No,Pulsa,89895.00000000001,5432700.0,0,60.43383947939262,1,6,1,220
+Bandung,Mid End,No,No,No,No,No,Yes,Pulsa,73125.0,3984500.0,1,54.48888888888889,4,6,1,221
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,27235.0,5570500.0,0,204.53460620525058,2,5,1,222
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,103610.00000000001,2685800.0,1,25.922208281053948,0,7,1,223
+Jakarta,High End,No,No,No,No,No,No,Pulsa,90025.0,5938400.000000001,0,65.96389891696752,1,6,1,224
+Jakarta,High End,Yes,No,Yes,No,Yes,Yes,Pulsa,133185.0,6254300.0,4,46.95949243533431,3,34,1,225
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25480.000000000004,4482400.000000001,0,175.9183673469388,4,5,1,226
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25869.999999999996,4356300.0,0,168.391959798995,4,4,1,227
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,122720.00000000001,7493200.0,3,61.0593220338983,3,19,1,228
+Jakarta,Mid End,No,No,No,No,Yes,No,Credit,71500.0,4951700.0,1,69.25454545454545,4,11,1,229
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,116090.0,3987100.0,2,34.34490481522956,0,13,1,230
+Jakarta,High End,No,Yes,No,No,No,Yes,Credit,118104.99999999999,4451200.0,2,37.68849752339021,0,20,1,231
+Jakarta,Mid End,No,Yes,No,No,No,No,Digital Wallet,65845.0,3160300.0,1,47.99605133267522,4,9,1,232
+Jakarta,High End,No,No,No,No,No,No,Pulsa,90350.00000000001,4374500.0,0,48.41726618705035,4,5,1,233
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,103415.0,7270900.000000001,1,70.30798240100566,1,9,1,234
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,24505.000000000004,5371600.0,0,219.2042440318302,2,11,1,235
+Jakarta,High End,No,No,No,No,No,No,Pulsa,89960.00000000001,5294900.000000001,0,58.858381502890175,1,6,1,236
+Bandung,High End,No,No,No,No,No,No,Pulsa,90545.00000000001,6835400.000000001,0,75.49174443646805,1,8,1,237
+Bandung,High End,No,Yes,Yes,No,No,No,Pulsa,106990.0,5561400.000000001,2,51.980558930741196,1,20,1,238
+Jakarta,High End,No,No,No,No,No,No,Digital Wallet,92170.00000000001,6160700.0,0,66.84062059238363,1,5,1,239
+Jakarta,High End,No,No,No,No,Yes,Yes,Digital Wallet,115895.00000000001,4059900.0,2,35.030846887268645,0,12,1,240
+Bandung,Mid End,No,No,No,No,No,No,Pulsa,32565.000000000004,2754700.0000000005,0,84.59081836327346,4,6,1,241
+Bandung,Mid End,No,No,Yes,No,No,No,Pulsa,63635.00000000001,5086900.000000001,1,79.93871297242084,4,7,1,242
+Bandung,Mid End,No,No,No,No,No,No,Pulsa,58890.0,7506200.0,0,127.46136865342163,2,5,1,243
+Jakarta,High End,No,No,No,No,No,No,Pulsa,96850.00000000001,7220200.0,0,74.55033557046978,1,8,1,244
+Jakarta,High End,No,No,Yes,No,No,No,Debit,95550.0,5691400.000000001,1,59.56462585034014,1,15,1,245
+Jakarta,High End,No,No,No,No,No,No,Digital Wallet,93015.0,7460700.0,0,80.20964360587003,1,4,1,246
+Jakarta,High End,No,No,No,No,Yes,Yes,Digital Wallet,124345.00000000001,4514900.000000001,2,36.30946157867225,0,13,1,247
+Bandung,High End,Yes,No,No,No,No,Yes,Digital Wallet,109979.99999999999,3229200.0000000005,2,29.361702127659584,0,14,1,248
+Bandung,Mid End,No,No,No,No,Yes,No,Digital Wallet,71760.0,4729400.000000001,1,65.9057971014493,4,5,1,249
+Bandung,Mid End,No,No,No,No,No,No,Digital Wallet,57135.00000000001,4209400.000000001,0,73.67463026166098,4,3,1,250
+Bandung,Mid End,No,No,No,No,No,No,Debit,58630.0,6349200.0,0,108.29268292682927,2,11,1,251
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,103155.0,3227900.0,1,31.29174543163201,0,9,1,252
+Jakarta,High End,No,No,No,No,No,No,Pulsa,90155.0,3695900.0,0,40.99495313626532,4,6,1,253
+Jakarta,High End,No,No,No,No,No,No,Pulsa,100295.00000000001,3582800.0,0,35.72261827608554,4,8,1,254
+Jakarta,High End,No,No,No,No,No,No,Pulsa,90479.99999999999,2693600.0,0,29.77011494252874,4,8,1,255
+Jakarta,Mid End,Yes,No,No,No,No,No,Debit,39650.0,6722300.0,1,169.54098360655738,2,16,1,256
+Jakarta,Mid End,No,No,No,No,No,Yes,Debit,45825.0,3312400.0,1,72.28368794326241,4,13,1,257
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26650.000000000004,4850300.0,0,181.99999999999997,4,4,1,258
+Bandung,High End,No,Yes,No,No,No,No,Digital Wallet,104260.0,3972800.0,1,38.104738154613464,0,11,1,259
+Bandung,High End,No,No,No,No,No,No,Pulsa,90675.0,6574100.0,0,72.50179211469533,1,8,1,260
+Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,122979.99999999999,5242900.000000001,2,42.63213530655393,0,15,1,261
+Jakarta,Mid End,No,Yes,No,No,No,No,Pulsa,39260.0,3789500.0,1,96.52317880794702,4,9,1,262
+Bandung,Mid End,No,No,No,No,No,Yes,Digital Wallet,71175.0,3398200.0000000005,1,47.74429223744293,4,7,1,263
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26195.0,6281600.0,0,239.8014888337469,2,5,1,264
+Jakarta,Mid End,No,No,Yes,No,No,Yes,Pulsa,51545.0,7062900.000000001,2,137.0239596469105,1,13,1,265
+Jakarta,High End,No,No,No,No,No,No,Pulsa,96785.00000000001,3112200.0000000005,0,32.155809267965076,4,8,1,266
+Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25220.0,5397600.0,0,214.02061855670104,2,13,1,267
+Jakarta,High End,No,No,No,No,No,No,Digital Wallet,91845.00000000001,4501900.000000001,0,49.01627742392074,4,4,1,268
+Jakarta,High End,No,No,No,No,No,No,Pulsa,98475.00000000001,7242300.0,0,73.54455445544554,1,9,1,269
+Jakarta,High End,No,No,No,No,No,No,Debit,90350.00000000001,4254900.000000001,0,47.093525179856115,4,12,1,270
+Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25480.000000000004,5466500.0,0,214.54081632653057,2,7,1,271
+Bandung,High End,No,No,No,No,No,No,Debit,90610.00000000001,6006000.0,0,66.28407460545192,1,13,1,272
+Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,124085.00000000001,7750600.0,2,62.462022001047664,1,16,1,273
+Bandung,High End,No,No,No,Yes,Yes,No,Pulsa,110240.0,3415100.0,2,30.97877358490566,0,14,1,274
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,59735.00000000001,5931900.000000001,0,99.30359085963003,2,2,1,275
+Jakarta,High End,No,No,No,No,No,No,Pulsa,91195.00000000001,3672500.0,0,40.27084818246614,4,7,1,276
+Jakarta,High End,No,No,Yes,No,Yes,No,Credit,111215.0,5157100.0,2,46.37054354178843,0,18,1,277
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,111865.0,6295900.000000001,1,56.28123184195236,1,12,1,278
+Bandung,High End,No,No,No,No,No,Yes,Pulsa,103870.0,4412200.0,1,42.47809762202753,0,7,1,279
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,57720.0,4165200.0,0,72.16216216216216,4,3,1,280
+Bandung,Mid End,No,No,No,No,No,No,Pulsa,32240.000000000004,6306300.0,0,195.6048387096774,2,6,1,281
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,114854.99999999999,5530200.0,2,48.14940577249576,1,13,1,282
+Bandung,Mid End,No,Yes,No,No,No,No,Debit,38935.0,5894200.0,1,151.3856427378965,2,16,1,283
+Jakarta,High End,No,No,Yes,No,No,Yes,Pulsa,110500.0,3445000.0,2,31.176470588235293,0,13,1,284
+Jakarta,High End,No,No,No,No,No,No,Pulsa,96720.00000000001,4457700.0,0,46.088709677419345,4,6,1,285
+Jakarta,High End,No,No,No,No,No,No,Pulsa,89960.00000000001,3428100.0,0,38.106936416184965,4,7,1,286
+Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26260.0,5456100.0,0,207.77227722772278,2,6,1,287
+Jakarta,Mid End,No,No,No,No,No,Yes,Pulsa,46670.0,6171100.0,1,132.2284122562674,2,8,1,288
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,59345.0,3380000.0,0,56.955093099671416,4,5,1,289
+Bandung,Mid End,No,No,Yes,No,Yes,Yes,Pulsa,65455.0,5883800.0,3,89.89076464746772,1,18,1,290
+Jakarta,High End,No,No,No,No,No,No,Digital Wallet,91585.00000000001,5153200.0,0,56.266855926188775,1,4,1,291
+Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25675.0,3394300.0,0,132.20253164556962,4,6,1,292
+Jakarta,Mid End,No,No,No,No,No,Yes,Pulsa,46085.00000000001,2991300.0,1,64.9083215796897,4,7,1,293
+Bandung,High End,No,No,No,No,No,No,Pulsa,91390.0,5865600.0,0,64.18207681365575,1,7,1,294
+Bandung,High End,No,No,Yes,No,No,No,Digital Wallet,103415.0,7242300.0,1,70.03142677561283,1,8,1,295
+Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,117975.00000000001,7098000.0,2,60.16528925619834,1,15,1,296
+Bandung,Mid End,No,No,No,No,No,No,Digital Wallet,65130.00000000001,6211400.000000001,0,95.36926147704591,2,3,1,297
+Jakarta,High End,No,No,Yes,No,No,No,Debit,97890.0,6372600.0,1,65.0996015936255,1,17,1,298
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,131885.00000000003,5707000.0,3,43.272548053228185,3,26,1,299
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,109850.00000000001,5642000.0,1,51.360946745562124,1,10,1,300
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,103935.0,6259500.0,1,60.22514071294559,1,9,1,301
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,25090.000000000004,4206800.0,0,167.6683937823834,4,10,1,302
+Jakarta,High End,No,No,No,No,No,No,Digital Wallet,91975.00000000001,5151900.000000001,0,56.014134275618375,1,4,1,303
+Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26130.000000000004,7471100.0,0,285.9203980099502,2,6,1,304
+Bandung,Mid End,No,No,Yes,No,No,No,Digital Wallet,65585.00000000001,3153800.0,1,48.08721506442021,4,7,1,305
+Jakarta,High End,No,No,Yes,No,No,No,Digital Wallet,96979.99999999999,5018000.0,1,51.74262734584451,1,6,1,306
+Jakarta,Mid End,No,No,Yes,No,No,No,Pulsa,70655.0,5475600.0,1,77.49770009199632,1,8,1,307
+Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,122005.0,3918200.0000000005,2,32.115077250932345,0,12,1,308
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,59410.00000000001,2983500.0,0,50.218818380743976,4,4,1,309
+Jakarta,Mid End,No,No,No,No,Yes,Yes,Digital Wallet,58890.0,6440200.0,2,109.3598233995585,1,11,1,310
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,116415.0,6494800.0,2,55.79006141820212,1,15,1,311
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,32565.000000000004,6294600.0,0,193.29341317365268,2,3,1,312
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,30485.0,5872100.0,0,192.6226012793177,2,4,1,313
+Jakarta,Mid End,Yes,No,No,No,No,No,Digital Wallet,38610.0,4397900.000000001,1,113.90572390572393,4,5,1,314
+Jakarta,High End,No,No,No,No,No,No,Pulsa,97890.0,4674800.0,0,47.755644090305445,4,6,1,315
+Jakarta,Mid End,No,No,No,No,No,Yes,Pulsa,72020.0,2982200.0000000005,1,41.407942238267154,4,8,1,316
+Jakarta,Mid End,No,No,Yes,No,No,No,Pulsa,65650.0,2700100.0,1,41.12871287128713,4,9,1,317
+Jakarta,High End,No,No,No,No,No,No,Pulsa,91715.0,2789800.0,0,30.41814316087881,4,8,1,318
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25740.000000000004,7280000.0,0,282.8282828282828,2,5,1,319
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,103025.0,7192900.000000001,1,69.81703470031546,1,11,1,320
+Jakarta,Mid End,No,No,No,No,No,No,Debit,58370.0,3421600.0,0,58.619153674832965,4,11,1,321
+Jakarta,High End,No,No,No,No,No,No,Digital Wallet,97565.0,6289400.000000001,0,64.46369087275151,1,6,1,322
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,111410.00000000001,6344000.0,1,56.94282380396732,1,12,1,323
+Bandung,High End,Yes,No,No,No,No,No,Pulsa,106210.00000000001,7246200.0,1,68.22521419828641,1,16,1,324
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,104000.0,2659800.0,1,25.575,0,8,1,325
+Jakarta,High End,No,No,No,No,No,No,Pulsa,92300.0,5469100.0,0,59.25352112676056,1,6,1,326
+Jakarta,Mid End,No,No,No,Yes,No,No,Pulsa,67860.0,5379400.000000001,1,79.27203065134101,1,6,1,327
+Jakarta,High End,No,No,No,No,No,Yes,Digital Wallet,111085.00000000001,3013400.0,1,27.126974839087183,0,8,1,328
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26260.0,5622500.0,0,214.1089108910891,2,5,1,329
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,57720.0,5287100.0,0,91.59909909909909,4,4,1,330
+Jakarta,High End,No,No,No,No,No,No,Pulsa,91390.0,6450600.0,0,70.5832147937411,1,8,1,331
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25869.999999999996,5522400.000000001,0,213.46733668341716,2,5,1,332
+Jakarta,High End,No,No,No,No,Yes,No,Debit,103155.0,4539600.0,1,44.007561436672965,0,13,1,333
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,57395.0,6204900.000000001,0,108.10872027180069,2,3,1,334
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,60190.0,3922100.0,0,65.16198704103672,4,3,1,335
+Bandung,High End,No,No,No,No,No,No,Pulsa,90545.00000000001,3143400.0,0,34.71643933955491,4,8,1,336
+Bandung,High End,No,Yes,No,No,No,Yes,Pulsa,111800.0,6966700.0,2,62.31395348837209,1,19,1,337
+Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26260.0,7043400.000000001,0,268.21782178217825,2,7,1,338
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,101985.00000000001,2780700.0000000005,1,27.265774378585085,0,10,1,339
+Jakarta,High End,Yes,No,No,No,Yes,Yes,Pulsa,124280.0,5318300.0,3,42.7928870292887,0,21,1,340
+Bandung,High End,No,No,Yes,No,Yes,No,Pulsa,110304.99999999999,4011800.0,2,36.37006482027107,0,13,1,341
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25415.000000000004,4622800.0,0,181.8925831202046,4,5,1,342
+Bandung,High End,No,No,No,No,No,No,Pulsa,90479.99999999999,2796300.0,0,30.905172413793107,4,8,1,343
+Bandung,High End,No,No,No,No,No,No,Digital Wallet,89830.0,6212700.0,0,69.16063675832127,1,5,1,344
+Jakarta,High End,No,No,No,No,No,No,Pulsa,92755.0,3404700.0000000005,0,36.706377014716196,4,7,1,345
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26195.0,6420700.0,0,245.11166253101737,2,5,1,346
+Jakarta,High End,No,No,No,No,No,No,Debit,90675.0,3771300.0,0,41.59139784946237,4,13,1,347
+Jakarta,High End,Yes,No,No,No,No,No,Digital Wallet,97890.0,4217200.0,1,43.081009296148736,0,8,1,348
+Jakarta,High End,No,Yes,No,No,Yes,No,Pulsa,117780.0,3776500.0,2,32.06401766004415,0,17,1,349
+Jakarta,High End,No,No,No,No,No,No,Pulsa,91650.0,5359900.000000001,0,58.48226950354611,1,6,1,350
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25610.0,7419100.0,0,289.6954314720812,2,4,1,351
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,103350.00000000001,5837000.0,1,56.47798742138364,1,8,1,352
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,118690.0,3082300.0,2,25.96933187294633,0,14,1,353
+Jakarta,Mid End,No,No,No,Yes,No,No,Credit,64025.00000000001,5821400.000000001,1,90.9238578680203,1,12,1,354
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26390.0,4979000.0,0,188.66995073891624,4,4,1,355
+Jakarta,High End,No,Yes,No,No,No,No,Pulsa,97110.00000000001,7774000.0,1,80.05354752342703,1,15,1,356
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,32630.000000000004,6199700.0,0,189.99999999999997,2,3,1,357
+Jakarta,Mid End,No,No,No,Yes,No,No,Digital Wallet,64870.00000000001,4046900.0,1,62.38476953907815,4,4,1,358
+Jakarta,Mid End,No,No,No,No,No,Yes,Pulsa,71500.0,6340100.0,1,88.67272727272727,1,10,1,359
+Jakarta,High End,No,Yes,No,No,No,No,Pulsa,102895.00000000001,5515900.000000001,1,53.60707517372079,1,12,1,360
+Jakarta,High End,No,No,No,No,No,No,Pulsa,91130.0,4817800.0,0,52.867332382310984,4,4,1,361
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,59020.0,2818400.0,0,47.75330396475771,4,4,1,362
+Jakarta,High End,No,Yes,No,No,No,No,Pulsa,94900.0,5350800.0,1,56.38356164383562,1,11,1,363
+Jakarta,Mid End,No,No,No,No,Yes,No,Digital Wallet,69550.0,6622200.0,1,95.21495327102804,1,5,1,364
+Jakarta,Mid End,No,No,No,No,No,Yes,Digital Wallet,45565.0,4817800.0,1,105.73466476462197,4,5,1,365
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,121290.0,3351400.0,2,27.631296891747052,0,13,1,366
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26520.0,4761900.000000001,0,179.5588235294118,4,4,1,367
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,104650.0,3554200.0000000005,1,33.96273291925466,0,8,1,368
+Jakarta,High End,No,No,No,No,No,No,Digital Wallet,90415.0,3629600.0,0,40.14378145219267,4,5,1,369
+Jakarta,Mid End,No,Yes,No,Yes,No,Yes,Digital Wallet,58045.0,4815200.0,3,82.95632698768198,0,16,1,370
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,33410.00000000001,5323500.0,0,159.33852140077818,2,2,1,371
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,25285.0,5002400.000000001,0,197.84061696658102,4,11,1,372
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,58890.0,2980900.0,0,50.618101545253865,4,5,1,373
+Jakarta,High End,No,No,No,No,No,No,Pulsa,96655.0,3658200.0000000005,0,37.84801613987896,4,7,1,374
+Jakarta,High End,No,No,No,No,No,No,Pulsa,90935.0,6585800.0,0,72.42315939957112,1,7,1,375
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,110500.0,7382700.0,1,66.81176470588235,1,14,1,376
+Jakarta,High End,No,Yes,No,No,No,No,Credit,96590.0,7794800.0,1,80.69986541049798,1,19,1,377
+Jakarta,High End,No,Yes,No,No,No,No,Digital Wallet,99320.00000000001,3153800.0,1,31.753926701570677,0,12,1,378
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,131039.99999999999,4066400.0,3,31.031746031746035,0,21,1,379
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,111215.0,7165600.0,1,64.4301578024547,1,12,2,380
+Jakarta,High End,No,No,No,No,No,No,Digital Wallet,98085.00000000001,4355000.0,0,44.4002650762094,4,6,2,381
+Jakarta,Mid End,No,Yes,No,No,No,No,Credit,65195.00000000001,7099300.0,1,108.89332003988035,1,18,2,382
+Bandung,Mid End,No,No,No,No,No,Yes,Pulsa,45630.0,3435900.0,1,75.2991452991453,4,6,2,383
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,64220.0,6649500.0,0,103.5425101214575,2,6,2,384
+Jakarta,High End,No,No,No,No,No,No,Pulsa,90479.99999999999,5974800.0,0,66.0344827586207,1,6,2,385
+Jakarta,Mid End,Yes,No,No,No,Yes,Yes,Pulsa,91975.00000000001,4234100.0,3,46.03533568904593,0,18,2,386
+Bandung,High End,No,No,No,No,No,Yes,Pulsa,111800.0,5909800.0,1,52.86046511627907,1,13,2,387
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,104260.0,5695300.0,1,54.62593516209476,1,8,2,388
+Jakarta,Mid End,No,No,No,No,Yes,Yes,Digital Wallet,85410.00000000001,5544500.0,2,64.91628614916284,1,10,2,389
+Jakarta,Mid End,No,No,Yes,No,No,No,Pulsa,39519.99999999999,5202600.0,1,131.6447368421053,4,6,2,390
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26845.0,4998500.0,0,186.19854721549638,4,4,2,391
+Jakarta,High End,No,No,Yes,No,No,No,Pulsa,102115.0,6763900.000000001,1,66.23806492679823,1,11,2,392
+Jakarta,High End,No,No,Yes,No,No,No,Pulsa,98540.0,6851000.0,1,69.52506596306068,1,10,2,393
+Bandung,High End,No,No,No,No,No,No,Credit,91910.00000000001,6912100.0,0,75.20509193776519,1,13,2,394
+Jakarta,High End,No,Yes,Yes,Yes,No,Yes,Credit,123630.0,5831800.0,4,47.171398527865406,3,39,2,395
+Jakarta,Mid End,Yes,No,No,No,No,No,Pulsa,62140.0,5374200.0,1,86.48535564853556,4,9,2,396
+Jakarta,Mid End,No,No,No,Yes,No,No,Debit,38805.0,5548400.000000001,1,142.98157453936352,2,11,2,397
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,104715.0,3712800.0,1,35.456238361266294,0,7,2,398
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,102700.0,6810700.0,1,66.31645569620254,1,9,2,399
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,25090.000000000004,2962700.0000000005,0,118.08290155440415,4,15,2,400
+Bandung,High End,No,No,No,No,No,No,Credit,95225.00000000001,3794700.0000000005,0,39.84982935153584,4,13,2,401
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,111410.00000000001,2843100.0,1,25.51925320886814,0,9,2,402
+Jakarta,High End,No,No,Yes,No,No,Yes,Pulsa,115115.0,4790500.0,2,41.61490683229814,0,11,2,403
+Jakarta,High End,No,No,No,No,No,No,Pulsa,91910.00000000001,5926700.0,0,64.48373408769447,1,7,2,404
+Bandung,High End,Yes,Yes,No,Yes,No,No,Pulsa,112125.0,4587700.0,3,40.915942028985505,0,21,2,405
+Bandung,High End,No,No,Yes,No,No,No,Pulsa,99320.00000000001,5642000.0,1,56.80628272251308,1,10,2,406
+Jakarta,Mid End,No,No,No,No,Yes,Yes,Pulsa,57980.00000000001,7126600.0,2,122.91479820627801,1,14,2,407
+Bandung,High End,No,No,No,No,No,Yes,Pulsa,104975.00000000001,2828800.0,1,26.947368421052627,0,8,2,408
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,31785.0,7244900.000000001,0,227.9345603271984,2,3,2,409
+Bandung,High End,No,No,No,No,No,No,Debit,91260.0,3597100.0,0,39.41595441595442,4,14,2,410
+Jakarta,High End,No,Yes,No,No,Yes,No,Debit,113295.00000000001,5393700.0,2,47.60757314974182,0,24,2,411
+Bandung,Mid End,No,No,Yes,No,Yes,Yes,Pulsa,64025.00000000001,7507500.0,3,117.25888324873095,1,20,2,412
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,122005.0,6497400.000000001,2,53.255194459243484,1,15,2,413
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,104260.0,3099200.0000000005,1,29.725685785536164,0,8,2,414
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,31720.0,3425500.0,0,107.99180327868852,4,3,2,415
+Jakarta,Mid End,Yes,Yes,No,No,No,No,Digital Wallet,71305.0,3920800.0,2,54.98632634457611,0,12,2,416
+Bandung,Mid End,No,No,No,No,No,No,Digital Wallet,59605.00000000001,4995900.000000001,0,83.81679389312977,4,3,2,417
+Jakarta,Mid End,Yes,Yes,No,No,No,No,Digital Wallet,70005.00000000001,4210700.0,2,60.14856081708448,0,12,2,418
+Jakarta,High End,Yes,No,No,No,No,No,Pulsa,98410.00000000001,6078800.0,1,61.77014531043592,1,15,2,419
+Bandung,High End,No,No,No,No,No,No,Debit,90675.0,7367100.0,0,81.24731182795699,1,13,2,420
+Bandung,Mid End,No,Yes,No,No,No,No,Credit,63765.0,3848000.0,1,60.34658511722732,4,16,2,421
+Jakarta,High End,Yes,No,No,No,No,No,Pulsa,96720.00000000001,5541900.000000001,1,57.29838709677419,1,12,2,422
+Jakarta,Mid End,No,Yes,Yes,Yes,No,No,Credit,52520.0,4706000.0,3,89.60396039603961,0,29,2,423
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,105235.00000000001,4592900.000000001,1,43.644224830142065,0,7,2,424
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,103479.99999999999,5618600.0,1,54.29648241206031,1,10,2,425
+Jakarta,High End,No,No,No,No,Yes,No,Digital Wallet,103545.00000000001,6606600.0,1,63.80414312617702,1,6,2,426
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,58110.00000000001,6003400.000000001,0,103.31096196868009,2,5,2,427
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,122200.0,7239700.0,2,59.244680851063826,1,15,2,428
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,123695.00000000001,3138200.0000000005,2,25.37046768260641,0,14,2,429
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,124345.00000000001,6931600.0,3,55.744903293256655,3,32,2,430
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,111345.00000000001,5041400.000000001,1,45.27729130180969,0,9,2,431
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,117520.00000000001,5404100.0,2,45.98451327433628,0,15,2,432
+Bandung,Mid End,No,No,No,No,No,No,Digital Wallet,58045.0,6051500.0,0,104.25531914893617,2,3,2,433
+Bandung,High End,No,No,No,No,No,No,Pulsa,92235.00000000001,7007000.0,0,75.96899224806201,1,8,2,434
+Bandung,High End,No,No,Yes,No,No,Yes,Pulsa,111604.99999999999,4254900.000000001,2,38.124635993011076,0,12,2,435
+Jakarta,High End,No,No,No,No,No,No,Pulsa,91455.0,3472300.0,0,37.96730632551528,4,7,2,436
+Bandung,High End,No,No,No,No,No,No,Digital Wallet,97304.99999999999,6991400.000000001,0,71.85036740146963,1,5,2,437
+Jakarta,High End,No,No,No,No,No,No,Pulsa,98670.00000000001,2731300.0,0,27.681159420289852,4,9,2,438
+Bandung,High End,No,No,Yes,Yes,No,No,Pulsa,103804.99999999999,4264000.0,2,41.07701941139637,0,13,2,439
+Bandung,High End,No,No,No,No,No,Yes,Debit,103675.0,5249400.000000001,1,50.6332288401254,1,15,2,440
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,124604.99999999999,4927000.0,3,39.54094940010433,0,18,2,441
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26455.000000000004,7315100.0,0,276.5110565110565,2,5,2,442
+Bandung,High End,No,No,No,No,Yes,Yes,Debit,116415.0,5006300.0,2,43.00390843104411,0,19,2,443
+Jakarta,High End,No,No,No,Yes,Yes,Yes,Pulsa,122460.00000000001,4829500.0,3,39.437367303609335,0,17,2,444
+Jakarta,High End,No,Yes,No,No,No,No,Pulsa,106600.00000000001,3966300.0,1,37.20731707317073,0,12,2,445
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,58955.00000000001,4521400.000000001,0,76.69239250275635,4,4,2,446
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,25480.000000000004,3695900.0,0,145.05102040816325,4,6,2,447
+Jakarta,High End,No,No,Yes,No,No,Yes,Digital Wallet,112060.0,3859700.0000000005,2,34.4431554524362,0,11,2,448
+Bandung,High End,No,Yes,No,No,No,No,Pulsa,97110.00000000001,3643900.0,1,37.523427041499325,0,11,2,449
+Jakarta,Mid End,Yes,No,No,No,No,No,Pulsa,64025.00000000001,4517500.0,1,70.55837563451776,4,8,2,450
+Jakarta,Mid End,No,No,No,No,No,Yes,Pulsa,45110.00000000001,4089800.0,1,90.66282420749278,4,6,2,451
+Jakarta,High End,No,No,No,No,No,No,Pulsa,90545.00000000001,3019900.0,0,33.35247666905958,4,8,2,452
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25805.000000000004,3070600.0,0,118.99244332493701,4,5,2,453
+Jakarta,High End,No,Yes,No,No,No,Yes,Pulsa,116350.00000000001,2684500.0,2,23.07262569832402,0,13,2,454
+Bandung,High End,No,No,No,No,No,No,Credit,90740.0,3016000.0,0,33.2378223495702,4,14,2,455
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,123435.0,5840900.000000001,3,47.319641916798325,3,21,2,456
+Jakarta,High End,No,No,No,No,Yes,No,Digital Wallet,112905.0,6765200.0,1,59.919401266551525,1,8,2,457
+Jakarta,Mid End,Yes,No,Yes,No,No,No,Digital Wallet,71630.00000000001,5505500.0,2,76.86025408348456,1,11,2,458
+Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,124800.00000000001,4408300.0,2,35.322916666666664,0,15,2,459
+Jakarta,Mid End,No,No,Yes,Yes,Yes,Yes,Pulsa,99320.00000000001,3906500.0,4,39.33246073298429,0,21,2,460
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,104325.0,6571500.0,1,62.99065420560748,1,10,2,461
+Bandung,High End,No,No,No,No,No,No,Pulsa,89635.0,6792500.0,0,75.77955039883975,1,8,2,462
+Jakarta,Mid End,No,No,No,No,No,No,Debit,59864.99999999999,6060600.0,0,101.23778501628665,2,10,2,463
+Jakarta,High End,No,No,No,No,No,No,Pulsa,91845.00000000001,2845700.0000000005,0,30.983722576079263,4,8,2,464
+Bandung,High End,No,No,No,No,Yes,No,Pulsa,103675.0,6723600.0,1,64.85266457680251,1,9,2,465
+Bandung,High End,No,Yes,No,No,No,No,Debit,95615.0,7538700.0,1,78.84432358939497,1,17,2,466
+Bandung,Mid End,No,No,No,No,No,No,Digital Wallet,58435.0,7670000.0,0,131.25695216907675,2,2,2,467
+Jakarta,Mid End,No,No,No,No,No,Yes,Debit,80664.99999999999,6947200.0,1,86.12409347300566,1,16,2,468
+Jakarta,High End,No,No,Yes,No,No,No,Digital Wallet,104780.0,3487900.0,1,33.287841191066995,0,7,2,469
+Bandung,Mid End,Yes,No,No,No,No,No,Digital Wallet,73710.00000000001,7228000.0,1,98.05996472663138,1,8,2,470
+Jakarta,Mid End,No,No,No,No,Yes,Yes,Pulsa,58825.0,5935800.0,2,100.9060773480663,1,13,2,471
+Bandung,Mid End,No,No,No,No,No,No,Credit,59800.00000000001,3467100.0,0,57.97826086956521,4,11,2,472
+Jakarta,High End,No,No,No,No,No,No,Pulsa,91975.00000000001,5729100.0,0,62.289752650176666,1,7,2,473
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,122005.0,5450900.000000001,2,44.67767714437934,0,15,2,474
+Bandung,High End,No,No,Yes,Yes,Yes,Yes,Pulsa,135720.0,6097000.0,4,44.923371647509576,3,36,2,475
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,58695.0,3508700.0000000005,0,59.77851605758583,4,5,2,476
+Jakarta,High End,No,No,Yes,No,Yes,No,Pulsa,118820.00000000001,6630000.0,2,55.79868708971553,1,14,2,477
+Jakarta,High End,No,Yes,Yes,No,No,No,Debit,103610.00000000001,3950700.0000000005,2,38.130489335006274,0,23,2,478
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,57655.0,3341000.0,0,57.94813979706877,4,4,2,479
+Bandung,Mid End,No,No,No,No,No,No,Pulsa,57395.0,7351500.0,0,128.08607021517554,2,6,2,480
+Jakarta,Mid End,No,Yes,No,Yes,No,No,Credit,71565.0,7611500.0,2,106.35785649409628,1,19,2,481
+Bandung,Mid End,No,Yes,No,No,No,No,Digital Wallet,64480.00000000001,4678700.0,1,72.56048387096773,4,7,2,482
+Bandung,Mid End,Yes,No,Yes,No,Yes,No,Debit,86320.00000000001,5878600.0,3,68.1024096385542,1,27,2,483
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,104845.00000000001,7261800.0,1,69.26224426534407,1,10,2,484
+Jakarta,Mid End,Yes,Yes,No,No,No,Yes,Pulsa,55380.0,6042400.000000001,3,109.1079812206573,1,26,2,485
+Jakarta,High End,No,No,Yes,Yes,No,Yes,Credit,117000.0,5072600.0,3,43.355555555555554,0,21,2,486
+Bandung,Mid End,No,No,No,No,No,No,Pulsa,31655.000000000004,4261400.000000001,0,134.62012320328543,4,4,2,487
+Jakarta,High End,No,No,No,No,No,No,Pulsa,91910.00000000001,3511300.0,0,38.203677510608195,4,7,2,488
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,32565.000000000004,6253000.0,0,192.01596806387224,2,5,2,489
+Jakarta,High End,No,No,Yes,No,No,No,Pulsa,102960.00000000001,5492500.0,1,53.34595959595959,1,10,2,490
+Jakarta,High End,No,No,No,No,No,No,Pulsa,88075.0,2988700.0000000005,0,33.93357933579336,4,8,2,491
+Bandung,High End,No,No,No,No,No,No,Debit,91000.0,3806400.0,0,41.82857142857143,4,13,2,492
+Bandung,Mid End,No,Yes,No,No,No,No,Digital Wallet,70720.0,3322800.0,1,46.98529411764706,4,9,2,493
+Bandung,High End,No,No,No,No,No,No,Pulsa,91520.00000000001,7393100.0,0,80.78124999999999,1,8,2,494
+Jakarta,Mid End,No,No,No,Yes,No,No,Pulsa,40170.0,3718000.0,1,92.55663430420712,4,6,2,495
+Bandung,Mid End,No,No,No,No,No,No,Credit,57980.00000000001,6349200.0,0,109.50672645739908,2,11,2,496
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,58500.0,7415200.0,0,126.75555555555556,2,3,2,497
+Jakarta,High End,No,No,No,No,No,No,Pulsa,99450.0,7727200.0,0,77.69934640522875,1,8,2,498
+Jakarta,High End,No,No,No,No,No,No,Pulsa,98215.0,5616000.0,0,57.180675049636,1,7,2,499
+Jakarta,High End,No,No,No,No,Yes,Yes,Debit,122460.00000000001,6888700.0,2,56.25265392781316,1,22,2,500
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25350.0,3229200.0000000005,0,127.3846153846154,4,6,2,501
+Jakarta,High End,No,No,No,No,No,No,Credit,97370.0,2701400.0,0,27.74365821094793,4,14,2,502
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,25675.0,3441100.0,0,134.0253164556962,4,6,3,503
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,65845.0,3738800.0,0,56.78183613030602,4,3,3,504
+Jakarta,High End,No,No,No,No,No,No,Credit,97695.00000000001,2951000.0,0,30.206254158349964,4,15,3,505
+Jakarta,High End,No,No,No,No,No,No,Debit,90415.0,3738800.0,0,41.35154565061107,4,13,3,506
+Jakarta,High End,No,No,No,No,No,No,Pulsa,97825.0,7667400.000000001,0,78.37873754152825,1,8,3,507
+Jakarta,Mid End,No,No,Yes,No,Yes,No,Digital Wallet,52195.0,6123000.0,2,117.31008717310087,1,8,3,508
+Bandung,Mid End,No,No,No,No,Yes,No,Digital Wallet,71695.00000000001,7407400.000000001,1,103.31822302810517,1,5,3,509
+Bandung,High End,No,Yes,No,No,No,Yes,Credit,118950.0,7339800.0,2,61.704918032786885,1,27,3,510
+Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,122979.99999999999,3924700.0000000005,2,31.91331923890064,0,13,3,511
+Bandung,High End,No,No,No,No,No,No,Pulsa,98865.0,3809000.0,0,38.52728468113084,4,8,3,512
+Jakarta,Mid End,No,Yes,No,No,No,No,Digital Wallet,64870.00000000001,7260500.0,1,111.92384769539076,1,9,3,513
+Jakarta,High End,No,No,No,No,No,No,Credit,97565.0,4618900.000000001,0,47.341772151898745,4,12,3,514
+Jakarta,High End,No,No,No,No,No,No,Credit,97630.0,6454500.0,0,66.11185086551265,1,15,3,515
+Bandung,Mid End,No,No,Yes,No,No,Yes,Pulsa,53495.0,3008200.0000000005,2,56.23329283110572,4,11,3,516
+Jakarta,Mid End,No,No,Yes,No,No,No,Pulsa,65195.00000000001,4254900.000000001,1,65.26420737786641,4,7,3,517
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,58955.00000000001,3185000.0,0,54.02425578831311,4,5,3,518
+Jakarta,Mid End,Yes,Yes,No,No,No,No,Digital Wallet,46085.00000000001,2723500.0,2,59.097320169252455,4,12,3,519
+Jakarta,Mid End,No,No,No,No,Yes,No,Digital Wallet,47385.00000000001,4895800.0,1,103.31961591220849,4,4,3,520
+Jakarta,Mid End,No,No,No,Yes,No,No,Digital Wallet,40300.00000000001,6658600.0,1,165.22580645161287,2,5,3,521
+Bandung,Mid End,No,No,No,No,No,Yes,Pulsa,45695.0,3883100.0,1,84.97866287339971,4,6,3,522
+Jakarta,Mid End,Yes,No,No,Yes,No,No,Digital Wallet,71630.00000000001,5735600.0,2,80.0725952813067,1,11,3,523
+Jakarta,High End,No,Yes,No,No,No,No,Pulsa,105755.0,3663400.0,1,34.640442532267976,0,12,3,524
+Jakarta,High End,No,No,Yes,Yes,No,No,Credit,104130.0,5629000.0,2,54.05742821473159,1,18,3,525
+Jakarta,High End,No,No,Yes,No,Yes,No,Pulsa,118365.0,2852200.0000000005,2,24.09665019220209,0,16,3,526
+Jakarta,High End,No,No,No,No,No,No,Credit,96330.0,7354100.0,0,76.34278002699055,1,13,3,527
+Jakarta,High End,No,No,No,No,No,No,Digital Wallet,97500.0,4147000.0,0,42.53333333333333,4,6,3,528
+Bandung,High End,No,No,Yes,Yes,Yes,Yes,Pulsa,128310.0,5090800.0,4,39.6757852077001,3,22,3,529
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Debit,136954.99999999997,4760600.0,4,34.760322733744665,0,32,3,530
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,131235.0,6956300.0,3,53.00643883110451,3,26,3,531
+Bandung,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,137670.00000000003,3529500.0,4,25.637393767705376,0,26,3,532
+Jakarta,High End,Yes,No,Yes,No,Yes,Yes,Credit,128700.00000000001,6806800.0,4,52.888888888888886,3,37,3,533
+Bandung,High End,No,No,No,No,No,No,Pulsa,90545.00000000001,3147300.0,0,34.75951184493898,4,8,3,534
+Bandung,High End,No,No,No,No,Yes,No,Pulsa,103025.0,5437900.000000001,1,52.78233438485805,1,8,3,535
+Jakarta,High End,No,No,Yes,No,Yes,No,Pulsa,112905.0,4629300.0,2,41.001727115716754,0,12,3,536
+Jakarta,High End,No,No,Yes,Yes,Yes,No,Digital Wallet,114854.99999999999,6762600.0,3,58.87945670628184,3,15,3,537
+Bandung,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,136500.0,7748000.0,4,56.76190476190476,3,41,3,538
+Jakarta,Mid End,No,No,Yes,No,No,No,Pulsa,63895.0,7277400.000000001,1,113.89623601220754,1,9,3,539
+Jakarta,High End,No,No,No,No,No,No,Pulsa,96720.00000000001,5739500.0,0,59.34139784946235,1,7,3,540
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25805.000000000004,2805400.0,0,108.7153652392947,4,5,3,541
+Bandung,Mid End,No,No,No,No,No,No,Pulsa,32890.0,4604600.0,0,140.0,4,4,3,542
+Jakarta,Mid End,No,No,No,No,No,Yes,Pulsa,71890.0,4147000.0,1,57.68535262206148,4,6,3,543
+Bandung,Mid End,Yes,No,No,No,No,No,Credit,38610.0,3396900.0,1,87.97979797979798,4,15,3,544
+Bandung,Mid End,No,No,No,No,No,No,Pulsa,58500.0,5388500.0,0,92.11111111111111,2,4,3,545
+Bandung,Mid End,No,No,No,No,No,No,Pulsa,32825.0,2714400.0,0,82.6930693069307,4,6,3,546
+Bandung,Mid End,No,No,No,Yes,Yes,Yes,Pulsa,90155.0,4576000.0,3,50.75702956020187,0,16,3,547
+Bandung,High End,Yes,Yes,No,No,No,No,Pulsa,102830.0,6940700.0,2,67.4968394437421,1,21,3,548
+Jakarta,High End,No,No,No,No,No,No,Pulsa,100100.00000000001,4066400.0,0,40.623376623376615,4,8,3,549
+Bandung,Mid End,No,No,No,No,No,No,Pulsa,32175.000000000004,4553900.000000001,0,141.53535353535355,4,4,3,550
+Jakarta,Mid End,No,No,No,No,Yes,No,Credit,45760.00000000001,7085000.0,1,154.82954545454544,2,14,3,551
+Jakarta,Mid End,No,Yes,Yes,No,No,No,Digital Wallet,72995.0,3300700.0000000005,2,45.21816562778273,0,17,3,552
+Jakarta,Mid End,No,Yes,No,Yes,No,No,Digital Wallet,47905.0,7572500.0,2,158.07327001356853,1,9,3,553
+Jakarta,Mid End,No,No,No,Yes,Yes,No,Pulsa,82680.0,4101500.0,2,49.606918238993714,0,11,3,554
+Bandung,High End,No,Yes,No,No,Yes,No,Pulsa,108875.0,6307600.0,2,57.93432835820896,1,19,3,555
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,102050.0,4637100.0,1,45.439490445859875,0,7,3,556
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25805.000000000004,4417400.000000001,0,171.183879093199,4,4,3,557
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,104520.00000000001,4984200.0,1,47.686567164179095,0,7,3,558
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,123760.0,5428800.0,2,43.865546218487395,0,16,3,559
+Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25740.000000000004,5619900.000000001,0,218.33333333333334,2,6,3,560
+Bandung,Mid End,No,Yes,No,No,No,No,Pulsa,38480.00000000001,3554200.0000000005,1,92.36486486486486,4,9,3,561
+Bandung,High End,No,No,No,No,No,No,Pulsa,91520.00000000001,3238300.0,0,35.38352272727272,4,9,3,562
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,104390.0,4175600.0000000005,1,40.00000000000001,0,7,3,563
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,125580.0,4238000.0,2,33.74741200828157,0,17,3,564
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Debit,132015.00000000003,5824000.0,3,44.11619891678975,3,34,3,565
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,103870.0,5677100.0,1,54.655819774718395,1,8,3,566
+Jakarta,High End,No,No,No,No,No,No,Pulsa,100035.00000000001,5756400.000000001,0,57.54385964912281,1,8,3,567
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,103220.00000000001,3182400.0,1,30.831234256926948,0,10,3,568
+Jakarta,High End,No,No,No,Yes,No,Yes,Pulsa,111540.0,7333300.0,2,65.74592074592074,1,16,3,569
+Jakarta,High End,No,No,No,No,No,No,Pulsa,96525.0,4169100.0000000005,0,43.1919191919192,4,7,3,570
+Jakarta,High End,No,No,No,No,No,Yes,Debit,110175.0,2618200.0000000005,1,23.764011799410035,0,12,3,571
+Jakarta,High End,No,No,No,Yes,No,No,Debit,103545.00000000001,6546800.0,1,63.22661644695542,1,16,3,572
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,110890.0,6414200.0,1,57.842907385697536,1,13,3,573
+Bandung,High End,Yes,No,No,Yes,Yes,No,Digital Wallet,114790.0,5831800.0,3,50.80407701019253,3,17,3,574
+Bandung,Mid End,Yes,Yes,No,No,No,No,Pulsa,71955.0,7523100.0,2,104.55284552845528,1,16,3,575
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,26715.000000000004,5349500.0,0,200.24330900243305,2,12,3,576
+Jakarta,Mid End,No,Yes,No,No,Yes,Yes,Pulsa,65780.0,6240000.0,3,94.86166007905139,1,28,3,577
+Bandung,High End,No,No,No,No,No,No,Pulsa,98540.0,7117500.0,0,72.22955145118733,1,9,3,578
+Jakarta,High End,No,No,No,No,No,No,Pulsa,91390.0,3949400.0,0,43.21479374110953,4,6,3,579
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,123630.0,7619300.0,3,61.629863301787594,3,28,3,580
+Jakarta,High End,No,No,No,No,No,No,Credit,97175.0,5163600.0,0,53.137123745819395,1,12,3,581
+Jakarta,High End,No,No,No,No,No,No,Pulsa,98150.0,7732400.000000001,0,78.78145695364239,1,8,3,582
+Bandung,High End,No,No,No,No,No,No,Pulsa,98604.99999999999,5280600.0,0,53.55306526038234,1,7,3,583
+Jakarta,High End,No,No,No,No,No,No,Pulsa,91390.0,6714500.0,0,73.47083926031294,1,8,3,584
+Jakarta,High End,No,No,No,Yes,Yes,No,Digital Wallet,109070.00000000001,4503200.0,2,41.28724672228843,0,11,3,585
+Jakarta,High End,No,Yes,No,Yes,Yes,Yes,Pulsa,127270.00000000001,5629000.0,4,44.2288049029622,3,35,3,586
+Bandung,High End,No,Yes,No,No,No,No,Pulsa,103220.00000000001,4551300.0,1,44.09319899244332,0,11,3,587
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,116285.00000000001,4668300.0,2,40.145332588038,0,12,3,588
+Jakarta,Mid End,No,No,No,No,Yes,No,Credit,69420.0,3581500.0,1,51.59176029962547,4,13,3,589
+Jakarta,Mid End,No,No,No,No,Yes,No,Credit,71110.0,4335500.0,1,60.96892138939671,4,12,3,590
+Jakarta,Mid End,Yes,No,No,Yes,No,No,Digital Wallet,44525.0,3642600.0,2,81.81021897810218,4,10,3,591
+Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25480.000000000004,6500000.0,0,255.1020408163265,2,9,3,592
+Bandung,High End,No,No,Yes,No,No,Yes,Pulsa,119405.0,3515200.0000000005,2,29.439303211758304,0,12,3,593
+Bandung,Mid End,No,No,No,No,No,No,Pulsa,56290.0,6303700.0,0,111.98614318706697,2,6,3,594
+Bandung,High End,No,No,No,No,No,No,Debit,96720.00000000001,2670200.0000000005,0,27.607526881720432,4,14,3,595
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,57589.99999999999,6373900.000000001,0,110.67720090293457,2,3,3,596
+Bandung,High End,No,Yes,No,No,Yes,No,Digital Wallet,116479.99999999999,6095700.0,2,52.33258928571429,1,15,4,597
+Bandung,High End,No,No,Yes,No,No,Yes,Pulsa,115505.0,3580200.0000000005,2,30.99606077658976,0,12,4,598
+Jakarta,Mid End,Yes,Yes,No,Yes,No,No,Digital Wallet,78520.0,7449000.0,3,94.86754966887418,1,17,4,599
+Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Pulsa,137345.0,6061900.000000001,5,44.13629910080455,3,44,4,600
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,103870.0,6069700.0,1,58.43554443053817,1,11,4,601
+Jakarta,Mid End,No,No,No,No,Yes,Yes,Pulsa,57915.0,7286500.0,2,125.81369248035915,1,14,4,602
+Jakarta,High End,No,No,Yes,No,No,No,Debit,97240.0,7646600.0,1,78.63636363636364,1,14,4,603
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,130260.00000000001,3445000.0,3,26.44710578842315,0,24,4,604
+Bandung,Mid End,No,No,No,No,No,No,Digital Wallet,65519.99999999999,5718700.0,0,87.28174603174604,2,3,4,605
+Bandung,High End,No,No,No,No,No,No,Credit,91065.0,4680000.0,0,51.39186295503212,4,11,4,606
+Bandung,High End,No,No,No,No,No,No,Pulsa,97435.0,4830800.0,0,49.579719813208804,4,6,4,607
+Jakarta,High End,No,Yes,No,Yes,No,Yes,Pulsa,121550.0,5920200.0,3,48.705882352941174,3,28,4,608
+Jakarta,High End,No,No,No,No,No,No,Pulsa,96655.0,4708600.0,0,48.71553463349025,4,5,4,609
+Jakarta,Mid End,No,Yes,No,Yes,No,No,Digital Wallet,73450.0,7485400.000000001,2,101.91150442477877,1,10,4,610
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,31785.0,6381700.0,0,200.77709611451942,2,5,4,611
+Bandung,High End,No,No,No,No,No,No,Pulsa,97045.00000000001,5216900.000000001,0,53.75753516409913,1,7,4,612
+Jakarta,Mid End,Yes,No,No,No,No,No,Pulsa,64220.0,5791500.0,1,90.18218623481782,1,9,4,613
+Jakarta,High End,No,No,Yes,No,No,No,Pulsa,96070.00000000001,5822700.0,1,60.608930987821374,1,10,4,614
+Bandung,High End,No,Yes,No,No,No,Yes,Pulsa,117065.0,4175600.0000000005,2,35.66907273736813,0,14,4,615
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,111345.00000000001,3029000.0,1,27.203736135434905,0,9,4,616
+Jakarta,High End,No,No,No,No,No,No,Pulsa,97370.0,2758600.0,0,28.331108144192257,4,8,4,617
+Jakarta,Mid End,No,No,No,No,No,Yes,Pulsa,70590.0,7584200.0,1,107.44014732965009,1,10,4,618
+Jakarta,Mid End,No,No,Yes,No,No,No,Pulsa,38545.0,5469100.0,1,141.88870151770658,2,6,4,619
+Jakarta,Mid End,No,No,No,No,No,No,Credit,67275.0,5024500.0,0,74.68599033816425,4,10,4,620
+Jakarta,High End,No,Yes,No,No,No,No,Debit,99645.00000000001,5954000.0,1,59.75212002609262,1,19,4,621
+Bandung,Mid End,No,No,No,No,No,No,Digital Wallet,58890.0,4475900.000000001,0,76.00441501103754,4,3,4,622
+Jakarta,Mid End,No,No,No,Yes,No,Yes,Credit,79885.0,2770300.0,2,34.67860048820179,0,19,4,623
+Jakarta,High End,No,No,No,No,No,No,Debit,93860.00000000001,7368400.000000001,0,78.50415512465374,1,14,4,624
+Jakarta,Mid End,No,Yes,No,No,No,No,Credit,65910.00000000001,6409000.0,1,97.23865877712029,1,18,4,625
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,114985.00000000001,3192800.0,2,27.76710005652911,0,14,4,626
+Jakarta,High End,No,No,Yes,No,No,No,Pulsa,95875.0,6533800.0,1,68.14915254237287,1,10,4,627
+Bandung,High End,No,No,No,No,No,Yes,Pulsa,102895.00000000001,7490600.0,1,72.79848389134554,1,11,4,628
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,66105.0,7001800.0,0,105.91937069813176,2,3,4,629
+Bandung,Mid End,No,No,No,No,No,No,Debit,32759.999999999996,6102200.0,0,186.2698412698413,2,11,4,630
+Bandung,High End,No,Yes,No,No,No,No,Debit,101335.00000000001,6974500.0,1,68.8261706221937,1,21,4,631
+Jakarta,High End,No,Yes,No,No,No,Yes,Pulsa,115635.0,7732400.000000001,2,66.8690275435638,1,18,4,632
+Jakarta,High End,No,No,Yes,Yes,Yes,Yes,Debit,127530.0,3763500.0,4,29.510703363914374,0,25,4,633
+Jakarta,High End,No,No,No,No,No,No,Pulsa,97955.0,2886000.0,0,29.46250829462508,4,9,4,634
+Jakarta,Mid End,No,Yes,No,No,Yes,Yes,Debit,89245.0,6856200.0,3,76.8244719592134,1,33,4,635
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,105104.99999999999,3849300.0,1,36.62337662337663,0,7,4,636
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,104455.0,5417100.0,1,51.860609831985066,1,8,4,637
+Jakarta,High End,Yes,No,No,No,Yes,Yes,Pulsa,129479.99999999999,6120400.000000001,3,47.2690763052209,3,26,4,638
+Jakarta,High End,No,No,No,No,No,No,Pulsa,98865.0,4790500.0,0,48.45496383957922,4,6,4,639
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,59800.00000000001,6819800.0,0,114.04347826086955,2,3,4,640
+Jakarta,Mid End,Yes,No,No,No,No,No,Pulsa,64155.0,7615400.000000001,1,118.70314083080042,1,11,4,641
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,101205.0,2782000.0,1,27.488760436737316,0,10,4,642
+Bandung,High End,No,Yes,Yes,No,No,No,Debit,109265.0,7217600.0,2,66.05591909577632,1,27,4,643
+Bandung,Mid End,No,No,No,No,No,No,Pulsa,66170.0,7398300.0,0,111.8074656188605,2,6,4,644
+Bandung,High End,No,No,No,No,Yes,No,Pulsa,105300.0,4668300.0,1,44.333333333333336,0,8,4,645
+Bandung,High End,No,Yes,No,No,Yes,No,Pulsa,119145.00000000001,2782000.0,2,23.349699945444623,0,17,4,646
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,132210.0,3610100.0,3,27.305801376597838,0,26,4,647
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,102700.0,2710500.0,1,26.39240506329114,0,9,4,648
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,27235.0,7568600.0,0,277.8997613365155,2,12,4,649
+Bandung,Mid End,No,No,No,No,No,No,Pulsa,59800.00000000001,6236100.0,0,104.28260869565216,2,6,4,650
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,127335.00000000001,3341000.0,3,26.2378764675855,0,23,4,651
+Jakarta,High End,No,No,No,No,No,No,Digital Wallet,96720.00000000001,7590700.0,0,78.48118279569891,1,3,4,652
+Bandung,High End,No,No,No,No,No,No,Debit,92170.00000000001,5573100.0,0,60.465444287729184,1,13,4,653
+Jakarta,Mid End,No,No,Yes,Yes,Yes,Yes,Pulsa,96720.00000000001,4722900.000000001,4,48.83064516129033,0,20,4,654
+Jakarta,High End,No,No,No,Yes,No,No,Credit,105040.0,7066800.0,1,67.27722772277228,1,16,4,655
+Jakarta,High End,No,No,Yes,No,Yes,No,Pulsa,115960.00000000001,7550400.000000001,2,65.11210762331838,1,14,4,656
+Jakarta,High End,No,No,No,No,No,No,Pulsa,91520.00000000001,5842200.0,0,63.83522727272726,1,7,4,657
+Bandung,High End,No,No,No,No,No,No,Pulsa,91195.00000000001,2895100.0,0,31.746258018531712,4,9,4,658
+Jakarta,Mid End,No,Yes,No,No,Yes,Yes,Pulsa,63115.0,5141500.0,3,81.46240988671472,0,24,4,659
+Jakarta,High End,Yes,No,Yes,Yes,No,Yes,Debit,122720.00000000001,5523700.0,4,45.010593220338976,3,33,4,660
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,111735.00000000001,7332000.0,1,65.61954624781849,1,14,4,661
+Jakarta,High End,No,No,Yes,Yes,No,No,Digital Wallet,113229.99999999999,7263100.0,2,64.14466130884043,1,12,4,662
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,102505.0,6891300.0,1,67.2289156626506,1,8,4,663
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,31525.000000000004,2649400.0,0,84.04123711340205,4,4,4,664
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26455.000000000004,7779200.0,0,294.054054054054,2,7,4,665
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,59345.0,3723200.0000000005,0,62.738225629791906,4,3,4,666
+Jakarta,Mid End,Yes,Yes,No,No,No,No,Pulsa,43745.0,3331900.0,2,76.16641901931649,4,13,4,667
+Jakarta,High End,No,Yes,Yes,No,No,No,Debit,110240.0,6420700.0,2,58.242924528301884,1,28,4,668
+Jakarta,High End,No,Yes,No,No,No,No,Pulsa,101985.00000000001,6562400.000000001,1,64.34671765455704,1,14,4,669
+Bandung,High End,No,No,No,No,No,Yes,Pulsa,109979.99999999999,3207100.0,1,29.160756501182036,0,9,4,670
+Jakarta,High End,No,No,No,No,No,No,Pulsa,91260.0,6622200.0,0,72.56410256410257,1,8,4,671
+Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,122590.0,7044700.0,2,57.46553552492047,1,15,4,672
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Credit,129740.00000000001,2948400.0,4,22.725450901803605,0,26,4,673
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,111345.00000000001,4189900.0000000005,1,37.62988908347928,0,10,4,674
+Bandung,Mid End,No,No,No,Yes,No,No,Digital Wallet,65065.0,4412200.0,1,67.81218781218782,4,5,4,675
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,131495.0,5742100.0,3,43.667820069204154,3,26,4,676
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26455.000000000004,5372900.000000001,0,203.0958230958231,2,4,4,677
+Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,124085.00000000001,4780100.0,2,38.522786799371396,0,14,4,678
+Jakarta,High End,No,No,Yes,Yes,No,No,Digital Wallet,104780.0,4004000.0,2,38.21339950372209,0,10,4,679
+Bandung,High End,No,Yes,No,No,No,Yes,Pulsa,108679.99999999999,5934500.0,2,54.60526315789475,1,17,5,680
+Jakarta,Mid End,Yes,No,No,Yes,No,No,Pulsa,70460.00000000001,7118800.0,2,101.0332103321033,1,16,5,681
+Jakarta,High End,No,No,No,No,Yes,Yes,Debit,123304.99999999999,7411300.0,2,60.10542962572484,1,23,5,682
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,116350.00000000001,3533400.0,2,30.36871508379888,0,13,5,683
+Bandung,Mid End,No,No,Yes,No,No,No,Pulsa,65455.0,6003400.000000001,1,91.71797418073487,1,8,5,684
+Jakarta,Mid End,No,No,No,No,Yes,Yes,Pulsa,59410.00000000001,4629300.0,2,77.92122538293215,4,11,5,685
+Bandung,High End,No,No,No,No,Yes,Yes,Digital Wallet,122070.00000000001,7065500.0,2,57.88072417465388,1,12,5,686
+Jakarta,Mid End,No,No,No,Yes,No,No,Pulsa,63960.00000000001,5636800.0,1,88.130081300813,1,6,5,687
+Jakarta,High End,No,Yes,Yes,No,No,No,Pulsa,110890.0,2943200.0000000005,2,26.541617819460733,0,19,5,688
+Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,118820.00000000001,3684200.0000000005,2,31.00656455142232,0,12,5,689
+Jakarta,High End,No,No,No,No,Yes,No,Credit,105300.0,4833400.000000001,1,45.90123456790124,0,13,5,690
+Jakarta,High End,No,Yes,No,Yes,Yes,Yes,Digital Wallet,128895.00000000001,2967900.0,4,23.025718608169438,0,19,5,691
+Jakarta,High End,No,No,Yes,No,Yes,No,Pulsa,120250.0,3653000.0,2,30.37837837837838,0,14,5,692
+Bandung,Mid End,No,No,Yes,No,Yes,Yes,Pulsa,91065.0,6427200.0,3,70.57815845824412,1,19,5,693
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,130650.0,6734000.0,3,51.54228855721393,3,27,5,694
+Jakarta,High End,Yes,No,Yes,No,No,No,Pulsa,109850.00000000001,6683300.0,2,60.840236686390526,1,20,5,695
+Jakarta,High End,No,No,Yes,No,Yes,No,Digital Wallet,110304.99999999999,4296500.0,2,38.951090159104304,0,11,5,696
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,104780.0,7429500.0,1,70.90570719602978,1,10,5,697
+Bandung,High End,No,Yes,No,No,No,Yes,Pulsa,116740.0,3848000.0,2,32.962138084632514,0,14,5,698
+Bandung,High End,No,No,No,No,No,No,Pulsa,90935.0,3859700.0000000005,0,42.44460328806291,4,7,5,699
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Digital Wallet,135329.99999999997,4070300.0,4,30.07684918347743,0,26,5,700
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,32435.000000000004,7624500.0,0,235.0701402805611,2,5,5,701
+Jakarta,Mid End,Yes,No,No,Yes,No,No,Credit,70005.00000000001,7065500.0,2,100.92850510677806,1,21,5,702
+Bandung,Mid End,Yes,No,Yes,Yes,No,No,Digital Wallet,52000.0,4062500.0,3,78.125,0,15,5,703
+Bandung,High End,No,No,Yes,No,No,No,Debit,103870.0,5621200.0,1,54.11764705882353,1,16,5,704
+Jakarta,High End,No,No,No,No,No,No,Pulsa,96655.0,6854900.000000001,0,70.92131809011434,1,8,5,705
+Jakarta,High End,No,No,No,No,No,No,Digital Wallet,91325.0,4789200.0,0,52.44128113879004,4,3,5,706
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,61295.0,3714100.0,0,60.593849416755035,4,4,5,707
+Jakarta,High End,No,No,No,No,No,No,Pulsa,98215.0,5980000.0,0,60.88682991396426,1,8,5,708
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,125125.0,6572800.0,3,52.52987012987013,3,33,5,709
+Bandung,Mid End,No,No,Yes,No,No,Yes,Pulsa,51350.0,3721900.0,2,72.48101265822785,4,10,5,710
+Jakarta,High End,Yes,No,Yes,No,No,Yes,Digital Wallet,115570.00000000001,5662800.0,3,48.99887514060742,3,20,5,711
+Jakarta,High End,No,No,Yes,No,No,No,Credit,98215.0,5236400.000000001,1,53.31568497683654,1,15,5,712
+Bandung,High End,No,No,No,No,No,Yes,Pulsa,104000.0,5118100.0,1,49.2125,1,9,5,713
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,25805.000000000004,4938700.0,0,191.38539042821156,4,10,5,714
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25155.0,5023200.0,0,199.68992248062017,4,10,5,715
+Jakarta,High End,No,No,No,No,Yes,No,Credit,108095.00000000001,3270800.0,1,30.258568851473235,0,17,5,716
+Jakarta,High End,No,No,No,No,No,No,Pulsa,90610.00000000001,3190200.0000000005,0,35.20803443328551,4,8,5,717
+Bandung,High End,No,No,Yes,No,Yes,Yes,Pulsa,122785.00000000001,5954000.0,3,48.491265219692956,3,21,5,718
+Jakarta,High End,No,No,No,No,No,No,Pulsa,90675.0,5154500.0,0,56.84587813620072,1,6,5,719
+Jakarta,Mid End,No,Yes,No,No,No,No,Pulsa,36985.0,5328700.0,1,144.07732864674867,2,9,5,720
+Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,33670.0,2732600.0,0,81.15830115830116,4,15,5,721
+Bandung,High End,No,No,No,No,No,Yes,Pulsa,102635.0,5270200.0,1,51.34895503483217,1,9,5,722
+Jakarta,High End,No,No,No,No,No,No,Debit,98670.00000000001,4576000.0,0,46.37681159420289,4,12,5,723
+Jakarta,High End,No,No,No,Yes,No,Yes,Credit,111020.00000000001,4830800.0,2,43.512880562060886,0,16,5,724
+Jakarta,High End,No,Yes,No,No,No,No,Pulsa,105300.0,5573100.0,1,52.925925925925924,1,12,5,725
+Jakarta,Mid End,Yes,Yes,Yes,Yes,No,No,Digital Wallet,56225.0,7571200.0,4,134.65895953757226,1,19,5,726
+Bandung,High End,No,Yes,No,No,No,No,Pulsa,102375.0,4421300.0,1,43.18730158730159,0,11,5,727
+Jakarta,High End,No,Yes,No,No,No,No,Pulsa,104195.00000000001,6661200.0,1,63.93013100436681,1,15,5,728
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,65780.0,3058900.0,0,46.50197628458498,4,5,5,729
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Debit,125450.0,6997900.000000001,3,55.782383419689126,3,30,5,730
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,27365.000000000004,3385200.0000000005,0,123.70546318289786,4,5,5,731
+Jakarta,Mid End,No,No,Yes,Yes,Yes,No,Debit,88335.00000000001,5055700.0,3,57.23325974981603,0,23,5,732
+Bandung,High End,No,Yes,No,No,Yes,No,Pulsa,118040.0,6617000.0,2,56.05726872246696,1,20,5,733
+Bandung,High End,No,Yes,No,Yes,No,No,Pulsa,111020.00000000001,4778800.0,2,43.04449648711943,0,15,5,734
+Bandung,High End,No,No,No,No,No,No,Digital Wallet,89765.0,4378400.000000001,0,48.776249094858805,4,4,5,735
+Jakarta,High End,No,Yes,No,Yes,No,Yes,Pulsa,116155.0,5959200.0,3,51.30386121992166,3,27,5,736
+Jakarta,Mid End,No,No,Yes,No,Yes,Yes,Digital Wallet,91000.0,3474900.0,3,38.18571428571428,0,17,5,737
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,59800.00000000001,6299800.0,0,105.3478260869565,2,3,5,738
+Jakarta,High End,No,No,No,Yes,Yes,No,Pulsa,111475.00000000001,4690400.000000001,2,42.07580174927114,0,13,5,739
+Bandung,Mid End,No,Yes,No,No,Yes,Yes,Digital Wallet,66300.0,6019000.0,3,90.7843137254902,1,18,5,740
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,110760.0,5341700.0,1,48.22769953051643,1,9,5,741
+Jakarta,High End,No,Yes,No,No,No,No,Pulsa,105690.0,4964700.0,1,46.974169741697416,0,10,5,742
+Jakarta,High End,No,No,No,Yes,Yes,Yes,Pulsa,124929.99999999999,5449600.0,3,43.62122788761707,0,23,5,743
+Jakarta,High End,No,No,No,Yes,No,No,Pulsa,104650.0,6541600.0,1,62.50931677018634,1,11,6,744
+Bandung,High End,Yes,No,No,No,No,No,Pulsa,102765.0,4241900.000000001,1,41.2776723592663,0,11,6,745
+Jakarta,High End,No,No,Yes,Yes,Yes,Yes,Digital Wallet,129935.0,4838600.0,4,37.23861930965483,0,19,6,746
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,109655.0,7437300.0,1,67.82454060462359,1,14,6,747
+Jakarta,Mid End,Yes,Yes,No,No,No,No,Pulsa,73125.0,5343000.0,2,73.06666666666666,1,15,6,748
+Jakarta,High End,No,Yes,No,No,No,Yes,Pulsa,109720.00000000001,5900700.0,2,53.77962085308056,1,17,6,749
+Bandung,High End,No,Yes,Yes,No,No,Yes,Pulsa,118300.0,2967900.0,3,25.087912087912088,0,21,6,750
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,124475.00000000001,7475000.0,3,60.05221932114882,3,20,6,751
+Bandung,High End,No,No,Yes,No,No,Yes,Pulsa,109070.00000000001,5150600.0,2,47.22288438617401,0,12,6,752
+Jakarta,High End,Yes,Yes,Yes,Yes,No,Yes,Debit,127595.00000000001,4651400.000000001,5,36.454406520631686,3,33,6,753
+Jakarta,High End,No,Yes,No,No,No,Yes,Credit,108615.0,5514600.0,2,50.77199281867146,1,22,6,754
+Jakarta,High End,No,Yes,No,No,Yes,No,Pulsa,110304.99999999999,4446000.0,2,40.30642309958751,0,18,6,755
+Bandung,High End,No,No,No,No,Yes,No,Pulsa,107705.0,5795400.000000001,1,53.80808690404346,1,11,6,756
+Bandung,Mid End,Yes,Yes,No,No,No,No,Credit,72670.0,6388200.0,2,87.90697674418605,1,27,6,757
+Jakarta,Mid End,No,No,No,Yes,No,No,Pulsa,63895.0,6852300.0,1,107.24313326551373,1,8,6,758
+Jakarta,High End,No,Yes,No,No,Yes,No,Pulsa,117130.0,7352800.0,2,62.77469478357381,1,21,6,759
+Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Credit,142870.0,7475000.0,5,52.32029117379436,3,55,6,760
+Jakarta,High End,No,Yes,No,No,Yes,No,Pulsa,110955.0,6102200.0,2,54.99707088459285,1,19,6,761
+Jakarta,High End,No,No,No,No,No,No,Digital Wallet,90025.0,7560800.0,0,83.985559566787,1,3,6,762
+Bandung,Mid End,No,No,No,No,No,No,Debit,57980.00000000001,5882500.0,0,101.457399103139,2,10,6,763
+Jakarta,Mid End,No,No,Yes,No,Yes,Yes,Pulsa,62335.00000000001,2912000.0,3,46.71532846715328,0,19,6,764
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,136890.00000000003,5411900.000000001,4,39.5346628679962,3,41,6,765
+Jakarta,High End,No,No,Yes,No,No,No,Pulsa,96720.00000000001,5153200.0,1,53.27956989247311,1,9,6,766
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Digital Wallet,122850.00000000001,4509700.0,3,36.7089947089947,0,15,6,767
+Jakarta,High End,No,No,No,No,Yes,Yes,Debit,121615.0,7302100.0,2,60.04275788348477,1,23,6,768
+Jakarta,High End,No,No,No,No,No,No,Pulsa,98150.0,7589400.000000001,0,77.32450331125828,1,8,6,769
+Jakarta,Mid End,No,Yes,No,No,No,No,Credit,39650.0,6067100.0,1,153.01639344262296,2,16,6,770
+Jakarta,High End,Yes,No,No,No,Yes,No,Debit,110695.00000000001,7580300.0,2,68.4791544333529,1,22,6,771
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,116090.0,7540000.0,2,64.94960806270997,1,14,6,772
+Jakarta,High End,No,No,No,No,Yes,No,Credit,104650.0,2835300.0,1,27.093167701863354,0,15,6,773
+Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,116350.00000000001,3767400.0,2,32.37988826815642,0,12,6,774
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,118429.99999999999,2945800.0,2,24.873765093304065,0,14,6,775
+Bandung,Mid End,No,No,No,Yes,No,No,Debit,66039.99999999999,6126900.000000001,1,92.77559055118114,1,13,6,776
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,58175.00000000001,2713100.0,0,46.63687150837988,4,6,6,777
+Jakarta,Mid End,No,No,No,Yes,No,No,Debit,64545.0,5522400.000000001,1,85.55891238670696,1,12,6,778
+Bandung,Mid End,No,Yes,Yes,No,No,No,Digital Wallet,71890.0,5041400.000000001,2,70.12658227848102,0,15,6,779
+Bandung,High End,No,Yes,No,No,No,Yes,Pulsa,109460.00000000001,7584200.0,2,69.28741092636578,1,17,6,780
+Jakarta,High End,No,No,No,No,No,No,Pulsa,97370.0,5408000.0,0,55.54072096128171,1,6,6,781
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,25350.0,7252700.0,0,286.1025641025641,2,13,6,782
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,127725.00000000001,4329000.0,3,33.89312977099236,0,24,6,783
+Bandung,High End,No,Yes,No,Yes,Yes,No,Pulsa,116675.0,4949100.0,3,42.41782729805014,0,22,7,784
+Jakarta,High End,No,No,No,No,No,Yes,Digital Wallet,110760.0,5076500.0,1,45.833333333333336,0,8,7,785
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,132535.0,2620800.0,3,19.774399215301617,0,22,7,786
+Jakarta,High End,No,No,No,No,No,No,Debit,90935.0,4284800.0,0,47.119370979270904,4,12,7,787
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,129740.00000000001,2640300.0,3,20.35070140280561,0,22,7,788
+Jakarta,High End,No,No,No,No,No,No,Digital Wallet,96720.00000000001,6459700.0,0,66.78763440860214,1,5,7,789
+Bandung,Mid End,No,No,No,Yes,Yes,Yes,Credit,91975.00000000001,2922400.0,3,31.773851590106002,0,24,7,790
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,109915.0,6818500.0,1,62.034299231224125,1,13,7,791
+Bandung,Mid End,No,Yes,No,No,No,Yes,Credit,52130.0,5738200.0,2,110.07481296758105,1,23,7,792
+Jakarta,High End,No,No,Yes,No,Yes,No,Pulsa,112125.0,4347200.0,2,38.77101449275362,0,13,7,793
+Jakarta,High End,No,No,No,No,No,No,Pulsa,96005.0,3214900.0,0,33.48679756262695,4,8,7,794
+Jakarta,High End,No,No,No,No,Yes,Yes,Debit,124280.0,4244500.0,2,34.15271966527197,0,20,7,795
+Bandung,Mid End,No,No,No,Yes,Yes,Yes,Pulsa,97045.00000000001,5995600.0,3,61.781647689216335,1,18,7,796
+Jakarta,Mid End,No,No,Yes,No,No,No,Pulsa,63310.00000000001,3879200.0000000005,1,61.27310061601643,4,7,7,797
+Bandung,Mid End,No,No,No,Yes,Yes,No,Digital Wallet,77350.00000000001,6059300.0,2,78.3361344537815,1,9,7,798
+Jakarta,High End,No,No,No,No,No,No,Digital Wallet,91130.0,4769700.0,0,52.339514978602,4,3,7,799
+Jakarta,High End,No,No,No,No,No,No,Pulsa,95679.99999999999,3482700.0000000005,0,36.39945652173914,4,7,7,800
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,102700.0,4855500.0,1,47.278481012658226,0,7,7,801
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,122005.0,4557800.0,2,37.357485348961106,0,13,7,802
+Jakarta,High End,No,No,No,No,Yes,Yes,Digital Wallet,123500.0,3621800.0,2,29.326315789473686,0,13,7,803
+Jakarta,High End,No,No,Yes,No,No,No,Digital Wallet,97045.00000000001,4330300.0,1,44.62156731413261,0,5,7,804
+Bandung,High End,No,No,Yes,No,Yes,Yes,Pulsa,123955.0,4000100.0000000005,3,32.27058206607237,0,17,7,805
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,26000.0,5822700.0,0,223.95,2,13,7,806
+Jakarta,High End,No,No,No,No,No,No,Pulsa,90155.0,5579600.0,0,61.88896899783706,1,6,7,807
+Bandung,Mid End,Yes,No,No,No,No,No,Pulsa,64675.0,7346300.0,1,113.58793969849246,1,11,7,808
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26065.0,7273500.0,0,279.0523690773067,2,5,7,809
+Bandung,High End,Yes,No,No,No,No,No,Debit,99385.0,5744700.0,1,57.802485284499674,1,19,7,810
+Jakarta,High End,No,No,Yes,No,No,No,Debit,97695.00000000001,4494100.0,1,46.00133067198935,0,13,7,811
+Bandung,High End,No,No,No,No,No,Yes,Pulsa,112840.0,4914000.0,1,43.54838709677419,0,9,7,812
+Jakarta,High End,No,No,Yes,No,Yes,No,Pulsa,117585.00000000001,6962800.0,2,59.21503593145383,1,13,7,813
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,116350.00000000001,4000100.0000000005,2,34.37988826815642,0,13,7,814
+Bandung,High End,Yes,No,No,No,No,No,Digital Wallet,103545.00000000001,5866900.000000001,1,56.66038920276208,1,10,7,815
+Jakarta,High End,No,No,No,No,No,No,Pulsa,89700.0,7373600.0,0,82.20289855072464,1,8,7,816
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,103090.0,4979000.0,1,48.29760403530895,0,7,7,817
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,110240.0,2619500.0,1,23.76179245283019,0,9,7,818
+Jakarta,High End,Yes,Yes,No,No,No,Yes,Credit,123110.00000000001,4668300.0,3,37.919746568109815,0,26,7,819
+Jakarta,High End,No,No,No,No,No,No,Digital Wallet,95875.0,7329400.000000001,0,76.44745762711865,1,5,7,820
+Jakarta,Mid End,Yes,No,No,No,No,No,Digital Wallet,66300.0,4856800.0,1,73.25490196078431,4,6,7,821
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,112450.0,5053100.0,1,44.9364161849711,0,10,7,822
+Jakarta,High End,No,No,Yes,No,Yes,No,Credit,116155.0,5400200.0,2,46.49132624510352,0,20,7,823
+Jakarta,High End,No,No,No,No,No,No,Debit,97630.0,7168200.0,0,73.42210386151798,1,15,7,824
+Jakarta,High End,No,No,No,No,No,No,Pulsa,97370.0,6706700.0,0,68.8785046728972,1,8,7,825
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,122525.0,6847100.0,3,55.88328912466844,3,31,7,826
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Debit,127465.0,3329300.0,3,26.119326874043857,0,24,7,827
+Bandung,High End,No,No,Yes,No,Yes,Yes,Pulsa,129025.0,3233100.0,3,25.05793450881612,0,20,7,828
+Bandung,High End,No,No,No,No,Yes,No,Digital Wallet,104390.0,5133700.0,1,49.178082191780824,1,5,7,829
+Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,25025.000000000004,5835700.0,0,233.19480519480516,2,15,7,830
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,105429.99999999999,4209400.000000001,1,39.92601726263873,0,9,7,831
+Bandung,Mid End,Yes,No,No,Yes,No,No,Pulsa,44850.0,4576000.0,2,102.02898550724638,4,12,7,832
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,103610.00000000001,4041700.0000000005,1,39.008782936010036,0,8,7,833
+Jakarta,High End,No,No,No,No,No,No,Digital Wallet,98085.00000000001,3733600.0,0,38.06494367130549,4,6,7,834
+Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,26195.0,6220500.0,0,237.46898263027296,2,14,8,835
+Jakarta,High End,Yes,No,No,No,No,No,Pulsa,96850.00000000001,4787900.000000001,1,49.43624161073826,0,9,8,836
+Bandung,Mid End,No,No,No,No,No,No,Digital Wallet,33150.0,7251400.000000001,0,218.74509803921572,2,3,8,837
+Bandung,High End,No,No,Yes,No,Yes,Yes,Pulsa,131755.0,7209800.0,3,54.72126295017267,3,26,8,838
+Bandung,High End,No,No,No,No,Yes,No,Credit,104585.00000000001,4475900.000000001,1,42.79676817899317,0,14,8,839
+Jakarta,High End,No,Yes,No,No,No,No,Credit,104845.00000000001,6892600.0,1,65.74085554866707,1,22,8,840
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Credit,122785.00000000001,4778800.0,3,38.920063525674955,0,23,8,841
+Bandung,High End,No,No,No,No,No,Yes,Pulsa,110370.0,3452800.0,1,31.28386336866902,0,9,8,842
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,122460.00000000001,3820700.0000000005,3,31.199575371549894,0,17,8,843
+Jakarta,High End,Yes,No,No,Yes,Yes,Yes,Debit,134355.0,3071900.0,4,22.8640541848089,0,29,8,844
+Bandung,High End,No,No,No,No,No,No,Digital Wallet,91130.0,3768700.0000000005,0,41.35520684736092,4,6,8,845
+Bandung,High End,No,No,No,No,No,Yes,Pulsa,109200.0,6264700.0,1,57.36904761904762,1,14,8,846
+Bandung,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,131495.0,3575000.0,4,27.187345526445874,0,26,8,847
+Bandung,Mid End,No,No,Yes,No,No,No,Pulsa,38220.0,7762300.0,1,203.0952380952381,2,9,8,848
+Bandung,High End,No,No,No,No,Yes,No,Debit,104130.0,6592300.0,1,63.3083645443196,1,16,8,849
+Bandung,Mid End,Yes,No,No,No,No,No,Pulsa,39585.0,5913700.0,1,149.39244663382595,2,9,8,850
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,137150.0,7209800.0,4,52.56872037914692,3,43,8,851
+Jakarta,High End,Yes,No,No,No,Yes,No,Pulsa,110435.0,5768100.0,2,52.230723955267806,1,15,8,852
+Bandung,High End,No,Yes,No,No,No,No,Pulsa,96850.00000000001,5648500.0,1,58.3221476510067,1,11,8,853
+Bandung,High End,No,No,No,No,No,No,Pulsa,98475.00000000001,5426200.0,0,55.1023102310231,1,7,8,854
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,25544.999999999996,7061600.0,0,276.43765903307894,2,9,8,855
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,123110.00000000001,7554300.0,3,61.36219640971488,3,19,8,856
+Bandung,High End,No,No,No,No,No,Yes,Debit,109850.00000000001,2797600.0,1,25.46745562130177,0,14,8,857
+Bandung,Mid End,No,No,No,No,No,No,Digital Wallet,58695.0,4837300.0,0,82.41417497231451,4,3,8,858
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25675.0,2921100.0,0,113.77215189873418,4,5,8,859
+Bandung,High End,No,Yes,Yes,No,Yes,No,Pulsa,122200.0,3421600.0,3,28.0,0,24,8,860
+Bandung,High End,No,No,Yes,No,Yes,Yes,Pulsa,119729.99999999999,7360600.0,3,61.476655808903374,3,21,8,861
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,129545.00000000001,6983600.0,3,53.90868038133466,3,26,8,862
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,131105.0,5003700.0,3,38.16559246405553,0,27,8,863
+Jakarta,High End,No,No,No,No,No,No,Pulsa,90610.00000000001,3988400.0,0,44.017216642754654,4,6,8,864
+Jakarta,Mid End,Yes,No,No,Yes,No,Yes,Pulsa,92495.0,3460600.0,3,37.41391426563598,0,21,8,865
+Jakarta,Mid End,Yes,No,No,No,No,No,Pulsa,64805.00000000001,2949700.0000000005,1,45.51654964894684,4,11,8,866
+Bandung,High End,Yes,No,No,Yes,Yes,Yes,Credit,130390.00000000001,6609200.0,4,50.68793619142572,3,37,8,867
+Jakarta,High End,Yes,No,No,No,No,No,Pulsa,97500.0,3363100.0,1,34.49333333333333,0,12,8,868
+Jakarta,High End,No,No,No,No,No,Yes,Credit,110760.0,3753100.0,1,33.8849765258216,0,14,8,869
+Jakarta,High End,No,No,No,No,Yes,Yes,Debit,124345.00000000001,6935500.0,2,55.77626764244641,1,24,8,870
+Bandung,High End,No,No,Yes,No,Yes,Yes,Pulsa,130780.0,7677800.0,3,58.70775347912525,3,24,8,871
+Jakarta,High End,No,Yes,No,No,Yes,No,Pulsa,108615.0,3742700.0000000005,2,34.458408138839026,0,17,8,872
+Bandung,Mid End,No,No,Yes,No,No,No,Pulsa,66365.0,4885400.000000001,1,73.61410381978455,4,7,8,873
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,112515.0,5450900.000000001,1,48.445984979780484,1,12,8,874
+Jakarta,High End,No,No,Yes,No,No,No,Pulsa,105625.0,4955600.0,1,46.91692307692308,0,8,8,875
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,113165.0,3308500.0,1,29.23607122343481,0,11,8,876
+Jakarta,Mid End,No,Yes,No,No,No,No,Pulsa,38935.0,3344900.0,1,85.90984974958263,4,9,9,877
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,26325.0,4369300.0,0,165.97530864197532,4,4,9,878
+Bandung,High End,No,No,No,No,Yes,No,Debit,110955.0,3178500.0,1,28.646748681898067,0,17,9,879
+Bandung,High End,No,Yes,No,No,Yes,Yes,Credit,129285.0,3006900.0,3,23.257918552036198,0,24,9,880
+Bandung,Mid End,No,No,Yes,No,Yes,Yes,Pulsa,63375.0,5666700.0,3,89.41538461538461,1,18,9,881
+Jakarta,High End,Yes,No,No,No,No,No,Credit,96525.0,7010900.000000001,1,72.63299663299664,1,19,9,882
+Jakarta,Mid End,No,No,No,No,Yes,Yes,Pulsa,59020.0,6536400.000000001,2,110.74889867841411,1,15,9,883
+Jakarta,High End,No,No,No,No,No,No,Pulsa,92300.0,2906800.0,0,31.492957746478872,4,8,9,884
+Jakarta,Mid End,No,No,No,Yes,Yes,No,Digital Wallet,52845.0,6240000.0,2,118.08118081180812,1,8,9,885
+Jakarta,Mid End,Yes,Yes,Yes,Yes,No,No,Digital Wallet,84500.0,5177900.000000001,4,61.27692307692309,0,23,9,886
+Jakarta,High End,No,No,No,No,Yes,No,Debit,100945.00000000001,5001100.0,1,49.54282034771409,0,13,9,887
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,58695.0,4884100.0,0,83.21151716500553,4,4,9,888
+Bandung,Mid End,No,No,Yes,Yes,Yes,Yes,Digital Wallet,94770.00000000001,4660500.0,4,49.17695473251028,0,17,9,889
+Jakarta,High End,No,No,No,No,No,Yes,Credit,109720.00000000001,7468500.0,1,68.06872037914691,1,19,9,890
+Bandung,High End,No,No,Yes,No,Yes,Yes,Credit,127790.0,3840200.0000000005,3,30.050864699898273,0,23,9,891
+Bandung,Mid End,No,No,No,No,Yes,No,Pulsa,71955.0,3494400.0,1,48.56368563685637,4,8,9,892
+Jakarta,Mid End,Yes,No,No,No,No,No,Pulsa,70914.99999999999,6052800.0,1,85.35288725939506,1,11,9,893
+Jakarta,Mid End,No,No,No,No,Yes,No,Credit,45110.00000000001,6957600.0,1,154.23631123919307,2,14,9,894
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,103415.0,4219800.0,1,40.80452545568825,0,7,9,895
+Jakarta,Mid End,No,Yes,No,Yes,Yes,No,Digital Wallet,86125.0,7169500.0,3,83.24528301886792,1,18,9,896
+Jakarta,High End,No,No,Yes,No,No,No,Debit,103155.0,5892900.000000001,1,57.12665406427222,1,17,9,897
+Bandung,High End,No,No,Yes,No,Yes,Yes,Pulsa,130650.0,5249400.000000001,3,40.17910447761195,0,24,9,898
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,123175.0,3760900.0,2,30.532981530343008,0,13,9,899
+Bandung,High End,Yes,Yes,Yes,No,No,No,Debit,119275.0,5428800.0,3,45.514986376021795,0,33,9,900
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,124150.0,6509100.0,2,52.42931937172775,1,17,9,901
+Jakarta,High End,No,Yes,Yes,No,No,No,Pulsa,103870.0,6172400.000000001,2,59.42428035043805,1,20,9,902
+Jakarta,High End,No,No,No,No,No,No,Pulsa,96915.0,4088500.0,0,42.18645204560698,4,7,9,903
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,116285.00000000001,6462300.0,2,55.57294577976523,1,15,9,904
+Jakarta,Mid End,No,No,No,No,No,No,Debit,31330.000000000004,4153500.0,0,132.5726141078838,4,9,9,905
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,110955.0,3577600.0,1,32.243702401874636,0,11,9,906
+Bandung,High End,No,No,No,No,Yes,No,Pulsa,105104.99999999999,6814600.0,1,64.8361162646877,1,10,9,907
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,109005.0,4839900.000000001,1,44.40071556350627,0,9,9,908
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,122720.00000000001,7242300.0,2,59.01483050847457,1,15,9,909
+Jakarta,Mid End,No,No,No,No,No,No,Digital Wallet,58435.0,6529900.000000001,0,111.7463848720801,2,3,9,910
+Jakarta,Mid End,Yes,No,Yes,Yes,Yes,Yes,Digital Wallet,76050.0,3941600.0,5,51.82905982905983,0,20,9,911
+Bandung,Mid End,Yes,Yes,No,No,Yes,Yes,Pulsa,97045.00000000001,7670000.0,4,79.03549899531144,3,37,9,912
+Bandung,High End,No,No,No,No,No,Yes,Pulsa,105040.0,5057000.0,1,48.14356435643565,0,7,9,913
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,24635.0,7023900.000000001,0,285.11873350923486,2,9,9,914
+Bandung,High End,No,No,No,No,Yes,Yes,Debit,118040.0,3351400.0,2,28.3920704845815,0,19,9,915
+Jakarta,High End,No,No,No,No,No,No,Pulsa,97175.0,6503900.000000001,0,66.92976588628764,1,8,9,916
+Jakarta,High End,No,Yes,Yes,Yes,Yes,No,Digital Wallet,123304.99999999999,3920800.0,4,31.797575118608332,0,23,9,917
+Bandung,High End,No,No,No,No,No,Yes,Pulsa,108290.0,4576000.0,1,42.25690276110444,0,8,9,918
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,109785.00000000001,4605900.000000001,1,41.95381882770871,0,9,9,919
+Jakarta,Mid End,No,No,No,No,No,No,Debit,57460.00000000001,2637700.0000000005,0,45.904977375565615,4,12,9,920
+Bandung,High End,No,No,Yes,No,No,No,Debit,98475.00000000001,6636500.0,1,67.39273927392739,1,16,9,921
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,110565.0,6623500.0,1,59.905937683715464,1,13,9,922
+Jakarta,Mid End,No,No,No,Yes,No,No,Pulsa,38545.0,7412600.0,1,192.31028667790895,2,7,10,923
+Bandung,High End,Yes,No,No,No,Yes,No,Digital Wallet,110110.00000000001,7391800.0,2,67.1310507674144,1,12,10,924
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,111215.0,4336800.0,1,38.994739918176506,0,9,10,925
+Bandung,High End,Yes,Yes,Yes,No,Yes,Yes,Pulsa,135720.0,6545500.0,5,48.227969348659,3,47,10,926
+Jakarta,High End,No,Yes,Yes,Yes,Yes,No,Digital Wallet,120250.0,3139500.0,4,26.10810810810811,0,24,10,927
+Bandung,High End,No,No,Yes,No,Yes,Yes,Pulsa,130780.0,5201300.0,3,39.7713717693837,0,24,10,928
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,103935.0,7332000.0,1,70.54409005628519,1,9,10,929
+Bandung,Mid End,No,No,No,No,No,No,Pulsa,59214.99999999999,5326100.0,0,89.94511525795829,4,5,10,930
+Jakarta,High End,No,No,No,Yes,Yes,Yes,Pulsa,128050.00000000001,6739200.0,3,52.62944162436548,3,26,10,931
+Jakarta,High End,No,Yes,Yes,No,No,Yes,Pulsa,123304.99999999999,3996200.0000000005,3,32.40906694781234,0,21,10,932
+Jakarta,High End,No,Yes,No,No,No,No,Credit,105300.0,3829800.0,1,36.370370370370374,0,16,10,933
+Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,123955.0,6958900.000000001,2,56.140534871525965,1,16,10,934
+Jakarta,High End,No,No,Yes,No,No,Yes,Credit,109979.99999999999,4316000.0,2,39.24349881796691,0,17,10,935
+Bandung,High End,Yes,Yes,Yes,Yes,Yes,Yes,Pulsa,143130.0,7543900.000000001,6,52.70663033605813,3,45,10,936
+Bandung,High End,No,Yes,No,No,No,No,Pulsa,94705.0,4145700.0,1,43.77487989018531,0,10,10,937
+Jakarta,High End,Yes,No,No,No,Yes,Yes,Pulsa,128310.0,7229300.0,3,56.342451874366766,3,25,10,938
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,128050.00000000001,5851300.0,3,45.69543147208121,3,26,10,939
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,111280.0,6689800.0,1,60.11682242990654,1,12,10,940
+Jakarta,High End,Yes,No,No,No,Yes,Yes,Pulsa,128115.00000000001,4755400.000000001,3,37.11821410451548,0,20,10,941
+Jakarta,High End,No,Yes,No,No,No,No,Debit,104065.0,4862000.0,1,46.7207995003123,0,15,10,942
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,110825.0,4644900.000000001,1,41.912023460410566,0,9,10,943
+Jakarta,Mid End,No,No,No,No,Yes,Yes,Credit,93795.00000000001,3194100.0,2,34.05405405405405,0,19,10,944
+Jakarta,High End,No,Yes,No,Yes,Yes,Yes,Pulsa,129805.0,5515900.000000001,4,42.49374061091638,3,37,10,945
+Jakarta,High End,No,No,No,No,No,No,Pulsa,97175.0,7251400.000000001,0,74.62207357859533,1,8,10,946
+Jakarta,High End,No,No,No,No,No,No,Pulsa,91130.0,3194100.0,0,35.049928673323826,4,8,10,947
+Jakarta,High End,No,No,Yes,No,No,Yes,Pulsa,116740.0,6661200.0,2,57.060133630289535,1,16,10,948
+Bandung,High End,No,No,No,No,No,Yes,Pulsa,103025.0,5012800.0,1,48.65615141955836,0,7,10,949
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,116350.00000000001,5467800.0,2,46.99441340782122,1,13,10,950
+Jakarta,Mid End,No,No,No,No,No,Yes,Pulsa,45110.00000000001,4217200.0,1,93.48703170028817,4,6,10,951
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,112385.0,7408700.0,1,65.9224985540775,1,14,10,952
+Jakarta,Mid End,No,No,No,No,No,Yes,Digital Wallet,44070.0,3287700.0000000005,1,74.60176991150443,4,6,10,953
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,123370.0,3681600.0,3,29.841938883034775,0,17,10,954
+Jakarta,High End,No,No,No,No,No,No,Digital Wallet,96395.00000000001,5500300.0,0,57.06001348617666,1,4,10,955
+Jakarta,High End,Yes,No,No,No,Yes,Yes,Pulsa,130325.00000000001,7797400.000000001,3,59.83042394014963,3,28,10,956
+Bandung,High End,No,No,No,No,No,No,Pulsa,91390.0,2810600.0,0,30.753911806543385,4,9,10,957
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Credit,132730.0,4674800.0,4,35.220372184133204,0,33,10,958
+Jakarta,High End,No,Yes,No,No,No,No,Debit,104910.00000000001,4539600.0,1,43.271375464684006,0,16,10,959
+Jakarta,High End,No,No,No,No,No,No,Pulsa,91000.0,4102800.0,0,45.08571428571429,4,6,10,960
+Jakarta,High End,No,No,No,No,Yes,No,Debit,111865.0,3855800.0,1,34.46833236490413,0,16,10,961
+Bandung,Mid End,No,No,No,No,No,No,Credit,58305.00000000001,5279300.0,0,90.54626532887401,4,10,10,962
+Bandung,High End,No,No,No,No,No,Yes,Pulsa,112645.00000000001,6487000.0,1,57.58799769186381,1,14,10,963
+Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,123760.0,6398600.0,2,51.70168067226891,1,18,10,964
+Jakarta,High End,No,No,No,No,No,Yes,Debit,104325.0,4677400.000000001,1,44.83489096573209,0,13,10,965
+Jakarta,Mid End,No,No,Yes,Yes,No,No,Credit,71760.0,7702500.0,2,107.33695652173913,1,17,10,966
+Jakarta,Mid End,No,No,Yes,No,No,No,Digital Wallet,38350.0,4936100.0,1,128.71186440677965,4,5,10,967
+Jakarta,High End,No,No,No,No,Yes,Yes,Debit,116610.00000000001,2862600.0,2,24.54849498327759,0,20,11,968
+Bandung,High End,No,No,No,No,Yes,No,Debit,103350.00000000001,4509700.0,1,43.635220125786155,0,14,11,969
+Jakarta,High End,No,No,No,Yes,Yes,No,Pulsa,117195.00000000001,6825000.0,2,58.236272878535765,1,14,11,970
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,26130.000000000004,5850000.0,0,223.88059701492534,2,12,11,971
+Bandung,High End,Yes,No,No,Yes,Yes,No,Credit,125060.0,4031300.0,3,32.234927234927234,0,26,11,972
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25025.000000000004,7329400.000000001,0,292.8831168831169,2,8,11,973
+Jakarta,High End,No,No,No,No,Yes,Yes,Debit,123695.00000000001,5296200.0,2,42.816605359957954,0,22,11,974
+Jakarta,High End,No,No,Yes,Yes,Yes,Yes,Debit,135265.00000000003,5918900.000000001,4,43.75780874579529,3,42,11,975
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25935.0,7654400.000000001,0,295.13784461152886,2,4,11,976
+Jakarta,High End,No,Yes,No,No,No,No,Pulsa,97435.0,5526300.0,1,56.717811874583056,1,11,11,977
+Bandung,High End,Yes,No,No,No,No,No,Pulsa,95550.0,5861700.0,1,61.3469387755102,1,13,11,978
+Bandung,Mid End,No,No,Yes,No,Yes,No,Pulsa,54080.00000000001,4054700.0000000005,2,74.97596153846153,4,11,11,979
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,129414.99999999999,4123600.0000000005,3,31.863385233550986,0,21,11,980
+Bandung,High End,No,Yes,No,No,Yes,Yes,Pulsa,123500.0,7774000.0,3,62.94736842105263,3,29,11,981
+Jakarta,High End,No,No,No,Yes,No,No,Pulsa,96005.0,4724200.0,1,49.20785375761679,0,5,11,982
+Jakarta,Mid End,No,No,No,Yes,No,Yes,Pulsa,86255.0,3718000.0,2,43.10474755086662,0,11,11,983
+Bandung,Mid End,Yes,No,No,No,No,No,Credit,63115.0,5777200.0,1,91.53450051493306,1,16,11,984
+Jakarta,Mid End,No,No,Yes,No,No,No,Pulsa,69875.0,4429100.0,1,63.38604651162791,4,7,11,985
+Bandung,High End,No,No,Yes,No,Yes,Yes,Pulsa,130975.0,2897700.0000000005,3,22.124069478908194,0,24,11,986
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,30095.0,7372300.0,0,244.96760259179266,2,14,11,987
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,129350.0,6871800.0,3,53.12562814070352,3,26,11,988
+Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,122200.0,2756000.0,2,22.5531914893617,0,14,11,989
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,57265.0,4160000.0,0,72.64472190692395,4,4,11,990
+Jakarta,High End,No,No,No,No,No,No,Pulsa,96655.0,6597500.0,0,68.25823806321452,1,8,11,991
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,132600.0,7475000.0,3,56.372549019607845,3,38,11,992
+Jakarta,High End,No,No,No,No,No,No,Pulsa,99450.0,2978300.0,0,29.947712418300654,4,9,11,993
+Bandung,High End,No,No,No,No,No,Yes,Credit,110240.0,6653400.000000001,1,60.35377358490567,1,19,11,994
+Jakarta,High End,No,Yes,No,No,No,No,Debit,104650.0,6654700.0,1,63.590062111801245,1,21,11,995
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Debit,127205.0,7376200.0,3,57.98671435871231,3,30,11,996
+Jakarta,High End,No,No,No,No,No,No,Pulsa,97435.0,2657200.0000000005,0,27.27151434289527,4,9,11,997
+Jakarta,High End,No,Yes,No,No,No,No,Pulsa,96915.0,5981300.0,1,61.71696847753186,1,12,11,998
+Jakarta,High End,No,Yes,Yes,No,Yes,No,Pulsa,127530.0,3521700.0000000005,3,27.614678899082573,0,27,12,999
+Bandung,High End,No,Yes,No,No,Yes,Yes,Pulsa,131755.0,5157100.0,3,39.14158855451406,0,28,12,1000
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,109785.00000000001,4329000.0,1,39.43161634103019,0,10,12,1001
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,124800.00000000001,6810700.0,3,54.57291666666666,3,22,12,1002
+Jakarta,Mid End,No,No,No,No,No,No,Debit,59020.0,3753100.0,0,63.590308370044056,4,10,12,1003
+Jakarta,High End,No,Yes,Yes,Yes,No,No,Digital Wallet,108940.0,7234500.0,3,66.40811455847255,3,21,12,1004
+Bandung,Mid End,No,No,No,No,No,Yes,Credit,69745.0,3373500.0,1,48.3690587138863,4,13,12,1005
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,138710.0,3127800.0,4,22.54920337394564,0,29,12,1006
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,124865.0,3350100.0,2,26.829776158250912,0,16,12,1007
+Jakarta,High End,No,Yes,Yes,No,No,No,Pulsa,109850.00000000001,5400200.0,2,49.15976331360946,1,20,12,1008
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,25740.000000000004,3448900.0,0,133.98989898989896,4,12,12,1009
+Jakarta,High End,No,No,Yes,Yes,No,Yes,Pulsa,116220.00000000001,6561100.0,3,56.454138702460845,3,23,12,1010
+Jakarta,Mid End,No,No,No,Yes,No,No,Debit,65325.0,4711200.0,1,72.11940298507463,4,11,12,1011
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,129285.0,3664700.0000000005,3,28.345902463549525,0,21,12,1012
+Bandung,High End,No,No,No,No,No,Yes,Pulsa,104585.00000000001,6986200.0,1,66.79925419515226,1,12,12,1013
+Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,122460.00000000001,5167500.0,2,42.19745222929936,0,14,12,1014
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Digital Wallet,124150.0,4599400.000000001,3,37.04712041884817,0,15,12,1015
+Jakarta,Mid End,Yes,No,Yes,Yes,No,No,Digital Wallet,80145.0,7371000.0,3,91.97080291970804,1,18,12,1016
+Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Digital Wallet,146835.0,5154500.0,5,35.10402833111996,3,30,12,1017
+Jakarta,High End,No,Yes,No,No,Yes,No,Debit,116675.0,7372300.0,2,63.1866295264624,1,27,12,1018
+Jakarta,High End,No,Yes,No,No,Yes,No,Pulsa,118690.0,6113900.000000001,2,51.511500547645134,1,20,12,1019
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,57915.0,5410600.0,0,93.42312008978675,2,4,12,1020
+Jakarta,High End,Yes,Yes,Yes,No,No,Yes,Debit,129610.00000000001,3299400.0,4,25.45636910732196,0,29,12,1021
+Jakarta,High End,Yes,No,Yes,No,No,No,Debit,106210.00000000001,3705000.0,2,34.883720930232556,0,20,12,1022
+Jakarta,Mid End,No,No,No,Yes,Yes,No,Pulsa,77740.0,5955300.0,2,76.60535117056857,1,11,12,1023
+Jakarta,High End,Yes,No,No,No,No,No,Pulsa,102635.0,7547800.0,1,73.54021532615579,1,15,12,1024
+Jakarta,Mid End,No,Yes,No,No,No,No,Digital Wallet,37960.0,4871100.0,1,128.32191780821918,4,7,12,1025
+Jakarta,High End,Yes,No,No,No,No,No,Pulsa,101790.0,4608500.0,1,45.274584929757346,0,10,12,1026
+Bandung,High End,Yes,No,No,Yes,No,No,Debit,105104.99999999999,5597800.0,2,53.25912183055041,1,21,12,1027
+Bandung,Mid End,No,No,No,Yes,Yes,Yes,Digital Wallet,96265.0,5393700.0,3,56.02970965563808,0,17,12,1028
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,24700.0,4595500.0,0,186.05263157894737,4,10,12,1029
+Bandung,High End,Yes,No,No,Yes,Yes,Yes,Debit,128570.00000000001,7226700.0,4,56.20829120323558,3,33,12,1030
+Bandung,High End,No,No,No,No,No,No,Credit,95875.0,2613000.0,0,27.25423728813559,4,11,12,1031
+Bandung,Mid End,No,No,Yes,Yes,No,Yes,Pulsa,56745.0,3168100.0,3,55.830469644902635,0,18,12,1032
+Bandung,Mid End,Yes,No,No,Yes,No,No,Digital Wallet,73645.0,3955900.0,2,53.71579876434245,0,11,12,1033
+Bandung,High End,No,No,Yes,No,Yes,Yes,Debit,130195.00000000001,4786600.0,3,36.76485272091862,0,25,12,1034
+Jakarta,High End,No,No,No,Yes,Yes,Yes,Digital Wallet,129935.0,7277400.000000001,3,56.00800400200101,3,22,12,1035
+Jakarta,High End,No,No,No,No,No,Yes,Debit,101530.0,6163300.0,1,60.70422535211268,1,18,12,1036
+Jakarta,High End,No,No,No,No,No,No,Digital Wallet,97500.0,2845700.0000000005,0,29.18666666666667,4,7,13,1037
+Jakarta,High End,No,No,Yes,No,No,No,Pulsa,96590.0,3893500.0,1,40.309555854643335,0,7,13,1038
+Jakarta,Mid End,No,No,No,No,No,Yes,Pulsa,45630.0,4035200.0000000005,1,88.43304843304844,4,6,13,1039
+Bandung,High End,No,Yes,No,Yes,No,Yes,Debit,115765.0,5019300.0,3,43.35766423357664,0,24,13,1040
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Credit,132925.0,2603900.0,3,19.589242053789732,0,24,13,1041
+Jakarta,High End,Yes,No,No,No,Yes,Yes,Pulsa,130454.99999999999,2610400.0,3,20.009965122072746,0,19,13,1042
+Jakarta,High End,No,Yes,Yes,No,No,No,Pulsa,109785.00000000001,7541300.0,2,68.69153345174658,1,21,13,1043
+Bandung,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,138970.0,3242200.0000000005,4,23.33021515434986,0,29,13,1044
+Jakarta,High End,No,No,No,No,No,No,Pulsa,91195.00000000001,6631300.0,0,72.71560940841054,1,8,13,1045
+Bandung,High End,Yes,No,No,No,Yes,Yes,Digital Wallet,127595.00000000001,7182500.0,3,56.29139072847681,3,18,13,1046
+Jakarta,Mid End,Yes,No,No,Yes,Yes,No,Credit,59214.99999999999,6312800.0,3,106.60812294182219,1,27,13,1047
+Jakarta,Mid End,Yes,No,No,Yes,Yes,Yes,Pulsa,70785.00000000001,6775600.0,4,95.72084481175388,3,30,13,1048
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,31070.0,3857100.0,0,124.14225941422595,4,4,13,1049
+Jakarta,High End,No,Yes,Yes,Yes,No,No,Pulsa,116220.00000000001,2893800.0,3,24.8993288590604,0,24,13,1050
+Jakarta,Mid End,No,Yes,No,No,No,No,Pulsa,40365.0,6670300.0,1,165.24959742351047,2,13,13,1051
+Jakarta,Mid End,No,No,Yes,No,Yes,Yes,Debit,63375.0,3451500.0,3,54.46153846153846,0,25,13,1052
+Bandung,High End,No,No,No,No,No,Yes,Pulsa,109979.99999999999,3456700.0000000005,1,31.430260047281333,0,9,13,1053
+Jakarta,High End,No,No,No,No,No,No,Credit,96720.00000000001,4793100.0,0,49.55645161290322,4,11,13,1054
+Jakarta,High End,No,Yes,Yes,No,No,No,Pulsa,103740.0,6587100.0,2,63.49624060150376,1,20,13,1055
+Bandung,High End,No,Yes,Yes,No,No,No,Pulsa,105495.0,6247800.0,2,59.22365988909427,1,20,13,1056
+Bandung,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,127400.0,4828200.0,4,37.89795918367347,0,27,13,1057
+Bandung,Mid End,No,No,Yes,No,Yes,Yes,Digital Wallet,97890.0,6240000.0,3,63.745019920318725,1,16,13,1058
+Bandung,High End,Yes,No,No,No,Yes,Yes,Pulsa,131039.99999999999,4249700.0,3,32.43055555555556,0,22,13,1059
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,117650.0,7012200.0,2,59.60220994475138,1,15,13,1060
+Jakarta,Mid End,No,No,No,No,No,Yes,Pulsa,72735.0,5847400.000000001,1,80.39320822162647,1,9,13,1061
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,123565.0,2899000.0,2,23.461336138874277,0,15,13,1062
+Jakarta,High End,Yes,Yes,No,No,Yes,No,Pulsa,125645.00000000001,2743000.0,3,21.831350232798755,0,26,13,1063
+Bandung,High End,No,No,No,Yes,Yes,Yes,Digital Wallet,128700.00000000001,4540900.000000001,3,35.282828282828284,0,18,13,1064
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,123825.0,3876600.0,2,31.30708661417323,0,14,13,1065
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,105104.99999999999,7753200.0,1,73.76623376623378,1,12,13,1066
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Digital Wallet,125645.00000000001,6883500.0,3,54.785307811691666,3,18,13,1067
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,114854.99999999999,4862000.0,2,42.33163554046407,0,14,13,1068
+Jakarta,High End,No,No,Yes,No,Yes,No,Pulsa,108160.00000000001,5236400.000000001,2,48.41346153846154,0,13,13,1069
+Bandung,High End,No,Yes,Yes,No,No,No,Pulsa,103025.0,6684600.0,2,64.8832807570978,1,19,13,1070
+Jakarta,High End,Yes,No,No,No,No,Yes,Pulsa,109265.0,6168500.0,2,56.454491374182034,1,21,13,1071
+Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,118429.99999999999,6951100.0,2,58.69374313940725,1,15,13,1072
+Bandung,High End,No,Yes,Yes,No,Yes,No,Pulsa,122330.0,3864900.0,3,31.59404888416578,0,23,13,1073
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,106600.00000000001,4371900.000000001,1,41.01219512195122,0,8,13,1074
+Jakarta,High End,No,No,No,No,No,No,Pulsa,96590.0,6944600.0,0,71.89771197846568,1,8,14,1075
+Jakarta,High End,No,No,Yes,No,No,No,Pulsa,97955.0,6493500.0,1,66.29064366290643,1,10,14,1076
+Jakarta,Mid End,No,No,No,No,Yes,Yes,Pulsa,60255.0,6968000.0,2,115.6418554476807,1,14,14,1077
+Bandung,High End,No,No,No,No,Yes,Yes,Digital Wallet,116740.0,5339100.0,2,45.73496659242762,0,13,14,1078
+Bandung,High End,No,Yes,No,No,Yes,Yes,Pulsa,130260.00000000001,4379700.0,3,33.62275449101796,0,25,14,1079
+Jakarta,High End,No,No,Yes,No,No,Yes,Pulsa,113425.0,6221800.0,2,54.853868194842406,1,16,14,1080
+Jakarta,High End,No,No,No,No,No,No,Pulsa,97435.0,2697500.0,0,27.685123415610406,4,8,14,1081
+Jakarta,High End,No,Yes,No,No,No,Yes,Pulsa,112190.0,4780100.0,2,42.6071842410197,0,15,14,1082
+Bandung,High End,No,Yes,No,No,No,No,Pulsa,102635.0,6763900.000000001,1,65.90246991766942,1,15,14,1083
+Jakarta,Mid End,Yes,No,No,No,Yes,No,Debit,84110.00000000001,5263700.0,2,62.58114374034002,1,20,14,1084
+Jakarta,High End,No,No,No,Yes,Yes,No,Pulsa,116935.0,7101900.000000001,2,60.73374096720401,1,14,14,1085
+Jakarta,Mid End,No,No,Yes,No,Yes,Yes,Pulsa,65975.00000000001,6347900.000000001,3,96.2167487684729,1,20,14,1086
+Bandung,High End,No,No,No,No,No,Yes,Pulsa,110695.00000000001,5915000.0,1,53.435114503816784,1,13,14,1087
+Bandung,High End,No,No,No,Yes,Yes,No,Pulsa,119145.00000000001,5595200.0,2,46.96126568466993,1,14,14,1088
+Jakarta,High End,No,No,Yes,No,No,No,Pulsa,104585.00000000001,5401500.0,1,51.646985705407076,1,10,14,1089
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,130715.0,6791200.0,3,51.954251616111385,3,37,14,1090
+Jakarta,High End,No,No,No,No,No,No,Credit,92300.0,4196400.000000001,0,45.464788732394375,4,13,14,1091
+Jakarta,High End,No,Yes,No,No,No,Yes,Debit,118170.00000000001,6692400.000000001,2,56.633663366336634,1,27,14,1092
+Jakarta,Mid End,Yes,Yes,No,No,Yes,No,Pulsa,85085.00000000001,3745300.0,3,44.018334606569894,0,22,14,1093
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,111929.99999999999,2830100.0,1,25.28455284552846,0,11,14,1094
+Bandung,High End,Yes,Yes,No,Yes,Yes,Yes,Digital Wallet,137735.0,7653100.0,5,55.56394525719679,3,28,14,1095
+Bandung,High End,No,Yes,No,Yes,No,Yes,Credit,116545.00000000001,3255200.0000000005,3,27.930842163971,0,25,14,1096
+Bandung,High End,No,No,No,No,Yes,Yes,Credit,117585.00000000001,6210100.0,2,52.813709231619676,1,23,14,1097
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,136305.0,2979600.0,4,21.859799713876967,0,30,14,1098
+Bandung,High End,Yes,No,Yes,Yes,Yes,Yes,Pulsa,136630.0,2758600.0,5,20.190294957183635,0,33,15,1099
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,63830.00000000001,6771700.0,0,106.08961303462321,2,6,15,1100
+Bandung,High End,No,No,No,No,No,No,Debit,97370.0,3263000.0,0,33.511348464619495,4,15,15,1101
+Jakarta,High End,No,No,Yes,Yes,Yes,Yes,Pulsa,131755.0,3932500.0,4,29.84706462752837,0,24,15,1102
+Bandung,High End,No,No,No,No,No,No,Digital Wallet,96785.00000000001,7432100.0,0,76.78979180658159,1,5,15,1103
+Jakarta,High End,Yes,Yes,No,No,Yes,Yes,Credit,128829.99999999999,3855800.0,4,29.92936427850656,0,30,15,1104
+Bandung,High End,No,Yes,No,No,No,No,Pulsa,96720.00000000001,6000800.0,1,62.04301075268816,1,12,15,1105
+Jakarta,High End,No,No,No,No,No,No,Credit,96460.00000000001,5918900.000000001,0,61.3611859838275,1,14,15,1106
+Bandung,Mid End,No,No,Yes,No,No,Yes,Pulsa,77285.00000000001,6667700.0,2,86.27417998317912,1,15,15,1107
+Jakarta,Mid End,Yes,No,No,No,No,No,Digital Wallet,72410.00000000001,5874700.0,1,81.13105924596049,1,8,15,1108
+Bandung,High End,No,Yes,No,No,No,No,Pulsa,104260.0,6445400.000000001,1,61.8204488778055,1,15,15,1109
+Jakarta,Mid End,No,Yes,No,Yes,No,No,Credit,76180.0,2603900.0,2,34.18088737201365,0,20,15,1110
+Bandung,High End,No,Yes,No,No,No,No,Credit,97890.0,5883800.0,1,60.1062416998672,1,19,15,1111
+Jakarta,High End,No,No,Yes,No,Yes,No,Pulsa,109590.0,5203900.000000001,2,47.48517200474497,0,13,15,1112
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,131430.0,2671500.0,3,20.326409495548962,0,22,15,1113
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,33019.99999999999,3708900.0,0,112.32283464566932,4,13,15,1114
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,103220.00000000001,4707300.0,1,45.60453400503778,0,7,15,1115
+Jakarta,High End,No,No,No,No,No,No,Pulsa,98345.00000000001,2728700.0000000005,0,27.74619960343688,4,9,15,1116
+Bandung,Mid End,No,No,No,Yes,No,No,Credit,71500.0,4117100.0000000005,1,57.581818181818186,4,12,15,1117
+Bandung,Mid End,No,No,No,Yes,No,No,Pulsa,38610.0,7173400.000000001,1,185.7912457912458,2,8,15,1118
+Bandung,Mid End,Yes,No,No,No,No,Yes,Debit,84045.00000000001,6214000.0,2,73.9365815931941,1,24,15,1119
+Jakarta,High End,Yes,No,Yes,Yes,No,Yes,Digital Wallet,125190.0,3812900.0,4,30.456905503634477,0,17,15,1120
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,131625.0,5158400.000000001,4,39.19012345679013,3,35,15,1121
+Jakarta,High End,No,No,No,No,No,Yes,Debit,111280.0,6475300.0,1,58.1892523364486,1,20,15,1122
+Jakarta,High End,No,No,Yes,Yes,No,No,Pulsa,107965.0,3374800.0,2,31.258278145695364,0,15,15,1123
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,114595.00000000001,3281200.0000000005,2,28.633011911514465,0,14,15,1124
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,25220.0,6992700.0,0,277.2680412371134,2,16,15,1125
+Jakarta,High End,Yes,No,No,No,Yes,No,Pulsa,112060.0,7577700.0,2,67.62180974477958,1,17,15,1126
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,26000.0,6073600.0,0,233.6,2,8,15,1127
+Bandung,High End,No,No,No,No,No,No,Digital Wallet,98800.0,6419400.000000001,0,64.97368421052633,1,6,15,1128
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,121354.99999999999,6843200.0,2,56.38993036957687,1,15,15,1129
+Jakarta,High End,No,Yes,No,No,No,Yes,Debit,111670.00000000001,4652700.0,2,41.664726426076825,0,20,15,1130
+Jakarta,High End,No,Yes,No,No,No,No,Pulsa,103675.0,3656900.0,1,35.27272727272727,0,12,15,1131
+Jakarta,High End,No,Yes,No,No,No,Yes,Pulsa,116804.99999999999,3468400.0,2,29.693934335002787,0,15,15,1132
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,25675.0,3156400.0,0,122.9367088607595,4,12,15,1133
+Bandung,Mid End,No,No,No,No,No,No,Pulsa,67015.0,2713100.0,0,40.484966052376336,4,9,15,1134
+Jakarta,High End,No,No,No,No,No,No,Debit,89700.0,7372300.0,0,82.18840579710145,1,13,15,1135
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,125320.00000000001,3494400.0,2,27.88381742738589,0,16,16,1136
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,112580.0,3260400.0,1,28.960739030023095,0,11,16,1137
+Jakarta,Mid End,No,No,Yes,No,No,Yes,Credit,84760.0,6138600.0,2,72.42331288343559,1,22,16,1138
+Jakarta,High End,No,No,No,No,No,No,Debit,93340.0,4325100.0,0,46.33704735376045,4,12,16,1139
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,105300.0,3035500.0,1,28.82716049382716,0,10,16,1140
+Jakarta,Mid End,No,No,No,Yes,Yes,Yes,Pulsa,64935.0,6292000.0,3,96.89689689689689,1,19,16,1141
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,124995.00000000001,7686900.000000001,2,61.49765990639626,1,18,16,1142
+Jakarta,Mid End,No,Yes,No,No,Yes,No,Digital Wallet,50700.0,7399600.0,2,145.94871794871796,1,13,16,1143
+Jakarta,High End,No,Yes,No,No,No,No,Credit,96590.0,2698800.0,1,27.94078061911171,0,17,16,1144
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,110435.0,3997500.0,1,36.19776339022955,0,10,16,1145
+Jakarta,Mid End,Yes,No,No,No,No,No,Pulsa,65195.00000000001,5530200.0,1,84.82552342971086,1,9,16,1146
+Bandung,High End,No,No,Yes,No,Yes,Yes,Pulsa,128375.0,4409600.0,3,34.34936708860759,0,19,16,1147
+Jakarta,High End,No,No,No,No,No,Yes,Credit,110955.0,7499700.0,1,67.59226713532513,1,17,16,1148
+Jakarta,High End,No,No,Yes,No,No,Yes,Pulsa,114985.00000000001,6741800.0,2,58.63199547767099,1,15,16,1149
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,130000.0,4932200.0,3,37.94,0,27,16,1150
+Jakarta,Mid End,No,No,No,Yes,Yes,No,Pulsa,77220.0,7222800.0,2,93.53535353535354,1,12,16,1151
+Jakarta,High End,No,No,No,Yes,No,Yes,Credit,115765.0,7738900.000000001,2,66.85008422234701,1,21,16,1152
+Jakarta,Mid End,No,Yes,No,Yes,No,No,Digital Wallet,70070.00000000001,6618300.0,2,94.45269016697586,1,12,16,1153
+Jakarta,High End,No,Yes,Yes,No,Yes,No,Credit,116285.00000000001,4804800.0,3,41.31917272219116,0,28,16,1154
+Jakarta,High End,No,No,No,No,No,No,Debit,96005.0,4193800.0,0,43.68314150304672,4,13,16,1155
+Bandung,High End,No,No,No,Yes,Yes,Yes,Pulsa,122785.00000000001,4953000.0,3,40.33880359978824,0,18,16,1156
+Bandung,High End,No,Yes,Yes,No,No,Yes,Credit,124280.0,7689500.0,3,61.87238493723849,3,34,16,1157
+Bandung,High End,No,No,No,No,No,No,Pulsa,94445.00000000001,3705000.0,0,39.22918100481761,4,7,16,1158
+Jakarta,High End,No,Yes,Yes,No,No,Yes,Credit,121160.00000000001,7146100.0,3,58.98068669527896,3,37,16,1159
+Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25610.0,4469400.000000001,0,174.51776649746196,4,7,16,1160
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,110175.0,6676800.0,1,60.60176991150443,1,12,16,1161
+Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,26325.0,5625100.0,0,213.679012345679,2,13,16,1162
+Bandung,High End,Yes,No,No,No,Yes,Yes,Pulsa,122525.0,3675100.0,3,29.9946949602122,0,19,16,1163
+Bandung,High End,Yes,No,Yes,No,No,No,Debit,110955.0,4171700.0,2,37.59812536613943,0,20,17,1164
+Bandung,Mid End,No,No,No,No,No,No,Pulsa,58565.0,4936100.0,0,84.28412874583796,4,4,17,1165
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Credit,130585.00000000001,7160400.000000001,3,54.83325037332006,3,34,17,1166
+Jakarta,High End,Yes,Yes,No,No,Yes,No,Pulsa,122720.00000000001,3672500.0,3,29.925847457627114,0,25,17,1167
+Jakarta,High End,No,No,Yes,No,No,No,Pulsa,99645.00000000001,4136600.0000000005,1,41.51337247227658,0,8,17,1168
+Bandung,High End,Yes,No,Yes,No,Yes,Yes,Pulsa,135460.0,3074500.0,4,22.696737044145873,0,27,17,1169
+Bandung,High End,Yes,Yes,Yes,No,No,No,Credit,117260.0,2633800.0,3,22.46119733924612,0,29,17,1170
+Jakarta,High End,No,No,No,No,No,No,Debit,91520.00000000001,5809700.0,0,63.480113636363626,1,14,17,1171
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,120315.0,7507500.0,2,62.39870340356564,1,14,17,1172
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,111085.00000000001,4771000.0,1,42.94909303686366,0,9,17,1173
+Bandung,High End,No,No,Yes,No,Yes,No,Pulsa,114725.00000000001,5253300.0,2,45.79036827195467,0,14,17,1174
+Jakarta,High End,No,No,No,No,No,Yes,Debit,105950.0,4475900.000000001,1,42.245398773006144,0,14,17,1175
+Bandung,High End,No,No,Yes,Yes,Yes,Yes,Debit,128180.0,6708000.0,4,52.33265720081136,3,33,17,1176
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,105104.99999999999,6726200.0,1,63.99505256648115,1,10,17,1177
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,31330.000000000004,6042400.000000001,0,192.86307053941908,2,5,17,1178
+Jakarta,Mid End,No,No,No,Yes,No,No,Digital Wallet,66950.0,7356700.0,1,109.88349514563107,1,5,17,1179
+Jakarta,High End,No,Yes,Yes,No,Yes,No,Pulsa,115895.00000000001,6606600.0,3,57.00504767246213,3,32,17,1180
+Bandung,High End,Yes,No,No,No,Yes,Yes,Pulsa,122005.0,6422000.0,3,52.63718700053276,3,23,17,1181
+Jakarta,Mid End,No,No,Yes,No,No,No,Digital Wallet,72605.0,7113600.0,1,97.97672336615936,1,6,17,1182
+Bandung,High End,Yes,No,Yes,No,Yes,No,Pulsa,116220.00000000001,3307200.0000000005,3,28.456375838926174,0,21,17,1183
+Jakarta,High End,No,No,No,No,No,No,Pulsa,89700.0,4378400.000000001,0,48.81159420289856,4,5,17,1184
+Jakarta,High End,No,Yes,No,No,No,No,Pulsa,99385.0,4245800.0,1,42.720732504905165,0,10,17,1185
+Jakarta,High End,Yes,No,No,Yes,Yes,No,Pulsa,119405.0,7335900.000000001,3,61.437125748503,3,23,17,1186
+Jakarta,High End,No,No,No,No,No,No,Pulsa,91000.0,5707000.0,0,62.714285714285715,1,6,17,1187
+Jakarta,Mid End,No,No,No,No,Yes,Yes,Digital Wallet,84110.00000000001,3928600.0,2,46.707882534775884,0,11,17,1188
+Bandung,High End,Yes,No,Yes,No,Yes,No,Pulsa,122720.00000000001,5333900.000000001,3,43.46398305084746,0,22,17,1189
+Jakarta,High End,No,No,Yes,No,No,Yes,Credit,117910.00000000001,3810300.0,2,32.31532524807056,0,17,18,1190
+Jakarta,Mid End,No,No,Yes,No,Yes,No,Pulsa,50765.0,3381300.0,2,66.60691421254802,4,12,18,1191
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,124085.00000000001,4132700.0,2,33.30539549502357,0,14,18,1192
+Bandung,Mid End,No,Yes,Yes,No,No,No,Credit,43550.00000000001,7116200.0,2,163.40298507462683,2,25,18,1193
+Jakarta,High End,Yes,No,No,No,Yes,Yes,Pulsa,129220.0,3147300.0,3,24.356136820925553,0,22,18,1194
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,26195.0,6410300.0,0,244.71464019851118,2,14,18,1195
+Bandung,High End,No,No,No,Yes,Yes,Yes,Debit,129805.0,3988400.0,3,30.72608913370055,0,26,18,1196
+Bandung,Mid End,No,No,Yes,No,No,Yes,Pulsa,74685.0,3885700.0000000005,2,52.02785030461271,0,11,18,1197
+Jakarta,High End,No,Yes,No,No,No,No,Pulsa,104845.00000000001,4924400.000000001,1,46.968381897086175,0,10,18,1198
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,110760.0,4323800.0,1,39.03755868544601,0,10,18,1199
+Bandung,High End,No,No,No,Yes,No,Yes,Pulsa,117130.0,5538000.0,2,47.28079911209767,1,15,18,1200
+Bandung,High End,No,No,No,No,No,Yes,Pulsa,102115.0,4577300.0,1,44.824952259707196,0,7,18,1201
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,123110.00000000001,2867800.0,2,23.294614572333682,0,15,18,1202
+Jakarta,Mid End,No,No,Yes,No,Yes,Yes,Pulsa,62855.00000000001,2817100.0,3,44.81902792140641,0,19,18,1203
+Jakarta,Mid End,No,No,No,No,No,Yes,Pulsa,45500.0,3443700.0000000005,1,75.6857142857143,4,6,18,1204
+Bandung,High End,No,No,Yes,No,Yes,Yes,Digital Wallet,123695.00000000001,6035900.000000001,3,48.79663688912244,3,17,18,1205
+Jakarta,High End,No,Yes,No,Yes,No,No,Pulsa,111085.00000000001,6688500.0,2,60.21064950263311,1,19,18,1206
+Jakarta,High End,No,Yes,No,No,Yes,No,Credit,117000.0,3520400.0,2,30.08888888888889,0,24,18,1207
+Bandung,Mid End,No,No,Yes,Yes,Yes,Yes,Credit,106600.00000000001,4297800.0,4,40.3170731707317,0,28,18,1208
+Jakarta,Mid End,No,No,Yes,No,No,No,Digital Wallet,64414.99999999999,3659500.0,1,56.81130171543896,4,5,18,1209
+Jakarta,Mid End,Yes,No,No,No,No,No,Pulsa,64220.0,5236400.000000001,1,81.53846153846155,4,9,18,1210
+Jakarta,High End,Yes,No,No,No,Yes,Yes,Pulsa,124865.0,7255300.0,3,58.10515356585112,3,23,18,1211
+Jakarta,High End,No,No,No,Yes,Yes,No,Pulsa,114854.99999999999,7445100.0,2,64.82173174872666,1,15,18,1212
+Jakarta,High End,No,No,No,Yes,Yes,Yes,Debit,129675.00000000001,7614100.0,3,58.71679197994987,3,32,18,1213
+Jakarta,Mid End,No,No,No,No,Yes,Yes,Credit,58305.00000000001,6736600.0,2,115.5406911928651,1,21,19,1214
+Jakarta,High End,No,No,Yes,Yes,Yes,Yes,Pulsa,134290.0,3053700.0000000005,4,22.73959341723137,0,28,19,1215
+Bandung,High End,No,Yes,Yes,No,No,No,Pulsa,101725.00000000001,4765800.0,2,46.84984025559105,0,18,19,1216
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Credit,124670.00000000001,3706300.0,3,29.728884254431698,0,23,19,1217
+Jakarta,High End,No,No,No,No,No,Yes,Debit,111800.0,6314100.0,1,56.47674418604651,1,20,19,1218
+Bandung,High End,Yes,No,No,No,No,No,Pulsa,95160.00000000001,6133400.000000001,1,64.4535519125683,1,14,19,1219
+Jakarta,High End,Yes,No,No,No,Yes,No,Pulsa,117780.0,3084900.0,2,26.192052980132452,0,17,19,1220
+Jakarta,High End,No,Yes,No,Yes,Yes,Yes,Debit,130000.0,3390400.0,4,26.08,0,30,19,1221
+Bandung,High End,Yes,Yes,No,No,No,Yes,Pulsa,123695.00000000001,7579000.0,3,61.27167630057803,3,31,19,1222
+Jakarta,High End,No,No,Yes,No,No,Yes,Digital Wallet,116545.00000000001,3959800.0,2,33.976575571667595,0,11,19,1223
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,129935.0,4771000.0,3,36.7183591795898,0,26,19,1224
+Jakarta,Mid End,No,No,Yes,Yes,No,No,Credit,71500.0,5900700.0,2,82.52727272727273,1,20,19,1225
+Bandung,High End,Yes,No,Yes,Yes,Yes,Yes,Pulsa,138579.99999999997,4893200.0,5,35.30956848030019,3,36,19,1226
+Bandung,High End,No,Yes,No,No,No,No,Credit,96005.0,2926300.0,1,30.480704129993228,0,17,19,1227
+Bandung,High End,No,No,No,Yes,Yes,Yes,Pulsa,131235.0,5293600.0,3,40.33680039623576,0,27,19,1228
+Bandung,Mid End,No,No,Yes,No,Yes,No,Pulsa,51545.0,3812900.0,2,73.97225725094577,4,11,19,1229
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,108745.0,4455100.0,1,40.968320382546324,0,8,19,1230
+Bandung,High End,No,No,Yes,No,No,No,Pulsa,103804.99999999999,4829500.0,1,46.52473387601754,0,8,19,1231
+Jakarta,High End,No,Yes,No,No,Yes,No,Pulsa,114660.00000000001,7387900.000000001,2,64.43310657596372,1,20,19,1232
+Bandung,High End,No,No,No,No,No,No,Pulsa,91585.00000000001,6204900.000000001,0,67.75017743080198,1,8,20,1233
+Bandung,High End,No,No,No,No,No,No,Credit,92690.0,4789200.0,0,51.669004207573636,4,11,20,1234
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,128115.00000000001,7077200.0,3,55.24099441907661,3,25,20,1235
+Jakarta,High End,No,No,No,No,No,Yes,Credit,111540.0,4336800.0,1,38.88111888111888,0,14,20,1236
+Bandung,High End,No,No,Yes,No,Yes,No,Pulsa,115310.0,5349500.0,2,46.392333709131904,0,13,20,1237
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,117260.0,2675400.0,2,22.815964523281597,0,16,20,1238
+Jakarta,Mid End,No,No,No,No,No,Yes,Digital Wallet,80080.0,5025800.0,1,62.75974025974026,1,7,20,1239
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,31785.0,4287400.000000001,0,134.88752556237222,4,4,20,1240
+Bandung,High End,No,No,No,No,Yes,No,Pulsa,110825.0,3138200.0000000005,1,28.316715542521997,0,12,20,1241
+Jakarta,High End,No,Yes,No,No,No,No,Pulsa,95745.0,7603700.0,1,79.41615750169721,1,13,20,1242
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,25220.0,4920500.0,0,195.10309278350516,4,10,20,1243
+Jakarta,High End,Yes,No,No,No,No,No,Pulsa,102895.00000000001,6496100.0,1,63.13329121920403,1,15,20,1244
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,122915.0,7285200.0,2,59.2702273929138,1,16,20,1245
+Jakarta,High End,No,No,Yes,No,Yes,No,Pulsa,118040.0,3005600.0,2,25.462555066079297,0,15,20,1246
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Debit,137605.0,5489900.000000001,4,39.89607935758149,3,47,20,1247
+Jakarta,High End,No,Yes,Yes,No,No,Yes,Pulsa,122330.0,3465800.0,3,28.331562167906483,0,23,20,1248
+Bandung,High End,Yes,No,No,No,No,No,Pulsa,107120.0,7434700.0,1,69.40533980582525,1,18,20,1249
+Jakarta,High End,No,No,No,No,Yes,Yes,Digital Wallet,115700.0,5972200.0,2,51.61797752808989,1,12,20,1250
+Bandung,High End,No,No,No,No,No,No,Pulsa,89830.0,5008900.000000001,0,55.75976845151955,4,5,21,1251
+Jakarta,Mid End,Yes,Yes,No,Yes,Yes,No,Digital Wallet,100750.0,6958900.000000001,4,69.07096774193549,3,26,21,1252
+Jakarta,High End,No,Yes,No,No,No,No,Pulsa,107054.99999999999,3772600.0,1,35.23982999392836,0,12,21,1253
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Debit,125840.0,5612100.0,3,44.59710743801653,3,30,21,1254
+Jakarta,High End,Yes,No,Yes,No,Yes,Yes,Debit,135720.0,7241000.0,4,53.35249042145594,3,44,21,1255
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,122525.0,6264700.0,2,51.12997347480106,1,16,21,1256
+Jakarta,High End,No,Yes,No,No,No,No,Debit,96265.0,7319000.0,1,76.02970965563809,1,19,21,1257
+Jakarta,Mid End,Yes,No,Yes,No,Yes,Yes,Pulsa,72735.0,7190300.0,4,98.85612153708668,3,33,21,1258
+Jakarta,Mid End,No,No,Yes,No,Yes,No,Debit,78065.0,6130800.0,2,78.5345545378851,1,19,21,1259
+Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,126554.99999999999,5617300.0,2,44.386235233692865,1,22,21,1260
+Jakarta,Mid End,Yes,No,No,No,Yes,No,Pulsa,54470.0,6211400.000000001,2,114.03341288782818,1,14,21,1261
+Jakarta,High End,Yes,No,Yes,No,Yes,Yes,Pulsa,135070.00000000003,4899700.0,4,36.27526467757458,0,27,21,1262
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,135720.0,4934800.0,4,36.36015325670498,3,34,21,1263
+Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Pulsa,133640.00000000003,4059900.0,5,30.379377431906608,0,34,21,1264
+Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Pulsa,144560.0,5359900.000000001,5,37.07733812949641,3,49,21,1265
+Bandung,High End,No,No,Yes,Yes,Yes,Yes,Pulsa,137930.0,4659200.0,4,33.779453345900095,0,31,21,1266
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,112450.0,2646800.0,1,23.53757225433526,0,10,21,1267
+Jakarta,Mid End,No,Yes,Yes,No,No,Yes,Debit,56875.0,4028700.0000000005,3,70.83428571428573,0,29,22,1268
+Bandung,Mid End,Yes,No,No,No,No,No,Pulsa,70785.00000000001,3178500.0,1,44.903581267217625,4,12,22,1269
+Jakarta,High End,No,No,No,No,No,No,Debit,96720.00000000001,3129100.0,0,32.3521505376344,4,15,22,1270
+Bandung,High End,Yes,No,No,No,Yes,Yes,Debit,131755.0,6102200.0,3,46.31475086334485,3,31,22,1271
+Jakarta,Mid End,Yes,No,No,No,No,Yes,Digital Wallet,52065.0,2679300.0,2,51.46067415730337,4,13,22,1272
+Bandung,High End,No,Yes,Yes,No,Yes,No,Pulsa,116220.00000000001,7069400.000000001,3,60.82774049217002,3,30,22,1273
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,116025.0,4109300.0,2,35.417366946778714,0,13,22,1274
+Jakarta,High End,No,Yes,No,No,No,Yes,Pulsa,108290.0,4945200.0,2,45.66626650660264,0,14,22,1275
+Jakarta,High End,Yes,No,No,No,Yes,Yes,Pulsa,130975.0,5397600.0,3,41.21091811414392,0,26,22,1276
+Bandung,Mid End,Yes,Yes,Yes,No,No,No,Digital Wallet,79495.0,6013800.0,3,75.65004088307441,1,20,22,1277
+Jakarta,High End,No,Yes,No,No,No,Yes,Digital Wallet,109590.0,6906900.000000001,2,63.02491103202848,1,17,22,1278
+Jakarta,Mid End,Yes,No,No,Yes,No,No,Pulsa,70460.00000000001,6632600.0,2,94.13284132841326,1,16,22,1279
+Jakarta,Mid End,Yes,No,No,No,No,No,Credit,63440.0,2951000.0,1,46.51639344262295,4,16,22,1280
+Jakarta,Mid End,Yes,Yes,No,No,No,No,Pulsa,76700.0,2853500.0,2,37.20338983050848,0,18,22,1281
+Jakarta,High End,No,No,No,No,Yes,Yes,Credit,123045.00000000001,4764500.0,2,38.7216059165346,0,20,22,1282
+Jakarta,Mid End,No,Yes,No,Yes,No,No,Pulsa,71695.00000000001,6649500.0,2,92.74705349048048,1,17,22,1283
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,110630.0,6822400.000000001,1,61.66862514688602,1,13,22,1284
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,125710.00000000001,5795400.000000001,2,46.10134436401241,1,22,22,1285
+Jakarta,Mid End,Yes,No,Yes,Yes,Yes,No,Debit,87750.0,4391400.000000001,4,50.04444444444446,0,28,22,1286
+Jakarta,Mid End,Yes,No,No,Yes,Yes,Yes,Pulsa,102960.00000000001,4433000.0,4,43.05555555555555,0,22,22,1287
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Credit,123110.00000000001,7299500.0,3,59.29250263991552,3,28,22,1288
+Jakarta,High End,No,No,No,No,No,No,Pulsa,90025.0,2806700.0000000005,0,31.176895306859212,4,8,22,1289
+Bandung,Mid End,No,Yes,No,No,Yes,Yes,Debit,90350.00000000001,7698600.0,3,85.20863309352517,1,29,22,1290
+Jakarta,High End,No,Yes,No,No,No,No,Pulsa,103155.0,6133400.000000001,1,59.45809703843731,1,13,22,1291
+Jakarta,High End,No,No,No,Yes,Yes,No,Debit,117650.0,6518200.0,2,55.40331491712707,1,22,22,1292
+Jakarta,High End,No,No,No,Yes,Yes,No,Pulsa,117000.0,6160700.0,2,52.65555555555556,1,15,22,1293
+Jakarta,Mid End,No,Yes,No,Yes,No,No,Credit,71695.00000000001,7625800.0,2,106.36446056210333,1,19,22,1294
+Bandung,High End,No,Yes,No,No,Yes,Yes,Pulsa,123175.0,3562000.0,3,28.91820580474934,0,21,23,1295
+Bandung,High End,Yes,No,No,No,Yes,No,Debit,117065.0,6045000.0,2,51.63797890061077,1,23,23,1296
+Jakarta,High End,No,No,No,No,No,No,Pulsa,97435.0,7666100.0,0,78.67911941294196,1,8,23,1297
+Jakarta,High End,No,No,No,No,No,No,Debit,98280.0,2749500.0,0,27.976190476190474,4,15,23,1298
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,138320.00000000003,7159100.0,4,51.75751879699247,3,45,23,1299
+Jakarta,High End,Yes,No,No,Yes,Yes,Yes,Pulsa,129805.0,4452500.0,4,34.301452178267404,0,26,23,1300
+Bandung,High End,No,Yes,Yes,Yes,No,No,Pulsa,108940.0,7458100.0,3,68.46062052505967,3,29,23,1301
+Bandung,High End,No,No,No,Yes,Yes,No,Pulsa,117780.0,5666700.0,2,48.11258278145695,1,14,23,1302
+Jakarta,High End,No,No,Yes,Yes,Yes,Yes,Digital Wallet,135265.00000000003,7751900.000000001,4,57.308986064392116,3,26,23,1303
+Jakarta,High End,No,No,Yes,No,No,No,Pulsa,105300.0,7411300.0,1,70.38271604938272,1,12,23,1304
+Jakarta,High End,No,Yes,No,No,No,No,Pulsa,102895.00000000001,6780800.0,1,65.9001895135818,1,15,23,1305
+Jakarta,Mid End,No,No,No,No,No,No,Credit,62855.00000000001,5954000.0,0,94.72595656670113,2,11,23,1306
+Jakarta,High End,Yes,Yes,Yes,No,Yes,No,Pulsa,129025.0,6939400.000000001,4,53.783375314861466,3,43,23,1307
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,128375.0,5220800.0,3,40.66835443037974,0,24,24,1308
+Jakarta,Mid End,Yes,No,No,No,No,No,Pulsa,71175.0,7408700.0,1,104.09132420091325,1,12,24,1309
+Jakarta,Mid End,No,Yes,Yes,No,Yes,Yes,Credit,70395.0,6698900.000000001,4,95.16158818097878,3,47,24,1310
+Bandung,High End,No,No,No,No,No,No,Pulsa,98929.99999999999,2623400.0,0,26.51773981603154,4,10,24,1311
+Bandung,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,135525.0,2735200.0000000005,4,20.18225419664269,0,30,24,1312
+Jakarta,Mid End,Yes,No,No,No,No,No,Debit,64414.99999999999,6506500.0,1,101.0090817356206,1,17,24,1313
+Bandung,High End,No,Yes,No,No,Yes,Yes,Pulsa,131625.0,5573100.0,3,42.34074074074074,3,34,24,1314
+Jakarta,High End,No,No,No,No,No,No,Credit,98020.00000000001,3022500.0,0,30.835543766578244,4,15,24,1315
+Bandung,High End,No,No,No,Yes,Yes,Yes,Pulsa,124800.00000000001,3988400.0,3,31.95833333333333,0,19,24,1316
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,136045.00000000003,6154200.0,4,45.23650262780696,3,46,24,1317
+Jakarta,High End,No,Yes,No,No,No,No,Pulsa,104325.0,5743400.000000001,1,55.052959501557645,1,13,24,1318
+Jakarta,High End,No,No,Yes,No,Yes,No,Digital Wallet,116804.99999999999,2665000.0,2,22.815804117974405,0,16,24,1319
+Jakarta,High End,No,Yes,No,No,Yes,No,Credit,117715.0,7705100.0,2,65.45554942020983,1,25,24,1320
+Bandung,Mid End,Yes,No,No,No,No,No,Debit,72345.0,5363800.0,1,74.14195867026055,1,16,24,1321
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Credit,129090.0,6254300.0,4,48.44914400805639,3,48,24,1322
+Bandung,High End,No,Yes,Yes,No,Yes,Yes,Credit,133835.0,6818500.0,4,50.94706168042739,3,51,24,1323
+Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,117455.0,7209800.0,2,61.38350857775318,1,15,24,1324
+Jakarta,Mid End,Yes,No,No,No,No,Yes,Debit,50830.00000000001,5968300.0,2,117.4168797953964,1,23,24,1325
+Jakarta,High End,Yes,No,No,No,No,No,Pulsa,102505.0,4002700.0000000005,1,39.048826886493345,0,11,24,1326
+Bandung,Mid End,No,No,Yes,No,No,Yes,Credit,52845.0,4995900.000000001,2,94.53874538745389,4,19,24,1327
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,121615.0,6418100.0,2,52.77391769107429,1,15,24,1328
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,131365.0,6195800.0,3,47.16476991588323,3,28,24,1329
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,121095.00000000001,2875600.0,3,23.746645195920557,0,20,24,1330
+Jakarta,High End,No,Yes,No,No,Yes,No,Pulsa,115635.0,5041400.000000001,2,43.59752670039349,0,18,25,1331
+Jakarta,Mid End,No,No,No,No,Yes,No,Debit,44200.0,6531200.0,1,147.76470588235293,2,15,25,1332
+Jakarta,High End,No,No,Yes,Yes,Yes,Yes,Debit,136435.0,4734600.0,4,34.70223916150548,0,32,25,1333
+Bandung,High End,No,No,Yes,No,No,Yes,Pulsa,115830.0,6230900.000000001,2,53.79349046015714,1,16,25,1334
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,129350.0,7711600.0,4,59.618090452261306,3,38,25,1335
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,128050.00000000001,6938100.0,4,54.18274111675126,3,38,25,1336
+Jakarta,High End,No,Yes,No,No,Yes,No,Pulsa,116350.00000000001,6303700.0,2,54.178770949720665,1,20,25,1337
+Jakarta,Mid End,Yes,Yes,Yes,No,Yes,Yes,Credit,76180.0,5447000.0,5,71.50170648464164,3,51,25,1338
+Jakarta,High End,Yes,Yes,No,No,No,No,Debit,103804.99999999999,5895500.0,2,56.79398872886663,1,26,25,1339
+Jakarta,High End,No,Yes,No,No,No,Yes,Pulsa,116610.00000000001,5301400.000000001,2,45.46265328874025,0,17,25,1340
+Bandung,High End,No,Yes,Yes,No,Yes,Yes,Digital Wallet,137735.0,5567900.000000001,4,40.42472864558755,3,32,25,1341
+Jakarta,High End,No,No,No,No,No,No,Digital Wallet,92235.00000000001,6345300.0,0,68.79492600422832,1,5,25,1342
+Jakarta,High End,No,No,No,No,Yes,Yes,Debit,123110.00000000001,7333300.0,2,59.56705385427666,1,23,25,1343
+Jakarta,High End,Yes,Yes,No,No,Yes,Yes,Digital Wallet,133640.00000000003,6459700.0,4,48.33657587548637,3,33,25,1344
+Jakarta,High End,Yes,No,No,No,No,Yes,Pulsa,115765.0,3474900.0,2,30.016844469399214,0,17,25,1345
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,130325.00000000001,2853500.0,3,21.895261845386532,0,25,25,1346
+Jakarta,High End,No,Yes,Yes,No,Yes,No,Debit,115895.00000000001,7608900.000000001,3,65.65339315759955,3,36,25,1347
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,110240.0,5463900.000000001,1,49.563679245283026,1,12,25,1348
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,124670.00000000001,2913300.0,3,23.368091762252345,0,23,25,1349
+Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,32890.0,4912700.0,0,149.3675889328063,4,14,25,1350
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,32175.000000000004,6410300.0,0,199.2323232323232,2,16,25,1351
+Jakarta,Mid End,Yes,Yes,Yes,Yes,Yes,No,Digital Wallet,96590.0,6727500.0,5,69.65006729475101,3,30,25,1352
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,117520.00000000001,7541300.0,2,64.17035398230088,1,14,25,1353
+Jakarta,High End,No,Yes,No,No,No,Yes,Pulsa,110435.0,5610800.0,2,50.806356680400235,1,17,26,1354
+Bandung,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,137475.0,4104100.0000000005,4,29.853427895981092,0,27,26,1355
+Jakarta,High End,No,Yes,No,No,Yes,No,Pulsa,115895.00000000001,5296200.0,2,45.698261357263036,0,20,26,1356
+Bandung,High End,No,No,No,Yes,No,No,Pulsa,104650.0,3547700.0000000005,1,33.900621118012424,0,10,26,1357
+Jakarta,High End,No,Yes,Yes,No,Yes,No,Pulsa,116740.0,4487600.0,3,38.44097995545657,0,26,26,1358
+Bandung,High End,No,No,Yes,No,Yes,Yes,Pulsa,127855.0,6496100.0,3,50.80833756990341,3,26,26,1359
+Jakarta,High End,No,No,No,No,No,No,Debit,97435.0,3814200.0000000005,0,39.14609739826552,4,14,26,1360
+Bandung,High End,No,No,No,No,Yes,No,Pulsa,108875.0,3125200.0000000005,1,28.704477611940302,0,11,26,1361
+Jakarta,High End,Yes,Yes,No,No,No,Yes,Pulsa,123500.0,5501600.0,3,44.54736842105263,3,30,26,1362
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,118040.0,3433300.0,2,29.08590308370044,0,13,26,1363
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,118625.0,6700200.0,2,56.48219178082192,1,15,26,1364
+Jakarta,Mid End,No,Yes,No,Yes,No,No,Pulsa,78065.0,2650700.0000000005,2,33.95503746877603,0,18,26,1365
+Bandung,High End,No,Yes,Yes,No,No,Yes,Pulsa,122005.0,3368300.0,3,27.60788492274907,0,22,26,1366
+Jakarta,High End,No,No,No,No,Yes,Yes,Debit,115440.0,6383000.0,2,55.292792792792795,1,23,26,1367
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,109135.0,7629700.0,1,69.91066110780227,1,12,26,1368
+Jakarta,High End,Yes,No,Yes,No,Yes,Yes,Pulsa,131625.0,6308900.000000001,4,47.93086419753087,3,32,27,1369
+Jakarta,High End,No,No,Yes,No,No,Yes,Credit,114790.0,3146000.0,2,27.40656851642129,0,19,27,1370
+Bandung,High End,No,No,No,No,No,No,Pulsa,98150.0,3090100.0,0,31.483443708609272,4,9,27,1371
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,110825.0,6723600.0,1,60.66862170087977,1,13,27,1372
+Jakarta,Mid End,Yes,No,No,No,No,No,Credit,39975.0,3805100.0,1,95.1869918699187,4,14,27,1373
+Jakarta,High End,Yes,No,No,Yes,Yes,Yes,Debit,135590.0,4477200.0,4,33.02013422818792,0,33,27,1374
+Jakarta,High End,No,Yes,Yes,No,No,Yes,Pulsa,124215.0,3898700.0000000005,3,31.386708529565677,0,22,27,1375
+Jakarta,High End,Yes,No,No,No,No,No,Debit,97760.0,5872100.0,1,60.066489361702125,1,19,27,1376
+Jakarta,High End,No,Yes,No,No,No,No,Pulsa,105885.0,3342300.0,1,31.56537753222836,0,12,27,1377
+Jakarta,High End,No,No,Yes,No,No,No,Pulsa,101465.0,6029400.000000001,1,59.42344650864831,1,11,27,1378
+Jakarta,High End,No,No,No,Yes,No,No,Pulsa,103350.00000000001,3273400.0,1,31.67295597484276,0,10,27,1379
+Jakarta,Mid End,No,No,No,No,No,Yes,Debit,47450.0,5933200.0,1,125.04109589041096,2,14,27,1380
+Bandung,High End,No,No,No,No,Yes,Yes,Digital Wallet,122915.0,5803200.0,2,47.21311475409836,1,14,27,1381
+Jakarta,High End,Yes,Yes,No,No,Yes,Yes,Pulsa,137930.0,4901000.0,4,35.53251649387371,3,35,28,1382
+Bandung,High End,No,No,Yes,Yes,Yes,Yes,Pulsa,134290.0,5376800.0,4,40.03872216844143,3,34,28,1383
+Jakarta,High End,Yes,Yes,No,No,No,Yes,Credit,122850.00000000001,7062900.000000001,3,57.492063492063494,3,43,28,1384
+Jakarta,High End,Yes,No,No,No,Yes,Yes,Digital Wallet,120054.99999999999,3887000.0,3,32.376827287493235,0,18,28,1385
+Jakarta,High End,No,No,Yes,Yes,Yes,Yes,Pulsa,136240.0,6503900.000000001,4,47.73854961832062,3,39,28,1386
+Jakarta,High End,No,Yes,No,No,No,Yes,Pulsa,116935.0,3208400.0,2,27.43746525847693,0,15,28,1387
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,105365.0,6761300.0,1,64.17026526835286,1,12,28,1388
+Jakarta,High End,No,No,No,Yes,Yes,Yes,Credit,131690.0,6492200.0,3,49.29911154985192,3,37,28,1389
+Bandung,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,137995.0,6539000.0,4,47.38577484691474,3,45,28,1390
+Jakarta,High End,Yes,No,No,No,No,No,Debit,97370.0,7009600.0,1,71.98931909212283,1,20,28,1391
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,137410.0,3203200.0000000005,4,23.311258278145697,0,27,28,1392
+Bandung,High End,No,No,No,No,Yes,Yes,Debit,117130.0,7745400.000000001,2,66.12652608213098,1,21,28,1393
+Jakarta,High End,Yes,No,No,No,Yes,Yes,Credit,123045.00000000001,6695000.0,3,54.41098784997358,3,31,29,1394
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,122785.00000000001,2902900.0,2,23.64213869772366,0,15,29,1395
+Jakarta,High End,No,Yes,Yes,No,No,Yes,Pulsa,124670.00000000001,2796300.0,3,22.429614181438996,0,24,29,1396
+Jakarta,High End,No,Yes,No,No,No,No,Debit,104195.00000000001,6745700.0,1,64.7411104179663,1,22,29,1397
+Bandung,High End,Yes,Yes,No,No,No,No,Pulsa,109785.00000000001,3446300.0,2,31.391355831853165,0,18,29,1398
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Credit,128180.0,6687200.0,3,52.17038539553752,3,34,29,1399
+Bandung,High End,No,No,No,No,No,No,Pulsa,91975.00000000001,3461900.0,0,37.639575971731446,4,8,29,1400
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Debit,128765.00000000001,4132700.0,3,32.09490156486623,0,24,29,1401
+Bandung,Mid End,No,No,No,No,No,No,Credit,32630.000000000004,3634800.0,0,111.39442231075697,4,10,29,1402
+Bandung,High End,No,No,No,Yes,Yes,Yes,Pulsa,128245.0,5505500.0,3,42.9295489102889,3,25,29,1403
+Jakarta,Mid End,No,Yes,No,No,No,No,Pulsa,39780.0,4699500.0,1,118.13725490196079,4,8,29,1404
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,128050.00000000001,6678100.0,3,52.15228426395939,3,26,29,1405
+Jakarta,Mid End,Yes,Yes,Yes,No,No,Yes,Debit,89505.0,7083700.0,4,79.1430646332607,3,50,29,1406
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,102570.00000000001,4223700.0,1,41.178707224334595,0,8,29,1407
+Jakarta,High End,No,No,Yes,No,No,Yes,Pulsa,115960.00000000001,6879600.0,2,59.32735426008968,1,16,29,1408
+Jakarta,High End,No,Yes,Yes,No,No,No,Digital Wallet,103545.00000000001,2826200.0000000005,2,27.294413057124924,0,19,30,1409
+Jakarta,Mid End,No,No,Yes,No,Yes,No,Pulsa,52390.0,3920800.0,2,74.83870967741936,4,11,30,1410
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,130065.0,6063200.0,3,46.61669165417291,3,30,30,1411
+Jakarta,High End,Yes,Yes,No,No,Yes,No,Pulsa,122720.00000000001,3629600.0,3,29.576271186440675,0,26,30,1412
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,110500.0,4807400.000000001,1,43.505882352941185,0,9,30,1413
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,130260.00000000001,4677400.000000001,3,35.908183632734534,0,26,30,1414
+Jakarta,High End,Yes,Yes,Yes,No,No,No,Credit,119210.00000000001,3226600.0,3,27.066521264994545,0,30,30,1415
+Jakarta,High End,No,No,No,Yes,Yes,No,Pulsa,110695.00000000001,5742100.0,2,51.87316500293599,1,13,30,1416
+Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,117325.0,7350200.0,2,62.64819944598338,1,16,30,1417
+Jakarta,Mid End,No,No,No,Yes,Yes,Yes,Credit,66560.0,5938400.000000001,3,89.21875000000001,1,25,30,1418
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,129610.00000000001,4612400.000000001,3,35.58676028084253,0,26,30,1419
+Bandung,Mid End,No,Yes,No,No,No,No,Debit,65519.99999999999,6233500.0,1,95.1388888888889,1,19,30,1420
+Bandung,High End,No,No,No,No,Yes,Yes,Credit,122265.0,5323500.0,2,43.54066985645933,0,22,30,1421
+Jakarta,High End,No,Yes,No,Yes,Yes,No,Credit,122330.0,6831500.0,3,55.844845908607866,3,40,30,1422
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,25544.999999999996,3231800.0,0,126.51399491094149,4,13,30,1423
+Bandung,Mid End,Yes,Yes,Yes,Yes,Yes,Yes,Debit,110955.0,3006900.0,6,27.100175746924428,0,36,30,1424
+Jakarta,Mid End,Yes,No,Yes,Yes,No,No,Credit,84825.0,5723900.000000001,3,67.47892720306514,1,31,31,1425
+Bandung,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,134485.0,7003100.0,4,52.07346544224263,3,45,31,1426
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,129935.0,6970600.0,3,53.64682341170585,3,37,31,1427
+Bandung,High End,No,No,Yes,Yes,Yes,Yes,Pulsa,128570.00000000001,5265000.0,4,40.95045500505561,3,28,31,1428
+Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25415.000000000004,3493100.0,0,137.44245524296673,4,8,31,1429
+Bandung,High End,No,No,Yes,No,No,Yes,Pulsa,116870.0,2640300.0,2,22.591768631813125,0,15,31,1430
+Jakarta,Mid End,Yes,No,No,Yes,No,No,Debit,46020.0,2687100.0,2,58.389830508474574,4,20,31,1431
+Jakarta,High End,No,No,Yes,Yes,Yes,Yes,Pulsa,135460.0,6500000.0,4,47.98464491362764,3,38,31,1432
+Jakarta,Mid End,No,No,Yes,Yes,No,No,Pulsa,71825.0,3812900.0,2,53.085972850678736,0,11,31,1433
+Bandung,High End,No,Yes,No,Yes,No,No,Pulsa,101985.00000000001,4018300.0,2,39.40089228808157,0,15,31,1434
+Jakarta,Mid End,No,Yes,No,Yes,Yes,Yes,Digital Wallet,103285.00000000001,3733600.0,4,36.14852108244178,0,22,31,1435
+Bandung,High End,No,Yes,No,No,No,Yes,Pulsa,118495.0,6784700.0,2,57.25726823916621,1,19,31,1436
+Bandung,High End,No,Yes,Yes,No,Yes,No,Pulsa,121940.0,5349500.0,3,43.86993603411514,0,29,31,1437
+Bandung,High End,No,No,No,Yes,No,No,Credit,103804.99999999999,3320200.0000000005,1,31.98497182216657,0,15,31,1438
+Bandung,High End,No,No,No,No,No,No,Pulsa,96070.00000000001,3328000.0,0,34.641407307171846,4,8,31,1439
+Bandung,High End,No,No,No,No,Yes,No,Credit,112515.0,5457400.000000001,1,48.50375505488158,1,17,31,1440
+Jakarta,High End,No,No,No,No,Yes,No,Credit,111735.00000000001,3160300.0,1,28.283885980221054,0,17,32,1441
+Jakarta,High End,No,Yes,No,No,No,Yes,Debit,109395.00000000001,5222100.0,2,47.7361853832442,0,21,32,1442
+Bandung,High End,No,No,No,No,Yes,No,Pulsa,109265.0,4618900.000000001,1,42.27245687091018,0,10,32,1443
+Jakarta,High End,No,No,Yes,No,No,Yes,Debit,118365.0,4667000.0,2,39.42888522789676,0,18,32,1444
+Bandung,High End,Yes,No,No,No,Yes,Yes,Credit,129414.99999999999,6533800.0,3,50.48719236564541,3,34,32,1445
+Jakarta,High End,No,Yes,No,No,No,No,Pulsa,96720.00000000001,2718300.0,1,28.104838709677416,0,12,32,1446
+Bandung,High End,No,No,No,No,No,Yes,Pulsa,110890.0,3525600.0,1,31.7936694021102,0,9,32,1447
+Bandung,High End,No,No,No,No,No,No,Pulsa,97370.0,5336500.0,0,54.8064085447263,1,7,32,1448
+Bandung,High End,No,No,No,No,No,Yes,Credit,104390.0,6974500.0,1,66.81195516811955,1,18,32,1449
+Jakarta,High End,Yes,Yes,No,Yes,Yes,Yes,Credit,140595.0,3303300.0,5,23.49514563106796,0,40,32,1450
+Jakarta,High End,No,No,Yes,Yes,Yes,Yes,Pulsa,136370.0,5155800.0,4,37.80743565300286,3,31,32,1451
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Debit,138255.0,5346900.000000001,4,38.67418899858957,3,50,32,1452
+Jakarta,High End,No,No,No,No,Yes,Yes,Credit,124995.00000000001,2919800.0,2,23.35933437337493,0,23,32,1453
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,121160.00000000001,6821100.0,2,56.29828326180257,1,15,32,1454
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,110500.0,5959200.0,1,53.92941176470588,1,13,32,1455
+Bandung,High End,No,No,No,Yes,Yes,Yes,Pulsa,125060.0,4687800.0,3,37.484407484407484,0,20,32,1456
+Jakarta,High End,No,No,Yes,No,No,No,Pulsa,102570.00000000001,7733700.0,1,75.39923954372622,1,11,32,1457
+Bandung,High End,No,No,No,No,No,No,Debit,90675.0,3062800.0,0,33.77777777777778,4,15,32,1458
+Jakarta,High End,No,Yes,No,No,No,No,Debit,104455.0,7766200.0,1,74.3497199751089,1,21,32,1459
+Bandung,High End,No,No,No,No,No,Yes,Pulsa,108354.99999999999,7092800.0,1,65.45890821835634,1,14,33,1460
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,135720.0,4140500.0,4,30.507662835249043,0,31,33,1461
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,124540.0,5409300.0,3,43.43423799582463,0,21,33,1462
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,122850.00000000001,5632900.000000001,2,45.851851851851855,1,16,33,1463
+Bandung,High End,No,No,No,No,No,No,Pulsa,88725.00000000001,7341100.0,0,82.73992673992673,1,8,33,1464
+Jakarta,High End,Yes,No,Yes,No,Yes,Yes,Digital Wallet,134810.0,5799300.0,4,43.01832208293153,3,30,33,1465
+Bandung,High End,No,Yes,No,No,No,No,Debit,104780.0,4681300.0,1,44.67741935483871,0,16,33,1466
+Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,31850.0,6752200.0,0,212.0,2,12,33,1467
+Jakarta,High End,No,Yes,Yes,No,No,No,Credit,109005.0,3357900.0,2,30.80500894454383,0,24,33,1468
+Jakarta,Mid End,No,No,Yes,Yes,Yes,Yes,Digital Wallet,96070.00000000001,6986200.0,4,72.71989174560215,3,23,33,1469
+Jakarta,High End,No,No,No,No,No,Yes,Credit,111995.0,4336800.0,1,38.72315728380731,0,14,33,1470
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,121940.0,6604000.0,3,54.15778251599147,3,22,33,1471
+Bandung,High End,No,Yes,Yes,Yes,Yes,Yes,Pulsa,143585.0,4421300.0,5,30.7922136713445,3,38,33,1472
+Bandung,High End,Yes,No,Yes,Yes,Yes,Yes,Pulsa,134875.0,4971200.0,5,36.857831325301206,3,29,33,1473
+Jakarta,Mid End,Yes,Yes,No,Yes,No,No,Pulsa,81445.00000000001,5093400.000000001,3,62.53790901835595,0,19,34,1474
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,138255.0,3823300.0,4,27.65397273154678,0,32,34,1475
+Bandung,High End,Yes,Yes,Yes,No,Yes,Yes,Digital Wallet,142740.0,4433000.0,5,31.05646630236794,3,29,34,1476
+Jakarta,High End,No,Yes,No,No,No,No,Credit,96135.0,7533500.0,1,78.36375929682218,1,17,34,1477
+Jakarta,Mid End,Yes,Yes,No,Yes,No,No,Digital Wallet,83720.00000000001,6745700.0,3,80.57453416149067,1,18,34,1478
+Bandung,High End,No,Yes,No,No,No,No,Digital Wallet,103479.99999999999,5174000.0,1,50.00000000000001,1,11,34,1479
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,101790.0,3610100.0,1,35.466155810983395,0,9,34,1480
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,126945.00000000001,5172700.0,2,40.747567844342036,0,19,34,1481
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,130065.0,3338400.0,3,25.667166416791606,0,22,34,1482
+Bandung,High End,No,No,No,No,No,No,Credit,91000.0,3013400.0,0,33.114285714285714,4,15,34,1483
+Bandung,High End,No,No,Yes,No,Yes,No,Pulsa,113685.0,4365400.000000001,2,38.39908519153803,0,13,34,1484
+Jakarta,High End,No,Yes,Yes,No,No,Yes,Pulsa,122525.0,4379700.0,3,35.745358090185675,0,22,34,1485
+Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,124085.00000000001,2704000.0,2,21.791513881613408,0,18,35,1486
+Jakarta,High End,No,No,No,No,No,No,Pulsa,91390.0,7036900.000000001,0,76.99857752489332,1,8,35,1487
+Jakarta,Mid End,No,No,No,No,Yes,No,Digital Wallet,71500.0,2886000.0,1,40.36363636363637,4,9,35,1488
+Bandung,High End,No,No,Yes,No,Yes,Yes,Pulsa,128765.00000000001,2696200.0000000005,3,20.93891973750631,0,24,35,1489
+Bandung,High End,Yes,Yes,No,Yes,Yes,No,Debit,130650.0,6168500.0,4,47.21393034825871,3,49,35,1490
+Jakarta,High End,No,No,No,No,No,No,Pulsa,97760.0,6030700.0,0,61.68882978723404,1,8,35,1491
+Jakarta,High End,No,No,No,No,No,No,Credit,97955.0,3620500.0,0,36.960849369608496,4,14,35,1492
+Bandung,High End,No,Yes,No,Yes,No,No,Credit,110890.0,3191500.0,2,28.780773739742088,0,24,35,1493
+Bandung,High End,No,Yes,Yes,No,Yes,Yes,Debit,133055.0,3214900.0,4,24.16218856863703,0,31,35,1494
+Bandung,High End,No,No,No,No,Yes,No,Pulsa,112385.0,7636200.0,1,67.94679005205322,1,13,35,1495
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,130325.00000000001,3567200.0000000005,3,27.371571072319203,0,21,35,1496
+Jakarta,Mid End,Yes,No,Yes,Yes,Yes,Yes,Credit,111735.00000000001,4982900.000000001,5,44.5956951716114,3,37,35,1497
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,131820.00000000003,4795700.0,3,36.38067061143983,0,20,35,1498
+Jakarta,High End,No,No,Yes,No,Yes,No,Pulsa,110695.00000000001,7706400.000000001,2,69.61832061068702,1,14,35,1499
+Bandung,Mid End,Yes,No,Yes,Yes,Yes,No,Pulsa,93925.0,7667400.000000001,4,81.6332179930796,3,31,35,1500
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,110175.0,6853600.0,1,62.206489675516224,1,14,36,1501
+Jakarta,High End,No,Yes,Yes,No,Yes,No,Debit,126554.99999999999,5907200.0,3,46.67693888032871,3,42,36,1502
+Bandung,High End,No,No,No,No,No,Yes,Pulsa,109330.0,3883100.0,1,35.51724137931034,0,9,36,1503
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,128895.00000000001,5444400.000000001,3,42.239031770045386,3,35,36,1504
+Bandung,High End,Yes,No,No,No,Yes,No,Pulsa,118104.99999999999,7399600.0,2,62.65272427077601,1,18,36,1505
+Bandung,Mid End,No,Yes,No,Yes,No,Yes,Digital Wallet,85020.00000000001,6786000.0,3,79.81651376146787,1,19,36,1506
+Jakarta,High End,No,No,No,No,No,Yes,Credit,110825.0,3953300.0,1,35.671554252199414,0,14,36,1507
+Jakarta,High End,No,No,Yes,Yes,No,Yes,Pulsa,113815.0,3325400.0,3,29.2175899486008,0,19,36,1508
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,110370.0,3191500.0,1,28.916372202591283,0,9,36,1509
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,125450.0,6047600.0,3,48.20725388601036,3,34,36,1510
+Bandung,High End,No,Yes,Yes,No,Yes,Yes,Debit,132470.0,5768100.0,4,43.54268891069676,3,48,37,1511
+Jakarta,High End,No,No,No,No,No,No,Pulsa,99450.0,3630900.0,0,36.509803921568626,4,8,37,1512
+Bandung,High End,No,No,No,No,No,No,Pulsa,99125.0,7616700.0,0,76.83934426229509,1,9,37,1513
+Bandung,High End,No,No,Yes,No,Yes,Yes,Pulsa,129350.0,5502900.000000001,3,42.5427135678392,3,24,37,1514
+Jakarta,High End,Yes,No,Yes,Yes,No,Yes,Pulsa,128960.00000000001,4678700.0,4,36.280241935483865,0,26,37,1515
+Bandung,High End,Yes,Yes,No,No,Yes,Yes,Debit,138775.0,7603700.0,4,54.79156908665105,3,51,37,1516
+Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,125515.0,5782400.000000001,2,46.06939409632316,1,20,37,1517
+Jakarta,High End,No,No,No,Yes,Yes,Yes,Debit,128440.0,3985800.0,3,31.032388663967613,0,25,37,1518
+Bandung,High End,No,No,No,No,Yes,No,Pulsa,111410.00000000001,6125600.0,1,54.98249708284713,1,13,37,1519
+Jakarta,Mid End,No,No,No,Yes,No,No,Credit,37180.0,5757700.0,1,154.86013986013987,2,12,37,1520
+Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,120250.0,5365100.0,2,44.616216216216216,0,15,37,1521
+Jakarta,High End,No,No,Yes,No,No,No,Credit,102635.0,5176600.0,1,50.436985433818876,1,15,37,1522
+Bandung,Mid End,Yes,Yes,Yes,No,No,No,Debit,52260.00000000001,4715100.0,3,90.22388059701491,0,30,37,1523
+Jakarta,Mid End,No,No,No,No,Yes,Yes,Pulsa,84175.0,7220200.0,2,85.77606177606178,1,14,37,1524
+Bandung,High End,No,No,Yes,No,Yes,Yes,Pulsa,131430.0,5751200.0,3,43.75865479723046,3,25,37,1525
+Bandung,High End,Yes,Yes,Yes,No,No,No,Credit,109070.00000000001,2804100.0,3,25.70917759237187,0,30,38,1526
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Debit,129025.0,6856200.0,3,53.13853904282116,3,32,38,1527
+Jakarta,High End,No,Yes,Yes,Yes,No,No,Credit,109525.0,3750500.0,3,34.2433234421365,0,27,38,1528
+Bandung,High End,Yes,Yes,No,No,No,No,Pulsa,103285.00000000001,3126500.0,2,30.270610446821895,0,19,38,1529
+Jakarta,Mid End,No,Yes,Yes,Yes,Yes,No,Credit,91195.00000000001,3438500.0,4,37.70491803278688,0,36,38,1530
+Jakarta,Mid End,Yes,Yes,No,Yes,Yes,Yes,Credit,104390.0,2692300.0,5,25.790784557907845,0,35,38,1531
+Bandung,Mid End,Yes,Yes,No,No,No,No,Credit,74295.0,4043000.0,2,54.41819772528434,0,22,38,1532
+Bandung,Mid End,No,No,Yes,Yes,No,Yes,Digital Wallet,80990.0,4963400.000000001,3,61.2841091492777,0,15,38,1533
+Bandung,High End,No,No,Yes,Yes,Yes,Yes,Pulsa,136500.0,3043300.0,4,22.295238095238094,0,31,38,1534
+Jakarta,High End,No,Yes,Yes,No,Yes,No,Pulsa,123045.00000000001,4547400.000000001,3,36.95721077654517,0,27,38,1535
+Jakarta,High End,No,No,No,Yes,Yes,Yes,Pulsa,129414.99999999999,4516200.0,3,34.89703666499247,0,23,38,1536
+Jakarta,High End,No,No,No,No,No,No,Debit,97435.0,6714500.0,0,68.91260840560373,1,15,38,1537
+Jakarta,High End,No,No,No,No,No,No,Debit,91585.00000000001,7068100.0,0,77.17530163236337,1,14,38,1538
+Jakarta,Mid End,Yes,No,Yes,No,Yes,Yes,Pulsa,72670.0,7321600.0,4,100.75134168157425,3,33,39,1539
+Jakarta,High End,No,Yes,No,No,Yes,No,Digital Wallet,112190.0,4373200.0,2,38.98030127462341,0,16,39,1540
+Bandung,High End,No,No,No,No,No,No,Pulsa,97825.0,6104800.0,0,62.40531561461794,1,9,39,1541
+Jakarta,Mid End,Yes,Yes,No,Yes,Yes,No,Credit,63635.00000000001,4004000.0,4,62.92134831460673,0,32,39,1542
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,137345.0,6093100.0,4,44.363464268812116,3,43,39,1543
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,134485.0,6254300.0,4,46.50555824069599,3,48,39,1544
+Bandung,High End,No,No,No,No,Yes,Yes,Debit,124345.00000000001,6359600.0,2,51.14479874542602,1,25,39,1545
+Jakarta,High End,No,No,Yes,Yes,No,No,Pulsa,104585.00000000001,2891200.0000000005,2,27.64449968924798,0,15,39,1546
+Jakarta,Mid End,No,No,Yes,No,Yes,Yes,Pulsa,65975.00000000001,5354700.0,3,81.16256157635466,1,18,39,1547
+Jakarta,High End,Yes,No,Yes,Yes,Yes,Yes,Credit,136110.0,3082300.0,5,22.645654250238778,0,36,39,1548
+Jakarta,Mid End,Yes,No,Yes,Yes,Yes,Yes,Credit,104000.0,3515200.0000000005,5,33.800000000000004,0,35,39,1549
+Jakarta,High End,No,Yes,Yes,Yes,No,No,Pulsa,116415.0,5003700.0,3,42.981574539363486,0,23,39,1550
+Jakarta,High End,Yes,No,Yes,Yes,Yes,No,Pulsa,124215.0,3597100.0,4,28.958660387231816,0,28,39,1551
+Bandung,Mid End,No,No,Yes,No,No,No,Credit,39130.0,4037800.0,1,103.18936877076412,4,14,39,1552
+Jakarta,High End,No,No,Yes,Yes,Yes,Yes,Debit,136240.0,4539600.0,4,33.3206106870229,0,33,40,1553
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Credit,135850.0,3681600.0,4,27.10047846889952,0,35,40,1554
+Jakarta,Mid End,Yes,Yes,No,No,Yes,Yes,Pulsa,72539.99999999999,5553600.0,4,76.55913978494625,3,37,40,1555
+Bandung,High End,Yes,No,No,No,Yes,Yes,Pulsa,132405.0,3688100.0,3,27.8546882670594,0,23,40,1556
+Jakarta,High End,No,No,Yes,Yes,No,No,Pulsa,110304.99999999999,7493200.0,2,67.93164407778434,1,16,40,1557
+Jakarta,High End,Yes,Yes,No,No,No,No,Credit,102960.00000000001,4169100.0000000005,2,40.49242424242424,0,23,40,1558
+Jakarta,High End,No,Yes,No,Yes,Yes,Yes,Credit,128960.00000000001,6627400.000000001,4,51.391129032258064,3,48,40,1559
+Jakarta,Mid End,Yes,Yes,No,No,No,No,Digital Wallet,71825.0,3653000.0,2,50.85972850678733,0,14,40,1560
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,131690.0,3348800.0,3,25.429417571569594,0,25,40,1561
+Jakarta,High End,No,No,No,No,Yes,Yes,Credit,122915.0,7378800.0,2,60.03172924378636,1,23,40,1562
+Jakarta,Mid End,No,Yes,No,No,Yes,No,Pulsa,51089.99999999999,2984800.0,2,58.42239185750637,4,18,40,1563
+Jakarta,Mid End,Yes,Yes,Yes,No,No,No,Pulsa,55055.00000000001,7048600.0,3,128.02833530106255,1,27,40,1564
+Bandung,High End,No,No,No,No,Yes,Yes,Debit,126230.0,4028700.0000000005,2,31.915550978372814,0,23,40,1565
+Jakarta,Mid End,No,No,Yes,No,Yes,Yes,Pulsa,94900.0,2653300.0,3,27.958904109589042,0,21,41,1566
+Jakarta,High End,Yes,No,Yes,No,No,No,Debit,108875.0,6493500.0,2,59.64179104477612,1,25,41,1567
+Jakarta,High End,Yes,Yes,Yes,No,Yes,Yes,Pulsa,147160.0,4394000.0,5,29.858657243816253,3,42,41,1568
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,138190.0,6997900.000000001,4,50.639698965192856,3,45,41,1569
+Jakarta,Mid End,Yes,Yes,Yes,Yes,No,Yes,Credit,103870.0,6154200.0,5,59.24906132665832,3,55,41,1570
+Bandung,High End,No,No,No,No,No,No,Debit,91325.0,4429100.0,0,48.49822064056939,4,12,41,1571
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,136110.0,4310800.0,4,31.671442215854825,0,32,41,1572
+Jakarta,High End,Yes,Yes,Yes,Yes,Yes,Yes,Debit,148850.0,3949400.0,6,26.532751091703055,3,47,41,1573
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,129740.00000000001,6143800.0,3,47.35470941883767,3,28,41,1574
+Jakarta,Mid End,No,Yes,No,Yes,No,Yes,Debit,86450.0,3272100.0,3,37.849624060150376,0,29,41,1575
+Jakarta,High End,Yes,Yes,Yes,Yes,Yes,Yes,Debit,147680.0,6451900.000000001,6,43.688380281690144,3,62,41,1576
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,127920.00000000001,2819700.0000000005,3,22.04268292682927,0,24,41,1577
+Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Pulsa,145535.0,4824300.0,5,33.148727110317104,3,39,41,1578
+Jakarta,High End,No,No,Yes,Yes,Yes,Yes,Pulsa,133380.0,2727400.0,4,20.448343079922026,0,30,41,1579
+Jakarta,Mid End,No,Yes,No,Yes,No,No,Digital Wallet,43614.99999999999,2657200.0000000005,2,60.923994038748155,4,14,42,1580
+Bandung,High End,Yes,No,Yes,No,Yes,Yes,Pulsa,136760.00000000003,3012100.0,4,22.024714828897334,0,31,42,1581
+Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,122460.00000000001,7095400.000000001,2,57.94055201698514,1,15,42,1582
+Jakarta,High End,Yes,No,No,No,No,No,Credit,96395.00000000001,3018600.0,1,31.314902225219146,0,17,42,1583
+Bandung,High End,No,Yes,Yes,Yes,No,Yes,Pulsa,129285.0,6011200.0,4,46.495726495726494,3,39,42,1584
+Bandung,Mid End,Yes,Yes,Yes,Yes,No,Yes,Credit,96070.00000000001,3606200.0000000005,5,37.53721244925575,0,40,42,1585
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,132275.0,7208500.0,3,54.4963144963145,3,39,42,1586
+Bandung,High End,No,No,Yes,Yes,Yes,Yes,Debit,137995.0,2944500.0,4,21.337729627885068,0,38,42,1587
+Jakarta,High End,No,No,Yes,Yes,No,No,Pulsa,109590.0,3268200.0000000005,2,29.822064056939507,0,15,42,1588
+Bandung,High End,No,Yes,Yes,No,Yes,Yes,Debit,136175.0,3879200.0000000005,4,28.486873508353224,0,34,42,1589
+Bandung,High End,No,No,No,No,Yes,No,Credit,101335.00000000001,7014800.0,1,69.2238614496472,1,15,42,1590
+Bandung,High End,No,No,No,No,Yes,No,Pulsa,110045.00000000001,6332300.0,1,57.54282339043118,1,13,42,1591
+Jakarta,Mid End,No,No,No,No,No,No,Pulsa,65325.0,6334900.000000001,0,96.97512437810947,2,6,42,1592
+Jakarta,High End,No,Yes,Yes,No,Yes,No,Debit,123825.0,2697500.0,3,21.78477690288714,0,31,42,1593
+Jakarta,High End,No,Yes,No,No,No,No,Pulsa,101205.0,6639100.0,1,65.6005138086063,1,14,43,1594
+Jakarta,Mid End,No,No,No,No,Yes,No,Pulsa,72995.0,2797600.0,1,38.325912733748886,4,10,43,1595
+Bandung,High End,Yes,No,No,No,No,No,Pulsa,97760.0,6074900.000000001,1,62.14095744680852,1,15,43,1596
+Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Debit,143975.0,3546400.0,5,24.632054176072234,0,40,43,1597
+Bandung,High End,Yes,No,Yes,Yes,Yes,Yes,Digital Wallet,142415.0,7621900.000000001,5,53.518941122775,3,37,43,1598
+Jakarta,High End,No,No,No,No,Yes,Yes,Digital Wallet,116415.0,4942600.0,2,42.456728084868786,0,13,43,1599
+Jakarta,Mid End,No,No,Yes,No,Yes,Yes,Debit,63765.0,5257200.0,3,82.44648318042813,1,25,43,1600
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,131820.00000000003,4381000.0,3,33.23471400394477,0,27,43,1601
+Bandung,Mid End,No,Yes,Yes,No,Yes,Yes,Credit,72215.0,3344900.0,4,46.31863186318632,0,34,43,1602
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,135980.0,6825000.0,4,50.19120458891013,3,46,43,1603
+Jakarta,High End,No,No,No,Yes,Yes,Yes,Pulsa,130000.0,6188000.0,3,47.6,3,32,43,1604
+Jakarta,High End,Yes,Yes,No,Yes,Yes,Yes,Credit,140595.0,3682900.0,5,26.195099398982894,0,42,43,1605
+Bandung,High End,No,No,Yes,Yes,Yes,Yes,Pulsa,139815.0,5749900.000000001,4,41.12505811250582,3,46,43,1606
+Bandung,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,133900.0,3256500.0,4,24.320388349514563,0,29,43,1607
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,131300.0,4059900.0,3,30.92079207920792,0,26,43,1608
+Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,124929.99999999999,7287800.0,2,58.335067637877216,1,19,44,1609
+Bandung,Mid End,No,Yes,No,No,No,No,Pulsa,39455.00000000001,6277700.0,1,159.11037891268532,2,14,44,1610
+Jakarta,High End,No,Yes,No,Yes,Yes,Yes,Pulsa,130715.0,4531800.0,4,34.669318746892095,0,30,44,1611
+Bandung,High End,No,Yes,Yes,No,No,No,Debit,110240.0,5196100.0,2,47.134433962264154,0,25,44,1612
+Jakarta,High End,No,Yes,No,No,No,Yes,Digital Wallet,114920.00000000001,3476200.0000000005,2,30.248868778280542,0,15,44,1613
+Jakarta,Mid End,No,Yes,Yes,No,Yes,Yes,Digital Wallet,70135.0,3966300.0,4,56.55236329935125,0,25,44,1614
+Bandung,Mid End,No,Yes,No,Yes,No,No,Credit,70395.0,3589300.0,2,50.987996306555864,0,23,45,1615
+Jakarta,High End,No,Yes,No,No,Yes,No,Credit,116090.0,6344000.0,2,54.64725643896976,1,28,45,1616
+Bandung,Mid End,Yes,No,Yes,No,No,Yes,Credit,81510.0,3450200.0000000005,3,42.32854864433812,0,31,45,1617
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,26520.0,7017400.000000001,0,264.6078431372549,2,10,45,1618
+Jakarta,High End,No,No,Yes,Yes,No,No,Pulsa,113425.0,6849700.0,2,60.38968481375358,1,15,45,1619
+Bandung,High End,No,Yes,No,No,Yes,Yes,Credit,131105.0,6367400.000000001,3,48.56717897868122,3,45,45,1620
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Credit,123825.0,4134000.0,3,33.38582677165354,0,27,46,1621
+Jakarta,High End,Yes,No,No,No,No,Yes,Pulsa,110500.0,2726100.0,2,24.67058823529412,0,18,46,1622
+Bandung,High End,Yes,Yes,No,No,No,Yes,Pulsa,121810.0,4391400.000000001,3,36.051227321238,0,22,46,1623
+Jakarta,High End,Yes,Yes,Yes,No,Yes,No,Pulsa,130910.0,7425600.0,4,56.72293942403178,3,48,46,1624
+Jakarta,Mid End,No,No,Yes,Yes,No,No,Credit,70655.0,3630900.0,2,51.38914443422263,0,21,46,1625
+Jakarta,Mid End,No,Yes,No,No,No,No,Debit,39390.0,2915900.0,1,74.02640264026402,4,16,46,1626
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,131300.0,3166800.0,3,24.11881188118812,0,22,46,1627
+Jakarta,High End,Yes,Yes,Yes,No,Yes,Yes,Pulsa,143000.0,3123900.0,5,21.845454545454544,0,37,46,1628
+Jakarta,High End,No,No,No,No,Yes,Yes,Debit,124865.0,3525600.0,2,28.235294117647058,0,22,46,1629
+Bandung,High End,Yes,Yes,No,Yes,Yes,Yes,Debit,136760.00000000003,4318600.0,5,31.57794676806083,0,38,46,1630
+Bandung,Mid End,No,Yes,Yes,Yes,Yes,Yes,Debit,77870.0,5214300.0,5,66.96160267111853,3,43,46,1631
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,104520.00000000001,6338800.0,1,60.64676616915422,1,13,46,1632
+Jakarta,High End,No,No,No,No,No,No,Debit,91715.0,5794100.0,0,63.17505315379164,1,14,47,1633
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,129155.0,7525700.0,3,58.26874685455461,3,34,47,1634
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,130065.0,6715800.0,3,51.634182908545725,3,29,47,1635
+Jakarta,High End,No,Yes,Yes,No,No,No,Debit,108354.99999999999,3270800.0,2,30.185962807438518,0,25,47,1636
+Bandung,High End,No,No,Yes,No,No,Yes,Pulsa,110890.0,4720300.0,2,42.56740914419695,0,13,47,1637
+Jakarta,High End,Yes,Yes,Yes,No,Yes,No,Pulsa,128375.0,6008600.0,4,46.80506329113924,3,43,47,1638
+Jakarta,High End,Yes,No,No,No,No,Yes,Digital Wallet,111150.0,4738500.0,2,42.63157894736842,0,15,47,1639
+Bandung,High End,No,No,Yes,Yes,Yes,Yes,Debit,139555.0,4706000.0,4,33.721471821145784,0,39,47,1640
+Jakarta,High End,Yes,No,Yes,Yes,Yes,Yes,Credit,144105.0,4347200.0,5,30.166892196662157,0,45,47,1641
+Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Pulsa,142415.0,7621900.000000001,5,53.518941122775,3,48,47,1642
+Bandung,High End,No,Yes,Yes,No,No,No,Debit,110760.0,6059300.0,2,54.70657276995305,1,28,47,1643
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,138320.00000000003,6245200.0,4,45.15037593984962,3,47,47,1644
+Bandung,High End,Yes,No,No,No,No,No,Pulsa,104455.0,7689500.0,1,73.61543248288737,1,17,47,1645
+Jakarta,High End,No,Yes,No,Yes,Yes,No,Pulsa,123565.0,6778200.0,3,54.85533929510784,3,34,47,1646
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Debit,139620.0,6442800.0,4,46.14525139664804,3,55,48,1647
+Jakarta,Mid End,Yes,No,Yes,No,No,Yes,Debit,58890.0,6403800.0,3,108.74172185430463,1,32,48,1648
+Jakarta,High End,No,Yes,Yes,Yes,Yes,No,Digital Wallet,124150.0,3196700.0000000005,4,25.748691099476442,0,26,48,1649
+Bandung,Mid End,No,Yes,Yes,No,No,No,Digital Wallet,45110.00000000001,7793500.0,2,172.7665706051873,2,21,48,1650
+Jakarta,High End,No,No,No,No,No,Yes,Digital Wallet,106665.0,4374500.0,1,41.01157830591103,0,7,48,1651
+Bandung,High End,Yes,Yes,Yes,Yes,Yes,Yes,Pulsa,152685.0,7689500.0,6,50.36185610898254,3,49,48,1652
+Jakarta,Mid End,Yes,No,Yes,Yes,No,No,Credit,78455.0,3485300.0,3,44.42419221209611,0,31,48,1653
+Bandung,High End,No,Yes,Yes,No,Yes,Yes,Credit,137930.0,7667400.000000001,4,55.58906691800189,3,49,48,1654
+Jakarta,High End,Yes,Yes,No,No,Yes,Yes,Credit,134225.0,6156800.0,4,45.869249394673126,3,53,48,1655
+Bandung,High End,No,No,No,Yes,Yes,Yes,Debit,130780.0,7260500.0,3,55.5168986083499,3,33,49,1656
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Digital Wallet,130585.00000000001,5505500.0,3,42.1602787456446,3,30,49,1657
+Jakarta,High End,No,No,No,No,No,No,Credit,97760.0,6867900.000000001,0,70.2526595744681,1,15,49,1658
+Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Debit,140335.0,7520500.0,5,53.58962482630847,3,55,49,1659
+Bandung,High End,No,Yes,No,No,Yes,Yes,Debit,128765.00000000001,6704100.0,3,52.064613831398276,3,42,49,1660
+Bandung,High End,No,No,Yes,No,Yes,Yes,Pulsa,129740.00000000001,7914400.000000001,3,61.00200400801603,3,46,49,1661
+Bandung,High End,No,No,No,No,Yes,No,Pulsa,109850.00000000001,6030700.0,1,54.899408284023664,1,13,49,1662
+Bandung,High End,No,No,No,No,Yes,Yes,Pulsa,124280.0,7451600.0,2,59.9581589958159,1,19,49,1663
+Jakarta,Mid End,No,Yes,No,No,Yes,Yes,Debit,67340.0,6987500.0,3,103.76447876447877,1,35,49,1664
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,125060.0,7675200.0,2,61.37214137214137,1,18,49,1665
+Jakarta,Mid End,Yes,No,Yes,Yes,Yes,Yes,Pulsa,109655.0,8387600.0,5,76.49081209247184,3,58,49,1666
+Jakarta,High End,No,Yes,No,No,No,Yes,Credit,117065.0,6576700.0,2,56.17990005552471,1,27,49,1667
+Jakarta,High End,No,No,Yes,No,No,Yes,Credit,118104.99999999999,7346300.0,2,62.20143093010458,1,23,49,1668
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Debit,134810.0,6942000.0,4,51.494696239151395,3,52,49,1669
+Jakarta,Mid End,Yes,Yes,No,No,No,No,Credit,77675.0,7807800.0,2,100.51882845188284,1,47,49,1670
+Jakarta,High End,Yes,Yes,No,Yes,Yes,Yes,Pulsa,141115.0,5556200.0,5,39.37356057116536,3,53,50,1671
+Jakarta,High End,No,No,No,No,No,No,Pulsa,92365.0,7469800.0,0,80.87262491203379,1,10,50,1672
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,124410.00000000001,5573100.0,2,44.7962382445141,1,17,50,1673
+Jakarta,High End,Yes,No,Yes,No,Yes,Yes,Credit,137735.0,7196800.0,4,52.251061821613966,3,51,50,1674
+Bandung,High End,No,Yes,Yes,No,Yes,Yes,Debit,135005.0,7555600.0,4,55.9653346172364,3,49,50,1675
+Jakarta,High End,No,No,No,No,Yes,No,Debit,109720.00000000001,6675500.0,1,60.84123222748814,1,19,50,1676
+Bandung,High End,No,Yes,Yes,No,Yes,No,Pulsa,123565.0,7621900.000000001,3,61.683324566017895,3,31,50,1677
+Jakarta,High End,No,Yes,No,Yes,Yes,Yes,Pulsa,134810.0,7666100.0,4,56.86595949855352,3,45,50,1678
+Jakarta,High End,Yes,Yes,No,Yes,Yes,Yes,Pulsa,142545.00000000003,7611500.0,5,53.39717282261741,3,47,50,1679
+Jakarta,High End,No,Yes,No,No,Yes,No,Pulsa,114465.0,7556900.000000001,2,66.01930721181148,1,19,50,1680
+Jakarta,High End,Yes,No,No,No,No,No,Pulsa,100750.0,7472400.000000001,1,74.16774193548387,1,18,51,1681
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,123045.00000000001,6171100.0,2,50.153195985208654,1,18,51,1682
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,127140.0,8065200.000000001,3,63.4355828220859,3,48,51,1683
+Jakarta,High End,Yes,Yes,No,No,Yes,No,Pulsa,123240.0,6596200.0,3,53.52320675105485,3,35,51,1684
+Bandung,High End,No,Yes,Yes,No,No,No,Pulsa,109460.00000000001,8118500.0,2,74.16864608076008,1,53,51,1685
+Jakarta,High End,No,No,Yes,No,No,No,Credit,104000.0,6199700.0,1,59.6125,1,17,51,1686
+Jakarta,High End,Yes,No,Yes,No,Yes,No,Debit,121940.0,6224400.000000001,3,51.04477611940299,3,34,51,1687
+Jakarta,Mid End,Yes,Yes,Yes,No,Yes,Yes,Pulsa,77090.0,7322900.000000001,5,94.99156829679596,3,46,51,1688
+Bandung,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,136565.0,6290700.0,4,46.06377915278439,3,45,52,1689
+Jakarta,Mid End,No,Yes,No,No,Yes,Yes,Pulsa,63895.0,7276100.0,3,113.87589013224822,1,30,52,1690
+Bandung,High End,No,Yes,No,No,No,Yes,Pulsa,110955.0,8322600.0,2,75.00878734622144,1,51,52,1691
+Bandung,High End,No,Yes,Yes,Yes,Yes,Yes,Debit,136500.0,6019000.0,5,44.095238095238095,3,54,52,1692
+Bandung,High End,No,No,Yes,Yes,No,Yes,Debit,125125.0,6176300.0,3,49.36103896103896,3,35,52,1693
+Jakarta,High End,Yes,No,Yes,No,Yes,Yes,Pulsa,135460.0,7342400.000000001,4,54.20345489443379,3,38,52,1694
+Jakarta,High End,Yes,No,No,No,Yes,No,Pulsa,109330.0,8080800.0,2,73.91200951248514,1,48,52,1695
+Jakarta,High End,Yes,Yes,No,Yes,Yes,Yes,Credit,144625.0,6319300.0,5,43.69438202247191,3,61,52,1696
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Credit,127920.00000000001,8425300.000000002,3,65.86382113821139,3,59,53,1697
+Bandung,High End,Yes,No,Yes,No,Yes,Yes,Credit,139035.0,7215000.0,4,51.89340813464236,3,54,53,1698
+Jakarta,Mid End,No,Yes,Yes,No,Yes,Yes,Pulsa,70785.00000000001,8164000.0,4,115.3351698806244,3,64,53,1699
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,27040.000000000004,5415800.0,0,200.28846153846152,2,13,53,1700
+Jakarta,Mid End,Yes,No,No,Yes,No,No,Pulsa,78065.0,6852300.0,2,87.77685262281432,1,17,53,1701
+Jakarta,High End,No,No,No,No,Yes,No,Debit,111085.00000000001,6178900.000000001,1,55.62317144528964,1,20,53,1702
+Bandung,High End,Yes,Yes,Yes,No,Yes,Yes,Debit,137930.0,5812300.0,5,42.13949104618285,3,56,53,1703
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,132470.0,7649200.0,3,57.74288518155054,3,36,53,1704
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Debit,25675.0,8144500.0,0,317.2151898734177,2,45,53,1705
+Bandung,High End,No,No,Yes,No,Yes,Yes,Debit,123304.99999999999,5626400.000000001,3,45.629942013705865,3,28,53,1706
+Jakarta,High End,Yes,No,Yes,No,No,Yes,Pulsa,122070.00000000001,7205900.000000001,3,59.03088391906283,3,29,53,1707
+Bandung,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,135005.0,7618000.0,4,56.427539720751085,3,43,53,1708
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Debit,122525.0,7038200.0,3,57.44297082228117,3,39,53,1709
+Bandung,Mid End,No,Yes,Yes,Yes,Yes,Yes,Pulsa,78585.00000000001,7345000.0,5,93.46567411083538,3,42,53,1710
+Bandung,High End,Yes,Yes,No,No,Yes,Yes,Debit,138515.00000000003,6360900.000000001,4,45.922102299389955,3,53,54,1711
+Jakarta,High End,No,No,No,Yes,Yes,Yes,Pulsa,130130.0,7491900.000000001,3,57.57242757242758,3,29,54,1712
+Bandung,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,135590.0,5224700.0,4,38.53307766059444,3,42,54,1713
+Bandung,High End,No,Yes,Yes,Yes,Yes,Yes,Pulsa,144430.0,7185100.0,5,49.74797479747975,3,49,54,1714
+Jakarta,High End,No,Yes,No,No,No,No,Pulsa,103350.00000000001,7389200.0,1,71.49685534591194,1,16,54,1715
+Jakarta,Mid End,No,Yes,No,No,No,No,Credit,71500.0,6866600.0,1,96.03636363636363,1,19,54,1716
+Jakarta,Mid End,Yes,Yes,No,Yes,Yes,Yes,Debit,107185.0,5393700.0,5,50.321406913280775,3,46,54,1717
+Jakarta,High End,Yes,No,Yes,No,Yes,Yes,Debit,135135.00000000003,7952100.0,4,58.845598845598836,3,58,54,1718
+Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Pulsa,143454.99999999997,8045700.000000001,5,56.085183507023125,3,60,54,1719
+Jakarta,Mid End,No,No,No,No,Yes,Yes,Credit,91195.00000000001,5974800.0,2,65.5167498218104,1,21,54,1720
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Credit,131950.00000000003,8326500.0,3,63.10344827586206,3,59,54,1721
+Jakarta,High End,Yes,Yes,No,Yes,Yes,Yes,Credit,137020.0,5727800.0,5,41.802656546489565,3,55,54,1722
+Jakarta,High End,Yes,Yes,Yes,Yes,Yes,Yes,Debit,142675.0,8156200.000000001,6,57.166287015945336,3,67,54,1723
+Jakarta,High End,No,No,No,No,Yes,Yes,Pulsa,125840.0,5315700.0,2,42.24173553719008,0,23,55,1724
+Jakarta,Mid End,Yes,Yes,No,Yes,No,No,Debit,74815.0,7101900.000000001,3,94.92615117289314,1,33,55,1725
+Jakarta,High End,No,No,Yes,No,No,No,Pulsa,101075.0,5717400.000000001,1,56.56591639871384,1,11,55,1726
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,130000.0,7382700.0,3,56.79,3,29,55,1727
+Bandung,High End,Yes,No,No,No,Yes,Yes,Pulsa,128440.0,7205900.000000001,3,56.103238866396765,3,25,55,1728
+Jakarta,High End,Yes,Yes,No,No,Yes,No,Pulsa,125775.0,6700200.0,3,53.27131782945737,3,39,55,1729
+Bandung,Mid End,No,No,Yes,Yes,Yes,Yes,Debit,70914.99999999999,7853300.0,4,110.74243813015585,3,53,55,1730
+Bandung,High End,No,No,Yes,Yes,Yes,Yes,Pulsa,135395.0,5679700.0,4,41.949111857897265,3,37,55,1731
+Jakarta,High End,No,Yes,Yes,No,No,No,Pulsa,111085.00000000001,7152600.0,2,64.38853130485663,1,22,55,1732
+Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Pulsa,145535.0,5278000.0,5,36.266190263510495,3,47,56,1733
+Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Pulsa,32369.999999999996,6925100.0,0,213.93574297188758,2,18,56,1734
+Bandung,High End,No,Yes,No,No,Yes,Yes,Pulsa,127725.00000000001,6351800.0,3,49.730279898218825,3,35,56,1735
+Jakarta,High End,Yes,No,Yes,No,Yes,Yes,Debit,135915.0,8148400.000000001,4,59.95217599234817,3,59,56,1736
+Bandung,High End,No,Yes,No,Yes,No,Yes,Pulsa,122785.00000000001,6279000.0,3,51.138168343038636,3,31,56,1737
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Debit,130845.0,6243900.000000001,3,47.71982116244412,3,35,56,1738
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Credit,130390.00000000001,6721000.0,3,51.54536390827517,3,45,56,1739
+Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Credit,32695.0,8429200.0,0,257.8131212723658,2,49,56,1740
+Jakarta,High End,No,Yes,No,No,No,No,Pulsa,96005.0,6858800.0,1,71.44211238997968,1,15,56,1741
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Debit,136175.0,7286500.0,4,53.50835322195704,3,53,56,1742
+Bandung,Mid End,No,No,No,No,Yes,Yes,Pulsa,58305.00000000001,6723600.0,2,115.31772575250835,1,16,57,1743
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,130780.0,6821100.0,3,52.157057654075544,3,27,57,1744
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Credit,135850.0,5812300.0,4,42.78468899521531,3,53,57,1745
+Jakarta,High End,No,Yes,Yes,No,No,Yes,Debit,123825.0,8136700.000000001,3,65.71128608923885,3,58,57,1746
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,123825.0,7525700.0,3,60.77690288713911,3,19,57,1747
+Jakarta,High End,Yes,Yes,Yes,No,Yes,Yes,Debit,146835.0,6159400.000000001,5,41.9477644975653,3,62,57,1748
+Jakarta,Mid End,No,Yes,No,No,Yes,No,Pulsa,51089.99999999999,6392100.0,2,125.11450381679391,1,21,57,1749
+Jakarta,Mid End,Yes,No,No,No,Yes,Yes,Debit,91130.0,6069700.0,3,66.60485021398003,1,31,57,1750
+Jakarta,High End,Yes,Yes,Yes,No,Yes,Yes,Pulsa,141505.0,6160700.0,5,43.536977491961416,3,53,58,1751
+Jakarta,High End,No,No,Yes,Yes,Yes,Yes,Credit,132730.0,5739500.0,4,43.24191968658178,3,43,58,1752
+Jakarta,High End,Yes,Yes,Yes,No,Yes,Yes,Debit,142285.0,8351200.000000001,5,58.693467336683426,3,66,58,1753
+Bandung,High End,Yes,Yes,No,No,No,Yes,Debit,121420.00000000001,7785700.0,3,64.1220556745182,3,44,58,1754
+Jakarta,High End,Yes,Yes,Yes,No,Yes,Yes,Pulsa,138385.00000000003,7672600.0,5,55.44387036167213,3,49,58,1755
+Jakarta,Mid End,Yes,Yes,Yes,No,No,No,Credit,78390.0,5233800.0,3,66.76616915422886,0,35,58,1756
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Debit,134225.0,7936500.0,4,59.12832929782083,3,63,58,1757
+Bandung,Mid End,No,Yes,Yes,No,No,Yes,Pulsa,58890.0,7077200.0,3,120.17660044150111,1,29,58,1758
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,128310.0,6060600.0,3,47.234042553191486,3,27,58,1759
+Jakarta,High End,No,No,Yes,Yes,Yes,Yes,Pulsa,136045.00000000003,7034300.0,4,51.705685618729085,3,38,58,1760
+Jakarta,High End,Yes,Yes,No,Yes,Yes,Yes,Credit,137150.0,6587100.0,5,48.02843601895734,3,57,58,1761
+Bandung,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25155.0,6609200.0,0,262.7390180878553,2,15,59,1762
+Jakarta,High End,No,No,No,No,Yes,Yes,Debit,122005.0,7007000.0,2,57.43207245604688,1,22,59,1763
+Jakarta,Mid End,No,Yes,No,No,No,Yes,Debit,53364.99999999999,5621200.0,2,105.33495736906214,1,23,59,1764
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,131430.0,5408000.0,3,41.147378832838776,3,36,59,1765
+Jakarta,High End,Yes,Yes,Yes,Yes,Yes,No,Pulsa,138775.0,5860400.000000001,5,42.22950819672132,3,56,59,1766
+Jakarta,High End,No,No,No,No,No,Yes,Pulsa,111215.0,8195200.000000001,1,73.68790181180597,1,45,59,1767
+Jakarta,High End,Yes,Yes,Yes,No,Yes,Yes,Pulsa,143195.00000000003,5981300.0,5,41.77031320926009,3,56,59,1768
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Debit,129350.0,7927400.000000001,3,61.286432160804026,3,49,59,1769
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,122720.00000000001,6487000.0,3,52.86016949152542,3,32,60,1770
+Bandung,Mid End,No,Yes,No,No,Yes,Yes,Pulsa,66039.99999999999,6423300.0,3,97.26377952755908,1,30,60,1771
+Jakarta,High End,No,No,Yes,Yes,Yes,Yes,Pulsa,137800.0,7159100.0,4,51.95283018867924,3,46,60,1772
+Bandung,High End,No,Yes,Yes,No,Yes,No,Pulsa,124475.00000000001,5367700.0,3,43.12271540469973,0,33,60,1773
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,137670.00000000003,5336500.0,4,38.76298394711991,3,41,60,1774
+Jakarta,High End,No,Yes,Yes,No,Yes,No,Pulsa,118235.00000000001,5344300.0,3,45.20065970313358,0,30,60,1775
+Jakarta,High End,No,Yes,No,Yes,Yes,No,Pulsa,122330.0,8183500.0,3,66.89691817215729,3,56,61,1776
+Jakarta,Low End,No internet service,No internet service,No internet service,No,No internet service,No internet service,Digital Wallet,25220.0,5487300.0,0,217.57731958762886,2,12,61,1777
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,128895.00000000001,7295600.0,3,56.60110943015632,3,37,61,1778
+Jakarta,High End,Yes,Yes,No,No,Yes,Yes,Pulsa,137800.0,5634200.0,4,40.886792452830186,3,47,61,1779
+Bandung,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,137215.0,6514300.0,4,47.47513027001421,3,45,61,1780
+Jakarta,High End,No,No,Yes,Yes,Yes,Yes,Pulsa,138579.99999999997,5437900.000000001,4,39.240150093808644,3,45,61,1781
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Credit,135720.0,5735600.0,4,42.26053639846743,3,55,61,1782
+Bandung,High End,Yes,No,Yes,Yes,Yes,Yes,Credit,145079.99999999997,5843500.0,5,40.277777777777786,3,59,61,1783
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,125775.0,6520800.0,3,51.84496124031008,3,29,62,1784
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,130195.00000000001,5356000.0,4,41.13829256115826,3,41,62,1785
+Bandung,High End,Yes,Yes,No,Yes,No,Yes,Pulsa,132600.0,6617000.0,4,49.90196078431372,3,46,62,1786
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Pulsa,130195.00000000001,7280000.0,3,55.91612581128307,3,29,62,1787
+Bandung,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,134875.0,6567600.0,4,48.69397590361446,3,47,62,1788
+Bandung,High End,Yes,Yes,Yes,No,Yes,No,Pulsa,130715.0,7036900.000000001,4,53.83391347588265,3,45,63,1789
+Bandung,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,139750.0,7987200.000000001,4,57.15348837209303,3,59,63,1790
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Debit,129870.0,6208800.0,3,47.807807807807805,3,45,63,1791
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,134420.00000000003,5657600.0,4,42.088974854932296,3,48,63,1792
+Bandung,Mid End,Yes,No,Yes,Yes,No,Yes,Pulsa,62205.00000000001,8251100.0,4,132.64367816091954,1,58,64,1793
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Credit,130065.0,7087600.0,3,54.492753623188406,3,37,64,1794
+Jakarta,High End,No,Yes,No,Yes,Yes,Yes,Credit,137345.0,6331000.0,4,46.095598674869855,3,56,64,1795
+Jakarta,Mid End,Yes,Yes,No,Yes,Yes,No,Credit,91260.0,7904000.0,4,86.6096866096866,3,63,64,1796
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,138125.0,7754500.0,4,56.141176470588235,3,44,65,1797
+Jakarta,Mid End,Yes,No,No,Yes,Yes,Yes,Debit,97240.0,6769100.0,4,69.61229946524064,3,39,65,1798
+Bandung,High End,Yes,No,Yes,Yes,Yes,Yes,Debit,141245.0,7956000.0,5,56.327657616198806,3,63,65,1799
+Bandung,High End,No,Yes,No,No,Yes,No,Debit,119405.0,7189000.0,2,60.20685900925422,1,27,65,1800
+Bandung,Mid End,Yes,Yes,Yes,No,No,Yes,Credit,94185.0,5739500.0,4,60.93857832988268,3,52,65,1801
+Jakarta,High End,Yes,Yes,Yes,No,No,No,Pulsa,116675.0,7943000.0,3,68.07799442896936,3,58,65,1802
+Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Pulsa,141895.0,7801300.0,5,54.979386165826845,3,59,65,1803
+Jakarta,High End,Yes,No,Yes,No,Yes,Yes,Debit,136825.00000000003,5454800.0,4,39.86698337292161,3,46,65,1804
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,137150.0,7436000.0,4,54.21800947867298,3,45,65,1805
+Jakarta,Mid End,No,Yes,Yes,No,Yes,Yes,Debit,104715.0,5720000.0,4,54.62445685909373,3,48,66,1806
+Bandung,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,129350.0,5201300.0,4,40.21105527638191,3,36,66,1807
+Jakarta,Mid End,Yes,Yes,Yes,Yes,Yes,No,Credit,103220.00000000001,7683000.0,5,74.43324937027707,3,54,66,1808
+Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Pulsa,144105.0,5565300.0,5,38.61975642760487,3,54,66,1809
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Credit,136500.0,7439900.000000001,4,54.504761904761914,3,53,66,1810
+Bandung,High End,No,Yes,Yes,Yes,Yes,Yes,Credit,144170.00000000003,5705700.0,5,39.57619477006311,3,60,66,1811
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Credit,133185.0,6094400.000000001,4,45.75890678379698,3,53,66,1812
+Bandung,High End,No,No,No,Yes,Yes,Yes,Credit,130065.0,5865600.0,3,45.09745127436282,3,38,66,1813
+Jakarta,High End,No,Yes,No,Yes,Yes,Yes,Pulsa,135265.00000000003,7155200.0,4,52.89764536280633,3,47,66,1814
+Bandung,High End,No,Yes,No,No,No,No,Credit,104585.00000000001,6514300.0,1,62.287134866376626,1,23,66,1815
+Jakarta,High End,Yes,No,Yes,No,Yes,Yes,Credit,137865.0,7282600.0,4,52.824139556812824,3,55,66,1816
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Credit,129350.0,5822700.0,3,45.015075376884425,3,35,66,1817
+Bandung,High End,No,No,Yes,Yes,Yes,Yes,Credit,137735.0,7952100.0,4,57.73478055686645,3,61,66,1818
+Jakarta,High End,Yes,Yes,Yes,Yes,Yes,Yes,Credit,151060.0,5843500.0,6,38.68330464716007,3,66,67,1819
+Jakarta,High End,Yes,No,Yes,Yes,Yes,Yes,Credit,141375.0,7170800.0,5,50.72183908045977,3,60,67,1820
+Jakarta,High End,Yes,Yes,Yes,No,Yes,No,Credit,133835.0,7306000.0,4,54.58960660514813,3,58,67,1821
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,135329.99999999997,6314100.0,4,46.657060518731996,3,48,67,1822
+Jakarta,High End,Yes,Yes,No,No,No,Yes,Credit,117780.0,5712200.0,3,48.498896247240616,3,41,67,1823
+Bandung,High End,Yes,Yes,Yes,Yes,Yes,Yes,Debit,153855.0,8131500.0,6,52.851711026615966,3,67,67,1824
+Bandung,High End,Yes,No,No,Yes,No,Yes,Credit,122655.0,5652400.000000001,3,46.08373078961315,3,34,67,1825
+Bandung,High End,No,Yes,Yes,No,No,No,Pulsa,113620.0,5747300.0,2,50.58352402745995,1,22,67,1826
+Jakarta,High End,Yes,Yes,Yes,No,Yes,Yes,Pulsa,144690.0,5389800.0,5,37.25067385444744,3,52,67,1827
+Jakarta,Mid End,Yes,No,Yes,No,Yes,Yes,Pulsa,103610.00000000001,8175700.000000001,4,78.90840652446674,3,58,67,1828
+Jakarta,High End,Yes,Yes,No,No,No,Yes,Credit,125515.0,7744100.0,3,61.698601760745724,3,44,68,1829
+Jakarta,High End,Yes,Yes,Yes,Yes,Yes,Yes,Pulsa,147095.0,5993000.0,6,40.74237737516571,3,56,68,1830
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,136890.00000000003,8169200.000000001,4,59.67711301044634,3,60,68,1831
+Jakarta,High End,No,No,No,No,Yes,No,Pulsa,107900.0,6128200.0,1,56.795180722891565,1,12,68,1832
+Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Debit,143000.0,6544200.0,5,45.763636363636365,3,60,68,1833
+Jakarta,High End,No,Yes,No,No,No,Yes,Debit,116479.99999999999,7346300.0,2,63.06919642857144,1,27,68,1834
+Bandung,High End,No,Yes,Yes,Yes,Yes,Yes,Pulsa,140985.0,5790200.0,5,41.069617335177504,3,53,68,1835
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Pulsa,130260.00000000001,5825300.0,3,44.72055888223552,3,37,68,1836
+Jakarta,Mid End,No,Yes,Yes,Yes,No,Yes,Debit,98540.0,6373900.000000001,4,64.68337730870714,3,48,68,1837
+Jakarta,High End,No,No,Yes,No,Yes,Yes,Credit,129285.0,5226000.0,3,40.42232277526395,0,32,69,1838
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,135135.00000000003,5567900.000000001,4,41.2025012025012,3,48,69,1839
+Jakarta,High End,No,Yes,No,No,Yes,No,Pulsa,116935.0,8271900.0,2,70.73929961089495,1,52,69,1840
+Jakarta,Mid End,Yes,Yes,Yes,Yes,No,Yes,Credit,102179.99999999999,8099000.0,5,79.26208651399492,3,71,69,1841
+Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Debit,135265.00000000003,5530200.0,5,40.88419029312829,3,56,69,1842
+Bandung,High End,No,Yes,No,Yes,Yes,Yes,Debit,136110.0,8255000.0,4,60.649474689589304,3,65,69,1843
+Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Debit,140920.00000000003,6120400.000000001,5,43.43173431734317,3,60,69,1844
+Jakarta,High End,No,No,Yes,Yes,Yes,Yes,Debit,138450.00000000003,6316700.0,4,45.6244131455399,3,54,69,1845
+Bandung,Mid End,No,No,No,No,Yes,Yes,Pulsa,58825.0,7571200.0,2,128.707182320442,1,16,70,1846
+Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Pulsa,142350.0,5448300.0,5,38.273972602739725,3,52,70,1847
+Jakarta,High End,Yes,No,No,Yes,Yes,Yes,Credit,135200.00000000003,5907200.0,4,43.692307692307686,3,43,70,1848
+Bandung,High End,Yes,Yes,Yes,Yes,Yes,Yes,Credit,150345.0,7231900.000000001,6,48.10203199308258,3,62,70,1849
+Jakarta,High End,Yes,Yes,Yes,Yes,No,No,Debit,122070.00000000001,8024900.000000001,4,65.74014909478169,3,68,70,1850
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,133835.0,6506500.0,4,48.61583292860612,3,48,70,1851
+Jakarta,Mid End,Yes,No,Yes,Yes,No,No,Credit,84890.0,7268300.0,3,85.62021439509954,1,33,70,1852
+Jakarta,High End,No,Yes,No,No,Yes,Yes,Debit,127790.0,6232200.0,3,48.76907426246185,3,44,70,1853
+Jakarta,High End,Yes,Yes,Yes,Yes,Yes,Yes,Credit,150215.0,6289400.000000001,6,41.86932064041541,3,66,70,1854
+Jakarta,High End,Yes,Yes,Yes,Yes,Yes,Yes,Debit,148460.0,7731100.0,6,52.0753064798599,3,62,70,1855
+Bandung,High End,Yes,Yes,Yes,Yes,Yes,Yes,Debit,142350.0,7976800.0,6,56.0365296803653,3,66,70,1856
+Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Credit,141180.0,6476600.0,5,45.874769797421735,3,61,71,1857
+Jakarta,High End,Yes,Yes,No,No,Yes,Yes,Credit,136630.0,7442500.0,4,54.47193149381541,3,56,71,1858
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Debit,137800.0,5293600.0,4,38.41509433962264,3,49,71,1859
+Bandung,High End,Yes,No,Yes,Yes,Yes,Yes,Pulsa,140465.0,6760000.0,5,48.12586765386395,3,51,71,1860
+Jakarta,Mid End,No,Yes,No,No,Yes,Yes,Pulsa,64155.0,6342700.0,3,98.86524822695036,1,31,71,1861
+Jakarta,High End,No,No,No,No,Yes,Yes,Debit,121810.0,5584800.0,2,45.84845250800427,1,23,71,1862
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Debit,135395.0,7702500.0,4,56.88910225636102,3,51,72,1863
+Jakarta,High End,No,Yes,Yes,Yes,Yes,Yes,Pulsa,142025.0,5539300.0,5,39.00228832951945,3,53,72,1864
+Jakarta,Mid End,Yes,Yes,Yes,Yes,Yes,Yes,Credit,120185.0,7406100.0,6,61.622498647917794,3,57,72,1865
+Jakarta,Mid End,No,Yes,Yes,No,Yes,Yes,Pulsa,70460.00000000001,5825300.0,4,82.67527675276752,3,42,72,1866
+Jakarta,High End,Yes,Yes,Yes,Yes,Yes,Yes,Debit,153140.00000000003,5761600.0,6,37.62308998302206,3,65,72,1867
+Jakarta,High End,No,Yes,Yes,No,Yes,Yes,Pulsa,134420.00000000003,6571500.0,4,48.88781431334622,3,48,72,1868
