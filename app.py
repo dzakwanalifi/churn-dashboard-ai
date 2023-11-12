@@ -23,7 +23,8 @@ km_model = pickle.load(open('Model/cluster.pkl', 'rb'))
 
 st.set_page_config(layout="wide")
 
-st.markdown("<h1 style='text-align: center;'>Telco Customer Dashboard</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>CRAIDS</h1>", unsafe_allow_html=True)
+st.markdown("<h3 style='text-align: center;'>Customer Retention - AI Dynamics Dashboard</h3>", unsafe_allow_html=True)
 
 # Create a horizontal menu with the 'option_menu' custom component
 selected2 = option_menu(None, ["Churn Analysis", "Customer Analysis", "Prediction", "Model Evaluation"], 
@@ -41,9 +42,9 @@ if selected2 == "Churn Analysis":
     </tableau-viz>
     """
 
-    # Use the html method to embed the Tableau dashboard
-    html(tableau_html, height=620)
-
+    with st.columns([1, 100, 1])[1]:
+        html(tableau_html, height=670)
+    
     st.header('Chatbot')
     
     st.session_state.openai_key = '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'
@@ -87,8 +88,8 @@ elif selected2 == "Customer Analysis":
     </tableau-viz>
     """
 
-    # Use the html method to embed the Tableau dashboard
-    html(tableau_html, height=620)
+    with st.columns([1, 100, 1])[1]:
+        html(tableau_html, height=670)
 
     st.header('Chatbot')
     
@@ -126,6 +127,8 @@ elif selected2 == "Prediction":
     # Tenure Month Prediction Page
     st.header("Tenure Month Prediction")
     
+    df_sample = pd.read_excel("Data/Telco_customer_churn_adapted_v2.xlsx")
+
     uploaded_file = st.file_uploader("Choose a file")
 
     if uploaded_file is not None:
@@ -212,6 +215,8 @@ elif selected2 == "Prediction":
             st.error(f"An error occurred: {e}")
 
     if uploaded_file is None:
+        st.download_button("Download Sample Data", data=df_sample.to_csv(index=False), file_name='sample_data.csv')
+
         # Define the form and its fields
         with st.form(key='prediction_form'):
             # Create columns for the input fields
