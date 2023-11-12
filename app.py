@@ -11,7 +11,6 @@ import matplotlib.image as plt
 import os
 import plotly.figure_factory as ff
 import plotly.express as px
-from config import OPENAI_API_KEY
 
 os.environ['OPENAI_API_KEY'] = st.secrets['OPENAI_API_KEY']
 
