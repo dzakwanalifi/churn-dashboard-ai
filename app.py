@@ -34,16 +34,23 @@ selected2 = option_menu(None, ["Churn Analysis", "Customer Analysis", "Predictio
 if selected2 == "Churn Analysis":
     # The HTML content to be embedded
     tableau_html = """
-    <html>
+<!DOCTYPE html>
+<html>
 <head>
     <script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
     <style>
         /* CSS untuk mengatur elemen di tengah */
         .center {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh; /* Untuk mengisi seluruh tinggi tampilan layar */
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        /* CSS untuk membuat elemen responsif */
+        #tableauViz {
+            max-width: 100%; /* Maksimum lebar elemen */
+            max-height: 100%; /* Maksimum tinggi elemen */
         }
     </style>
 </head>
@@ -58,6 +65,7 @@ if selected2 == "Churn Analysis":
     </div>
 </body>
 </html>
+
     """
 
     with st.columns([1, 100, 1])[1]:
@@ -98,17 +106,23 @@ if selected2 == "Churn Analysis":
 elif selected2 == "Customer Analysis":
     # The HTML content to be embedded
     tableau_html = """
-    <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
     <script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
     <style>
         /* CSS untuk mengatur elemen di tengah */
         .center {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh; /* Untuk mengisi seluruh tinggi tampilan layar */
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        /* CSS untuk membuat elemen responsif */
+        #tableauViz {
+            max-width: 100%; /* Maksimum lebar elemen */
+            max-height: 100%; /* Maksimum tinggi elemen */
         }
     </style>
 </head>
