@@ -73,7 +73,7 @@ if selected2 == "Churn Analysis":
     
     st.header('Chatbot')
     
-    st.session_state.openai_key = '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'
+    st.session_state.openai_key = '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'
     st.session_state.prompt_history = []
     st.session_state.df = None
 
@@ -145,7 +145,7 @@ elif selected2 == "Customer Analysis":
 
     st.header('Chatbot')
     
-    st.session_state.openai_key = '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'
+    st.session_state.openai_key = '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'
     st.session_state.prompt_history = []
     st.session_state.df = None
 
