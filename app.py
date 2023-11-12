@@ -11,6 +11,9 @@ import matplotlib.image as plt
 import os
 import plotly.figure_factory as ff
 import plotly.express as px
+from config import OPENAI_API_KEY
+
+os.environ['OPENAI_API_KEY'] = st.secrets['OPENAI_API_KEY']
 
 # Load your trained CatBoost model
 model_cb = pickle.load(open('Model/model_cb.pkl', 'rb'))
@@ -73,7 +76,7 @@ if selected2 == "Churn Analysis":
     
     st.header('Chatbot')
     
-    st.session_state.openai_key = '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'
+    st.session_state.openai_key = os.environ['OPENAI_API_KEY']
     st.session_state.prompt_history = []
     st.session_state.df = None
 
@@ -145,7 +148,7 @@ elif selected2 == "Customer Analysis":
 
     st.header('Chatbot')
     
-    st.session_state.openai_key = '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'
+    st.session_state.openai_key = os.environ['OPENAI_API_KEY']
     st.session_state.prompt_history = []
     st.session_state.df = None
 
