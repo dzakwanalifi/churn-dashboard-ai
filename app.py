@@ -34,12 +34,30 @@ selected2 = option_menu(None, ["Churn Analysis", "Customer Analysis", "Predictio
 if selected2 == "Churn Analysis":
     # The HTML content to be embedded
     tableau_html = """
+    <html>
+<head>
     <script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
-    <tableau-viz id="tableauViz"
-    src='https://public.tableau.com/views/Cobacoba_16991773227830/Dashboard1'
-    device="desktop"
-    toolbar="hidden" hide-tabs>
-    </tableau-viz>
+    <style>
+        /* CSS untuk mengatur elemen di tengah */
+        .center {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh; /* Untuk mengisi seluruh tinggi tampilan layar */
+        }
+    </style>
+</head>
+<body>
+    <!-- Membungkus elemen dengan div yang memiliki kelas "center" -->
+    <div class="center">
+        <tableau-viz id="tableauViz"
+        src='https://public.tableau.com/views/Cobacoba_16991773227830/Dashboard1'
+        device="desktop"
+        toolbar="hidden" hide-tabs>
+        </tableau-viz>
+    </div>
+</body>
+</html>
     """
 
     with st.columns([1, 100, 1])[1]:
@@ -80,12 +98,32 @@ if selected2 == "Churn Analysis":
 elif selected2 == "Customer Analysis":
     # The HTML content to be embedded
     tableau_html = """
+    <!DOCTYPE html>
+<html>
+<head>
     <script type="module" src="https://public.tableau.com/javascripts/api/tableau.embedding.3.latest.min.js"></script>
-    <tableau-viz id="tableauViz"
-    src='https://public.tableau.com/views/DashboardCustomerOverview_16996880518420/Dashboard2'
-    device="desktop"
-    toolbar="hidden" hide-tabs>
-    </tableau-viz>
+    <style>
+        /* CSS untuk mengatur elemen di tengah */
+        .center {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh; /* Untuk mengisi seluruh tinggi tampilan layar */
+        }
+    </style>
+</head>
+<body>
+    <!-- Membungkus elemen dengan div yang memiliki kelas "center" -->
+    <div class="center">
+        <tableau-viz id="tableauViz"
+        src='https://public.tableau.com/views/DashboardCustomerOverview_16996880518420/Dashboard2'
+        device="desktop"
+        toolbar="hidden" hide-tabs>
+        </tableau-viz>
+    </div>
+</body>
+</html>
+
     """
 
     with st.columns([1, 100, 1])[1]:
