@@ -23,7 +23,9 @@ scaler = pickle.load(open('Model/scaler.pkl', 'rb'))
 #load kmeans model
 km_model = pickle.load(open('Model/cluster.pkl', 'rb'))
 
-st.set_page_config(layout="wide")
+st.set_page_config(page_title="CRAIDS",
+                   page_icon="🔍",
+                   layout="wide")
 
 st.markdown("<h1 style='text-align: center;'>CRAIDS</h1>", unsafe_allow_html=True)
 st.markdown("<h3 style='text-align: center;'>Customer Retention - AI Dynamics Dashboard</h3>", unsafe_allow_html=True)
