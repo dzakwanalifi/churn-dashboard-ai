@@ -60,7 +60,7 @@ if selected2 == "Churn Analysis":
     <!-- Membungkus elemen dengan div yang memiliki kelas "center" -->
     <div class="center">
         <tableau-viz id="tableauViz"
-        src='https://public.tableau.com/views/Cobacoba_16991773227830/Dashboard1'
+        src='https://public.tableau.com/views/CustomerChurnDashboard_16998481467460/Dashboard1'
         device="desktop"
         toolbar="hidden" hide-tabs>
         </tableau-viz>
@@ -178,8 +178,8 @@ elif selected2 == "Customer Analysis":
         st.session_state.df = None
 
 elif selected2 == "Prediction":
-    # Tenure Month Prediction Page
-    st.header("Tenure Month Prediction")
+    # Tenure Months Prediction Page
+    st.header("Tenure Months to Churn Prediction")
     
     df_sample = pd.read_excel("Data/Telco_customer_churn_adapted_v2.xlsx")
 
@@ -334,7 +334,7 @@ elif selected2 == "Prediction":
             prediction = model_cb.predict(input_data)
 
             # Display the prediction
-            st.metric(label='Predicted Tenure Month to Churn', value=f"{int(prediction)} Month")    
+            st.metric(label='Predicted Tenure Months to Churn', value=f"{int(prediction)} Month")    
 elif selected2 == "Model Evaluation":
     # load df_churn.csv as df
     df = pd.read_csv('Data/df_churn.csv')
@@ -342,15 +342,15 @@ elif selected2 == "Model Evaluation":
     df.sort_values(by=['Tenure Months'], inplace=True, ascending=True)
     
     # rename tenure month names variables to tenure month customer
-    df.rename(columns={'Tenure Months': 'Tenure Month Customer'}, inplace=True)
+    df.rename(columns={'Tenure Months': 'Tenure Months Churn Customer'}, inplace=True)
 
     # create index after sort
     df['Index'] = np.arange(len(df))
 
     # show mae and r2 score and show using st.metric
-    mae = round(np.mean(abs(df['Predicted Tenure Months to Churn'] - df['Tenure Month Customer'])), 2)
-    r2 = round(1 - (np.sum((df['Tenure Month Customer'] - df['Predicted Tenure Months to Churn'])**2) / np.sum((df['Tenure Month Customer'] - np.mean(df['Tenure Month Customer']))**2)), 2)
-    mse = round(np.mean((df['Tenure Month Customer'] - df['Predicted Tenure Months to Churn'])**2), 2)
+    mae = round(np.mean(abs(df['Predicted Tenure Months to Churn'] - df['Tenure Months Churn Customer'])), 2)
+    r2 = round(1 - (np.sum((df['Tenure Months Churn Customer'] - df['Predicted Tenure Months to Churn'])**2) / np.sum((df['Tenure Months Churn Customer'] - np.mean(df['Tenure Months Churn Customer']))**2)), 2)
+    mse = round(np.mean((df['Tenure Months Churn Customer'] - df['Predicted Tenure Months to Churn'])**2), 2)
 
     st.header('Model Evaluation')
 
@@ -363,7 +363,7 @@ elif selected2 == "Model Evaluation":
         st.metric(label='R2', value=r2)
         
     # buat line chart 'Predicted Tenure Months to Churn', 'Tenure Months' dengan plotly
-    fig1 = px.scatter(df,x='Index', y=['Predicted Tenure Months to Churn', 'Tenure Month Customer'],
+    fig1 = px.scatter(df,x='Index', y=['Predicted Tenure Months to Churn', 'Tenure Months Churn Customer'],
                         title='Predicted Tenure Months to Churn vs Tenure Months')
 
     fig1.update_layout(legend=dict(
